@@ -280,7 +280,7 @@
             }).join('');
         }
         
-        // Arama fonksiyonu
+        // EN basit çözüm!
         function searchProducts(query) {
             const welcomeMessage = document.getElementById('welcomeMessage');
             
@@ -293,11 +293,14 @@
             
             welcomeMessage.style.display = 'none';
             
-            const searchTerm = query.toLowerCase().trim();
-            const filteredProducts = allProducts.filter(product => 
-                product.urun_adi.toLowerCase().includes(searchTerm) ||
-                product.urun_kodu.toLowerCase().includes(searchTerm)
-            );
+            // Türkçe locale ile lowercase yap
+            const searchTerm = query.toLocaleLowerCase('tr-TR').trim();
+            const filteredProducts = allProducts.filter(product => {
+                const productName = product.urun_adi.toLocaleLowerCase('tr-TR');
+                const productCode = product.urun_kodu.toLowerCase(); // Kod için normal lowercase yeterli
+                
+                return productName.includes(searchTerm) || productCode.includes(searchTerm);
+            });
             
             displayProducts(filteredProducts);
         }
