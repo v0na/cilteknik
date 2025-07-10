@@ -279,10 +279,15 @@
                 return;
             }
             
+            // Stok durumuna göre sırala: stokta olanlar üstte, olmayanlar altta
+            const sortedProducts = [...productList].sort((a, b) => {
+                return b.stok_durumu.localeCompare(a.stok_durumu);
+            });
+            
             countElement.textContent = `${productList.length} ürün bulundu`;
             countElement.style.display = 'block';
             
-            grid.innerHTML = productList.map(product => {
+            grid.innerHTML = sortedProducts.map(product => {
                 const imageUrl = baseImageUrl + product.resim;
                 const price = parseFloat(product.fiyat.replace(',', '.')).toFixed(2);
                 const tlPrice = parseFloat(product.tl_liste_fiyati.replace(',', '.')).toFixed(2);
