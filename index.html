@@ -246,7 +246,18 @@
                 // Son güncelleme tarihini göster
                 const lastUpdatedElement = document.getElementById('lastUpdated');
                 if (jsonData.last_updated) {
-                    lastUpdatedElement.textContent = `Son güncelleme: ${jsonData.last_updated}`;
+                    // UTC tarihini düzgün parse edip TR timezone'ına çevir
+                    const utcDate = new Date(jsonData.last_updated + 'Z'); // Z = UTC indicator
+                    const trTime = utcDate.toLocaleString('tr-TR', {
+                        timeZone: 'Europe/Istanbul',
+                        year: 'numeric',
+                        month: '2-digit',
+                        day: '2-digit',
+                        hour: '2-digit',
+                        minute: '2-digit',
+                        second: '2-digit'
+                    });
+                    lastUpdatedElement.textContent = `Son güncelleme: ${trTime}`;
                 } else {
                     lastUpdatedElement.textContent = '';
                 }

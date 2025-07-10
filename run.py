@@ -134,7 +134,7 @@ if login_response.status_code == 200:
         
         # Create the final JSON structure with timestamp
         result = {
-            "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "last_updated": datetime.now(datetime.UTC).strftime("%Y-%m-%d %H:%M:%S"),
             "data": urunler
         }
         
