@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Arama</title>
+    <title>Hak Ticaret - Çil Teknik Ürün Arama</title>
     <style>
         * {
             margin: 0;
@@ -13,7 +13,7 @@
 
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #4682B4 0%, #1e3a8a 100%);
             min-height: 100vh;
             padding: 20px;
         }
@@ -97,6 +97,11 @@
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
             gap: 25px;
+        }
+
+        .products-grid .no-results {
+            grid-column: 1 / -1; /* Grid'in tüm kolonlarını kapla */
+            text-align: center; /* Tekrar center yap */
         }
 
         .product-card {
@@ -192,8 +197,8 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>Ürün Arama</h1>
-            <p>Aradığınız ürünü bulmak için yazmaya başlayın</p>
+            <h1>Hak Ticaret</h1>
+            <p>Çil Teknik Ürün Arama Yardımcısı</p>
         </div>
         
         <div class="search-section">
