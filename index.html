@@ -45,6 +45,7 @@
             font-size: 14px;
             opacity: 0.8;
             font-weight: 300;
+            text-align: right;
         }
 
         .search-section {
@@ -149,6 +150,11 @@
             color: #2C3E50;
             margin-bottom: 12px;
             line-height: 1.4;
+            height: 44px; /* 2 satır için sabit yükseklik (16px * 1.4 * 2 = ~44px) */
+            overflow: hidden;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
         }
 
         .product-price {
@@ -302,26 +308,55 @@
                 const imageUrl = baseImageUrl + product.resim;
                 const price = parseFloat(product.fiyat.replace(',', '.')).toFixed(2);
                 const tlPrice = parseFloat(product.tl_liste_fiyati.replace(',', '.')).toFixed(2);
+                const baseTlPrice = parseFloat(product.tl_liste_fiyati.replace(',', '.'));
+                const priceWithKdv = baseTlPrice * 1.20; // %20 KDV ekle
+                const rawSalePrice = priceWithKdv * 1.50; // %50 kar ekle
+                
+                // 5'e veya 0'a yuvarlama fonksiyonu
+                const roundToFiveOrZero = (price) => {
+                    const rounded = Math.round(price);
+                    const lastDigit = rounded % 10;
+                    
+                    if (lastDigit <= 2) {
+                        return Math.floor(rounded / 10) * 10; // 0'a yuvarla
+                    } else if (lastDigit <= 7) {
+                        return Math.floor(rounded / 10) * 10 + 5; // 5'e yuvarla
+                    } else {
+                        return Math.ceil(rounded / 10) * 10; // Bir üst 10'luğa yuvarla
+                    }
+                };
+                
+                const salePrice = roundToFiveOrZero(rawSalePrice);
                 
                 return `
                     <div class="product-card">
-                        <img src="${imageUrl}" alt="${product.urun_adi}" class="product-image" 
-                             onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiBmaWxsPSIjRjVGNUY1Ii8+CjxwYXRoIGQ9Ik0xMDAgNzBDMTA2LjYyNyA3MCA5Mi41IDc2LjM1IDEwMCA4NUMxMDcuNSA3Ni4zNSAxMTMuMzczIDcwIDEwMCA3MFoiIGZpbGw9IiNDQ0MiLz4KPHBhdGggZD0iTTcwIDExMEMxMDAgMTEwIDEzMCAxMTAgMTMwIDEzMEM4MCAyMDAgMTIwIDIwMCA3MCAyMDBDNzAgMTY1IDcwIDEzNSA3MCAxMTBaIiBmaWxsPSIjQ0NDIi8+Cjx0ZXh0IHg9IjEwMCIgeT0iMTUwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjOTk5IiBmb250LXNpemU9IjEyIj5SZXNpbSBZw7xrbGVuZW1lZGk8L3RleHQ+Cjwvc3ZnPgo='">
+                        <div style="position: relative;">
+                            <img src="${imageUrl}" alt="${product.urun_adi}" class="product-image" 
+                                 onerror="this.src='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIyMDAiIGhlaWdodD0iMjAwIiBmaWxsPSIjRjVGNUY1Ii8+CjxwYXRoIGQ9Ik0xMDAgNzBDMTA2LjYyNyA3MCA5Mi41IDc2LjM1IDEwMCA4NUMxMDcuNSA3Ni4zNSAxMTMuMzczIDcwIDEwMCA3MFoiIGZpbGw9IiNDQ0MiLz4KPHBhdGggZD0iTTcwIDExMEMxMDAgMTEwIDEzMCAxMTAgMTMwIDEzMEM4MCAyMDAgMTIwIDIwMCA3MCAyMDBDNzAgMTY1IDcwIDEzNSA3MCAxMTBaIiBmaWxsPSIjQ0NDIi8+Cjx0ZXh0IHg9IjEwMCIgeT0iMTUwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjOTk5IiBmb250LXNpemU9IjEyIj5SZXNpbSBZw7xrbGVuZW1lZGk8L3RleHQ+Cjwvc3ZnPgo='">
+                            <div style="position: absolute; top: 8px; right: 8px; font-size: 11px; padding: 4px 8px; border-radius: 8px; font-weight: 500; backdrop-filter: blur(5px); ${product.stok_durumu === '1' ? 'background: rgba(212, 237, 218, 0.9); color: #155724;' : 'background: rgba(248, 215, 218, 0.9); color: #721c24;'}">
+                                ${product.stok_durumu === '1' ? '✓ Stokta' : '✗ Stokta Yok'}
+                            </div>
+                        </div>
                         <div class="product-info">
                             <div class="product-code">${product.urun_kodu}</div>
                             <div class="product-name">${product.urun_adi}</div>
                             <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 12px;">
                                 <div>
                                     <div class="product-price" style="margin-bottom: 4px;">
-                                        $${price}
+                                        ${price}
                                         <span style="font-size: 14px; color: #666;">${product.fiyat_birimi}</span>
                                     </div>
                                     <div style="font-size: 16px; color: #e74c3c; font-weight: 600;">
-                                        ₺${tlPrice}
+                                        ₺${parseFloat(tlPrice).toLocaleString('tr-TR')}
                                     </div>
                                 </div>
-                                <div style="font-size: 12px; padding: 6px 12px; border-radius: 12px; font-weight: 500; ${product.stok_durumu === '1' ? 'background: #d4edda; color: #155724;' : 'background: #f8d7da; color: #721c24;'}">
-                                    ${product.stok_durumu === '1' ? '✓ Stokta' : '✗ Stokta Yok'}
+                                <div style="text-align: right;">
+                                    <div style="font-size: 20px; color: #3498db; font-weight: 600;">
+                                        ₺${salePrice.toLocaleString('tr-TR')}
+                                    </div>
+                                    <div style="font-size: 12px; color: #666; margin-top: 2px;">
+                                        Satış Fiyatı
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -330,6 +365,27 @@
             }).join('');
         }
         
+        // Türkçe karakter normalizasyonu fonksiyonu
+        function normalizeText(text) {
+            return text
+                .normalize('NFD') // Unicode normalizasyon (combining karakterleri ayır)
+                .replace(/[\u0300-\u036f]/g, '') // Combining karakterleri kaldır (nokta, vb.)
+                .toLowerCase()
+                .replace(/ı/g, 'i')
+                .replace(/İ/g, 'i')
+                .replace(/I/g, 'i')
+                .replace(/ş/g, 's')
+                .replace(/Ş/g, 's')
+                .replace(/ğ/g, 'g')
+                .replace(/Ğ/g, 'g')
+                .replace(/ü/g, 'u')
+                .replace(/Ü/g, 'u')
+                .replace(/ö/g, 'o')
+                .replace(/Ö/g, 'o')
+                .replace(/ç/g, 'c')
+                .replace(/Ç/g, 'c');
+        }
+
         // Akıllı kelime bazlı arama
         function searchProducts(query) {
             const welcomeMessage = document.getElementById('welcomeMessage');
@@ -343,17 +399,16 @@
             
             welcomeMessage.style.display = 'none';
             
-            // Arama terimini kelimelere böl ve temizle
-            const searchTerms = query.toLocaleLowerCase('tr-TR').trim()
-                .split(/\s+/) // Boşluklardan böl
-                .filter(term => term.length >= 1); // En az 1 karakter olsun
+            // Kelimeli arama: tüm kelimeler/parçalar bulunmalı
+            const normalizedQuery = normalizeText(query.trim());
             
             const filteredProducts = allProducts.filter(product => {
-                const productName = product.urun_adi.toLocaleLowerCase('tr-TR');
-                const productCode = product.urun_kodu.toLowerCase();
+                const productName = normalizeText(product.urun_adi);
+                const productCode = normalizeText(product.urun_kodu);
                 const searchableText = productName + ' ' + productCode;
                 
-                // Tüm arama terimlerinin ürün adında veya kodunda olması gerekiyor
+                // Kelimelere böl ve her birinin bulunup bulunmadığını kontrol et
+                const searchTerms = normalizedQuery.split(/\s+/).filter(term => term.length >= 1);
                 return searchTerms.every(term => searchableText.includes(term));
             });
             
