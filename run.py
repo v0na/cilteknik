@@ -73,8 +73,7 @@ if login_response.status_code == 200:
         for tr in soup.find_all("tr"):
             try:
                 img_tag = tr.find("img")
-                img_url = img_tag["src"] if img_tag else ""
-
+                img_url = img_tag.find_parent("a")["href"] if img_tag and img_tag.find_parent("a") else ""
                 urun_kodu_td = tr.find_all("td")[2]
                 urun_kodu = urun_kodu_td.get_text(strip=True)
 
