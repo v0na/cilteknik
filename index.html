@@ -285,7 +285,7 @@
             }).join('');
         }
         
-        // EN basit çözüm!
+        // Akıllı kelime bazlı arama
         function searchProducts(query) {
             const welcomeMessage = document.getElementById('welcomeMessage');
             
@@ -298,13 +298,18 @@
             
             welcomeMessage.style.display = 'none';
             
-            // Türkçe locale ile lowercase yap
-            const searchTerm = query.toLocaleLowerCase('tr-TR').trim();
+            // Arama terimini kelimelere böl ve temizle
+            const searchTerms = query.toLocaleLowerCase('tr-TR').trim()
+                .split(/\s+/) // Boşluklardan böl
+                .filter(term => term.length >= 1); // En az 1 karakter olsun
+            
             const filteredProducts = allProducts.filter(product => {
                 const productName = product.urun_adi.toLocaleLowerCase('tr-TR');
-                const productCode = product.urun_kodu.toLowerCase(); // Kod için normal lowercase yeterli
+                const productCode = product.urun_kodu.toLowerCase();
+                const searchableText = productName + ' ' + productCode;
                 
-                return productName.includes(searchTerm) || productCode.includes(searchTerm);
+                // Tüm arama terimlerinin ürün adında veya kodunda olması gerekiyor
+                return searchTerms.every(term => searchableText.includes(term));
             });
             
             displayProducts(filteredProducts);
