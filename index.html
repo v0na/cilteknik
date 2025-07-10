@@ -320,8 +320,18 @@
             searchProducts(e.target.value);
         });
         
-        // Sayfa yüklendiğinde ürünleri yükle
-        window.addEventListener('load', loadProducts);
+        // Sayfa yüklendiğinde ürünleri yükle ve arama kutusunu seç
+        window.addEventListener('load', function() {
+            loadProducts();
+            // Arama kutusunu otomatik seç
+            document.getElementById('searchInput').focus();
+            
+            // Her saat başı JSON'i yeniden yükle (3600000 ms = 1 saat)
+            setInterval(function() {
+                console.log('Ürün verileri güncelleniyor...');
+                loadProducts();
+            }, 3600000);
+        });
     </script>
 </body>
 </html>
