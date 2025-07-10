@@ -295,12 +295,19 @@
                         <div class="product-info">
                             <div class="product-code">${product.urun_kodu}</div>
                             <div class="product-name">${product.urun_adi}</div>
-                            <div class="product-price">
-                                $${price}
-                                <span style="font-size: 14px; color: #666;">${product.fiyat_birimi}</span>
-                            </div>
-                            <div style="font-size: 16px; color: #e74c3c; margin-top: 5px; font-weight: 600;">
-                                ₺${tlPrice}
+                            <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 12px;">
+                                <div>
+                                    <div class="product-price" style="margin-bottom: 4px;">
+                                        $${price}
+                                        <span style="font-size: 14px; color: #666;">${product.fiyat_birimi}</span>
+                                    </div>
+                                    <div style="font-size: 16px; color: #e74c3c; font-weight: 600;">
+                                        ₺${tlPrice}
+                                    </div>
+                                </div>
+                                <div style="font-size: 12px; padding: 6px 12px; border-radius: 12px; font-weight: 500; ${product.stok_durumu === '1' ? 'background: #d4edda; color: #155724;' : 'background: #f8d7da; color: #721c24;'}">
+                                    ${product.stok_durumu === '1' ? '✓ Stokta' : '✗ Stokta Yok'}
+                                </div>
                             </div>
                         </div>
                     </div>
