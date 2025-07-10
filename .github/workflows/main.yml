@@ -1,0 +1,38 @@
+name: Run Product Scraper
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Her saat başı UTC
+  workflow_dispatch:     # Manuel tetikleme desteği
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    environment: env
+    env:
+      CILT_KULLANICI: ${{ secrets.CILT_KULLANICI }}
+      CILT_SIFRE: ${{ secrets.CILT_SIFRE }}
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml
+
+      - name: Run the scraper
+        run: python run.py
+
+      - name: Commit and push updated JSON
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add urunler.json
+          git commit -m "Update scraped product list" || echo "No changes"
+          git push
