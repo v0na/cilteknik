@@ -246,8 +246,7 @@
                 // Son güncelleme tarihini göster
                 const lastUpdatedElement = document.getElementById('lastUpdated');
                 if (jsonData.last_updated) {
-                    const updateDate = new Date(jsonData.last_updated);
-                    lastUpdatedElement.textContent = `Son güncelleme: ${updateDate.toLocaleDateString('tr-TR')} ${updateDate.toLocaleTimeString('tr-TR')}`;
+                    lastUpdatedElement.textContent = `Son güncelleme: ${jsonData.last_updated}`;
                 } else {
                     lastUpdatedElement.textContent = '';
                 }
