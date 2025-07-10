@@ -40,6 +40,13 @@
             font-weight: 300;
         }
 
+        .last-updated {
+            margin-top: 10px;
+            font-size: 14px;
+            opacity: 0.8;
+            font-weight: 300;
+        }
+
         .search-section {
             padding: 30px;
             background: #f8f9fa;
@@ -199,6 +206,7 @@
         <div class="header">
             <h1>Hak Ticaret</h1>
             <p>Çil Teknik Ürün Arama Yardımcısı</p>
+            <div id="lastUpdated" class="last-updated">Veriler yükleniyor...</div>
         </div>
         
         <div class="search-section">
@@ -231,8 +239,18 @@
                 const response = await fetch('urunler.json');
                 if (!response.ok) throw new Error('JSON dosyası yüklenemedi');
                 
-                allProducts = await response.json();
+                const jsonData = await response.json();
+                allProducts = jsonData.data; // data bölümünden ürünleri al
                 products = allProducts;
+                
+                // Son güncelleme tarihini göster
+                const lastUpdatedElement = document.getElementById('lastUpdated');
+                if (jsonData.last_updated) {
+                    const updateDate = new Date(jsonData.last_updated);
+                    lastUpdatedElement.textContent = `Son güncelleme: ${updateDate.toLocaleDateString('tr-TR')} ${updateDate.toLocaleTimeString('tr-TR')}`;
+                } else {
+                    lastUpdatedElement.textContent = '';
+                }
                 
                 document.getElementById('loadingMessage').style.display = 'none';
                 document.getElementById('welcomeMessage').style.display = 'block';
@@ -241,6 +259,7 @@
                 console.error('Ürünler yüklenirken hata:', error);
                 document.getElementById('loadingMessage').innerHTML = 
                     '<div class="error-message">❌ Ürünler yüklenirken bir hata oluştu. Lütfen sayfayı yenileyin.</div>';
+                document.getElementById('lastUpdated').textContent = 'Veriler yüklenemedi';
             }
         }
         
@@ -267,6 +286,7 @@
             grid.innerHTML = productList.map(product => {
                 const imageUrl = baseImageUrl + product.resim;
                 const price = parseFloat(product.fiyat.replace(',', '.')).toFixed(2);
+                const tlPrice = parseFloat(product.tl_liste_fiyati.replace(',', '.')).toFixed(2);
                 
                 return `
                     <div class="product-card">
@@ -278,6 +298,9 @@
                             <div class="product-price">
                                 $${price}
                                 <span style="font-size: 14px; color: #666;">${product.fiyat_birimi}</span>
+                            </div>
+                            <div style="font-size: 16px; color: #e74c3c; margin-top: 5px; font-weight: 600;">
+                                ₺${tlPrice}
                             </div>
                         </div>
                     </div>

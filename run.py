@@ -3,7 +3,7 @@ import re
 import json
 import os
 from bs4 import BeautifulSoup
-
+from datetime import datetime
 
 # Define the URL for the initial login request
 login_url = 'https://cilteknik.com/'
@@ -66,7 +66,7 @@ if login_response.status_code == 200:
         html = products_response.text
 
 
-        soup = BeautifulSoup(html, "lxml")
+        soup = BeautifulSoup(html, "html.parser")
 
         urunler = []
 
@@ -81,16 +81,41 @@ if login_response.status_code == 200:
                 urun_id = detay_link["href"].split("/")[-1]
                 urun_adi = detay_link.get_text(strip=True)
 
+                # Parse price information from button data-content
                 button = tr.find("button", attrs={"data-content": True})
                 fiyat = ""
                 fiyat_birimi = ""
+                tl_liste_fiyati = ""
                 if button:
                     data_content = button["data-content"]
-                    import re
+                    # Original price (Liste Fiyatı)
                     match = re.search(r"Liste Fiyatı:\s*([\d,]+)\s*(EURO|USD|TL)", data_content)
                     if match:
                         fiyat = match.group(1)
-                        curr = match.group(2)
+                        fiyat_birimi = match.group(2)
+                    
+                    # TL list price (TL Liste Fiyatı)
+                    tl_match = re.search(r"TL Liste Fiyatı:\s*([\d,]+)\s*TL", data_content)
+                    if tl_match:
+                        tl_liste_fiyati = tl_match.group(1)
+
+                # Check stock status based on icon class
+                stok_durumu = "0"  # default value
+                
+                # Look for the stock status cell (usually has the icon in an <a> tag)
+                stock_cells = tr.find_all("td")
+                for cell in stock_cells:
+                    # Look for icon in this cell
+                    icon = cell.find("i")
+                    if icon:
+                        icon_classes = icon.get("class", [])
+                        # Skip info icons from price popups, only look for stock status icons
+                        if "icon-checkmark4" in icon_classes:
+                            stok_durumu = "1"
+                            break
+                        elif "icon-cross2" in icon_classes:
+                            stok_durumu = "0"
+                            break
 
                 urunler.append({
                     "urun_kodu": urun_kodu,
@@ -98,14 +123,22 @@ if login_response.status_code == 200:
                     "urun_id": urun_id,
                     "resim": img_url,
                     "fiyat": fiyat,
-                    "fiyat_birimi": curr
+                    "fiyat_birimi": fiyat_birimi,
+                    "tl_liste_fiyati": tl_liste_fiyati,
+                    "stok_durumu": stok_durumu
                 })
 
 
             except Exception as e:
                 continue  # Bazı tr'ler boş olabilir, atla
         
-        json.dump(urunler, open("urunler.json", "w", encoding="utf-8"), ensure_ascii=False, indent=4)
+        # Create the final JSON structure with timestamp
+        result = {
+            "last_updated": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "data": urunler
+        }
+        
+        json.dump(result, open("urunler.json", "w", encoding="utf-8"), ensure_ascii=False, indent=4)
         print("file saved!")
     else:
         print(f"Failed to access the products page. Status code: {products_response.status_code}")
