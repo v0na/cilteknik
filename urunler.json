@@ -1,0 +1,6498 @@
+[
+    {
+        "urun_kodu": "B0004025",
+        "urun_adi": "FSTB K50 P1125 VİTRİN TERMOSTAT",
+        "urun_id": "882",
+        "resim": "/images/Urun_min/1d749331-3.jpg",
+        "fiyat": "2,84",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004026",
+        "urun_adi": "FSTB K50 P1127 HAVUZ TERMOSTAT",
+        "urun_id": "883",
+        "resim": "/images/Urun_min/d293945f-6.jpg",
+        "fiyat": "2,84",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004027",
+        "urun_adi": "FSTB VT9 1,2mt. ÜÇ UÇLU TERMOSTAT",
+        "urun_id": "884",
+        "resim": "/images/Urun_min/c239059a-3.jpg",
+        "fiyat": "2,99",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000512",
+        "urun_adi": "FAN MOTORU PERVANE 200mm 25 DERECE EMİCİ",
+        "urun_id": "1",
+        "resim": "/images/Urun_min/f25b1603-8.jpg",
+        "fiyat": "1,3",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000513",
+        "urun_adi": "FAN MOTORU PERVANE 250mm 22 DERECE EMİCİ",
+        "urun_id": "2",
+        "resim": "/images/Urun_min/3f70c565-1.jpg",
+        "fiyat": "2,05",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000514",
+        "urun_adi": "FAN MOTORU PERVANE 300mm 22 DERECE EMİCİ",
+        "urun_id": "3",
+        "resim": "/images/Urun_min/8b62c9c5-5.jpg",
+        "fiyat": "2,45",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000461",
+        "urun_adi": "TECHSUN 3/8\" GÖZETLEME CAMI RAKORLU",
+        "urun_id": "4",
+        "resim": "/images/Urun_min/fcb644a0-e.jpg",
+        "fiyat": "6,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000462",
+        "urun_adi": "TECHSUN 1/2\" GÖZETLEME CAMI RAKORLU",
+        "urun_id": "5",
+        "resim": "/images/Urun_min/f007ed1d-7.jpg",
+        "fiyat": "7,1",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000463",
+        "urun_adi": "TECHSUN 5/8\" GÖZETLEME CAMI RAKORLU",
+        "urun_id": "6",
+        "resim": "/images/Urun_min/f6dd0ff8-2.jpg",
+        "fiyat": "7,95",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000360",
+        "urun_adi": "FANCO 450mm FAN MOTORU EMİCİ",
+        "urun_id": "7",
+        "resim": "/images/Urun_min/4b148f31-6.jpg",
+        "fiyat": "53,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000147",
+        "urun_adi": "FANCO 12*12*38mm KARE FAN",
+        "urun_id": "8",
+        "resim": "/images/Urun_min/8f2e832c-2.jpg",
+        "fiyat": "3,73",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000317",
+        "urun_adi": "HPEOK PKQ-205 5/8 LİKİT TUTUCU",
+        "urun_id": "9",
+        "resim": "/images/Urun_min/03232d10-5.jpg",
+        "fiyat": "24",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000318",
+        "urun_adi": "HPEOK PKQ-207 7/8 LİKİT TUTUCU",
+        "urun_id": "10",
+        "resim": "/images/Urun_min/f3158684-d.jpg",
+        "fiyat": "32",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000319",
+        "urun_adi": "HPEOK PKQ-208 1 1/8\" LİKİT TUTUCU",
+        "urun_id": "11",
+        "resim": "/images/Urun_min/6d159391-5.jpg",
+        "fiyat": "34",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000320",
+        "urun_adi": "HPEOK PKQ-209 1 3/8\" LİKİT TUTUCU",
+        "urun_id": "12",
+        "resim": "/images/Urun_min/e5276a89-0.jpg",
+        "fiyat": "39",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000321",
+        "urun_adi": "HPEOK PKQ-210 1 5/8\" LİKİT TUTUCU",
+        "urun_id": "13",
+        "resim": "/images/Urun_min/b25acaa2-c.jpg",
+        "fiyat": "50,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000177",
+        "urun_adi": "DONGTAİ 3/8\" TİTREŞİM ÖNLEYİCİ",
+        "urun_id": "14",
+        "resim": "/images/Urun_min/6f02585d-4.jpg",
+        "fiyat": "7,43",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000178",
+        "urun_adi": "DONGTAİ 1/2\" TİTREŞİM ÖNLEYİCİ",
+        "urun_id": "15",
+        "resim": "/images/Urun_min/602f0044-5.jpg",
+        "fiyat": "7,8",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000179",
+        "urun_adi": "DONGTAİ 5/8\"  TİTREŞİM ÖNLEYİCİ",
+        "urun_id": "16",
+        "resim": "/images/Urun_min/9a0407f0-1.jpg",
+        "fiyat": "7,92",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000180",
+        "urun_adi": "DONGTAİ 3/4\" TİTREŞİM ÖNLEYİCİ",
+        "urun_id": "17",
+        "resim": "/images/Urun_min/6ddd5eb2-9.jpg",
+        "fiyat": "10,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000181",
+        "urun_adi": "DONGTAİ 7/8\" TİTREŞİM ÖNLEYİCİ",
+        "urun_id": "18",
+        "resim": "/images/Urun_min/8fa73371-0.jpg",
+        "fiyat": "11,8",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000182",
+        "urun_adi": "DONGATİ 1 1/8\" TİTREŞİM ÖNLEYİCİ",
+        "urun_id": "19",
+        "resim": "/images/Urun_min/28f390bb-a.jpg",
+        "fiyat": "16,35",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000183",
+        "urun_adi": "DONGTAİ 1 3/8\" TİTREŞİM ÖNLEYİCİ",
+        "urun_id": "20",
+        "resim": "/images/Urun_min/19c63d84-4.jpg",
+        "fiyat": "24,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000184",
+        "urun_adi": "DONGTAİ 1 5/8\" TİTREŞİM ÖNLEYİCİ",
+        "urun_id": "21",
+        "resim": "/images/Urun_min/1ca24d30-5.jpg",
+        "fiyat": "34,45",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000185",
+        "urun_adi": "DONGTAİ 2 1/8\" TİTREŞİM ÖNLEYİCİ",
+        "urun_id": "22",
+        "resim": "/images/Urun_min/c0cebfc0-4.jpg",
+        "fiyat": "52,8",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000221",
+        "urun_adi": "TECHSUN  1/4\" RAKORLU ARA VANA",
+        "urun_id": "23",
+        "resim": "/images/Urun_min/00eec435-4.jpg",
+        "fiyat": "8,25",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000222",
+        "urun_adi": "TECHSUN  3/8\" RAKORLU ARA VANA",
+        "urun_id": "24",
+        "resim": "/global_assets/images/placeholders/placeholder.jpg",
+        "fiyat": "9,75",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000223",
+        "urun_adi": "TECHSUN  1/2\" RAKORLU ARA VANA",
+        "urun_id": "25",
+        "resim": "/images/Urun_min/018fc740-d.jpg",
+        "fiyat": "16,45",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000224",
+        "urun_adi": "TECHSUN  5/8\" RAKORLU ARA VANA",
+        "urun_id": "26",
+        "resim": "/images/Urun_min/7858ae9b-0.jpg",
+        "fiyat": "20,55",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000509",
+        "urun_adi": "TECHSUN 5-7 hp VANALI DİK GAZ DEPO",
+        "urun_id": "27",
+        "resim": "/images/Urun_min/f728b40f-a.jpg",
+        "fiyat": "62,71",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000228",
+        "urun_adi": "RAKOR 5/8\"",
+        "urun_id": "31",
+        "resim": "/images/Urun_min/6ec5d2fc-8.jpg",
+        "fiyat": "1,18",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000436",
+        "urun_adi": "TE 28mm-11/8\" (5130)",
+        "urun_id": "39",
+        "resim": "/images/Urun_min/66fad424-6.jpg",
+        "fiyat": "2,22",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000439",
+        "urun_adi": "TE 54mm- 2 1/8\"  (5130)",
+        "urun_id": "42",
+        "resim": "/images/Urun_min/b5f54ad6-e.jpg",
+        "fiyat": "5,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000440",
+        "urun_adi": "TE 66mm-2 5/8\"  (5130)",
+        "urun_id": "43",
+        "resim": "/images/Urun_min/1ff4dc46-8.jpg",
+        "fiyat": "20,11",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000448",
+        "urun_adi": "19mm-3/4\" (5270) MANŞON",
+        "urun_id": "44",
+        "resim": "/images/Urun_min/dddf2ed4-e.jpg",
+        "fiyat": "0,46",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000505",
+        "urun_adi": "TECHSUN 3/4hp VANALI DİK GAZ DEPO",
+        "urun_id": "53",
+        "resim": "/images/Urun_min/5f5e3909-b.jpg",
+        "fiyat": "39,36",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000507",
+        "urun_adi": "TECHSUN 2hp-3hp VANALI DİK GAZ DEPO",
+        "urun_id": "54",
+        "resim": "/images/Urun_min/ec653d9c-8.jpg",
+        "fiyat": "49,74",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000508",
+        "urun_adi": "TECHSUN 4hp VANALI DİK GAZ DEPO",
+        "urun_id": "55",
+        "resim": "/images/Urun_min/e067d701-d.jpg",
+        "fiyat": "53,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005045",
+        "urun_adi": "YAPIŞKANLI İZOLE BANT 3MM*50MM*9,14M",
+        "urun_id": "57",
+        "resim": "/images/Urun_min/f09012f6-9.jpg",
+        "fiyat": "3,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000281",
+        "urun_adi": "GAZ ŞARJ HORTUMU 90CM 3LÜ TAKIM R 22-134-404",
+        "urun_id": "58",
+        "resim": "/images/Urun_min/5b09741a-4.jpg",
+        "fiyat": "7,92",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000589",
+        "urun_adi": "DONGTAİ 35m2 ÇİFT FANLI KONDANSER",
+        "urun_id": "62",
+        "resim": "/images/Urun_min/b9de086f-2.jpg",
+        "fiyat": "253,58",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000590",
+        "urun_adi": "DONGTAİ 40m2 ÇİFT FANLI KONDANSER",
+        "urun_id": "63",
+        "resim": "/images/Urun_min/095c28b2-5.jpg",
+        "fiyat": "318,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000591",
+        "urun_adi": "DONGTAİ 50m2 ÇİFT FANLI KONDANSER",
+        "urun_id": "64",
+        "resim": "/images/Urun_min/d14f59de-9.jpg",
+        "fiyat": "392",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005085",
+        "urun_adi": "TECHSUN KLİMA 4 YOLLU VANA DSF-11 1/2 - 5/8 36/48K",
+        "urun_id": "66",
+        "resim": "/images/Urun_min/b4fc33a3-d.jpg",
+        "fiyat": "15,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005086",
+        "urun_adi": "TECHSUN KLİMA 4 YOLLU VANA DSF-20 1/2 - 3/4",
+        "urun_id": "67",
+        "resim": "/images/Urun_min/88d1599d-1.jpg",
+        "fiyat": "40,9",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000097",
+        "urun_adi": "FAN ÇEMBERİ 20 CM SAC",
+        "urun_id": "68",
+        "resim": "/images/Urun_min/bb24dcb1-a.jpg",
+        "fiyat": "3,16",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000172",
+        "urun_adi": "TECHSUN SPLİT KLİMA VANASI 1/2\"",
+        "urun_id": "1077",
+        "resim": "/images/Urun_min/88efeea7-1.jpeg",
+        "fiyat": "5,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000171",
+        "urun_adi": "TECHSUN SPLİT KLİMA VANASI 3/8\"",
+        "urun_id": "1078",
+        "resim": "/images/Urun_min/fe87beee-e.jpeg",
+        "fiyat": "4,41",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000173",
+        "urun_adi": "TECHSUN SPLİT KLİMA VANASI 5/8\"",
+        "urun_id": "1079",
+        "resim": "/images/Urun_min/84e43ce4-1.jpeg",
+        "fiyat": "8,16",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000174",
+        "urun_adi": "TECHSUN SPLİT KLİMA VANASI 3/4\"",
+        "urun_id": "69",
+        "resim": "/images/Urun_min/f4f05f3b-6.jpg",
+        "fiyat": "13,1",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000116",
+        "urun_adi": "VACOİL VAKUM YAĞI 1LT",
+        "urun_id": "1103",
+        "resim": "/images/Urun_min/1716ad01-8.jpg",
+        "fiyat": "241,6",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005051",
+        "urun_adi": "FANCOİL TERMOSTAT AW-2",
+        "urun_id": "70",
+        "resim": "/images/Urun_min/a3da838c-c.jpg",
+        "fiyat": "6,64",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005040",
+        "urun_adi": "DRENAJ HORTUM 5/8 OPAK",
+        "urun_id": "939",
+        "resim": "/images/Urun_min/86a1a2fd-e.jpeg",
+        "fiyat": "7,61",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "E0000239",
+        "urun_adi": "PHOENIX ODA OTOMATİĞİ (KUYRUKLU)",
+        "urun_id": "72",
+        "resim": "/images/Urun_min/74b95419-8.jpg",
+        "fiyat": "5,67",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000240",
+        "urun_adi": "PHOENIX ODA OTOMATİĞİ (KUYRUKSUZ)",
+        "urun_id": "73",
+        "resim": "/images/Urun_min/26757b5a-9.jpg",
+        "fiyat": "6,05",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000235",
+        "urun_adi": "SİBOP ÜSTTEN ANAHTARLI",
+        "urun_id": "74",
+        "resim": "/images/Urun_min/04ad7925-f.jpg",
+        "fiyat": "0,49",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000110",
+        "urun_adi": "VAKUM POMPASI CL 215 1,5m3 ÇİFT KADEME",
+        "urun_id": "78",
+        "resim": "/images/Urun_min/8a897c45-b.jpg",
+        "fiyat": "151,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000111",
+        "urun_adi": "VAKUM POMPASI CL 225 3,4m3 ÇİFT KADEME",
+        "urun_id": "79",
+        "resim": "/images/Urun_min/adc15f8b-6.jpg",
+        "fiyat": "173,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000112",
+        "urun_adi": "VAKUM POMPASI CL 245 5,5m3 ÇİFT KADEME",
+        "urun_id": "80",
+        "resim": "/images/Urun_min/9019cdc6-f.jpg",
+        "fiyat": "182,35",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000241",
+        "urun_adi": "TECHSUN MEKANİK TERMOMETRE",
+        "urun_id": "83",
+        "resim": "/images/Urun_min/1faa0846-8.jpg",
+        "fiyat": "6,16",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000244",
+        "urun_adi": "JİNYİNG DT 1 TERMOMETRE",
+        "urun_id": "85",
+        "resim": "/images/Urun_min/931db0d5-8.jpg",
+        "fiyat": "9,65",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000245",
+        "urun_adi": "JİNYİNG DT 2 TERMO HİGROMETRE",
+        "urun_id": "86",
+        "resim": "/images/Urun_min/092fb5fa-2.jpg",
+        "fiyat": "14,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000246",
+        "urun_adi": "JİNYİNG DT 3 TERMO HİGROMETRE",
+        "urun_id": "87",
+        "resim": "/images/Urun_min/17222aca-f.jpg",
+        "fiyat": "15,75",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000242",
+        "urun_adi": "JİNYİNG ST 1 TERMOMETRE",
+        "urun_id": "88",
+        "resim": "/images/Urun_min/847fbac0-5.jpg",
+        "fiyat": "2,75",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000275",
+        "urun_adi": "TECHSUN DRAYER 1/2\" 084 RAKORLU",
+        "urun_id": "89",
+        "resim": "/images/Urun_min/34750101-a.jpg",
+        "fiyat": "5,1",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000753",
+        "urun_adi": "JİNYİNG NTC SENSÖR 2M",
+        "urun_id": "93",
+        "resim": "/images/Urun_min/7a6c832d-c.jpg",
+        "fiyat": "6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005121",
+        "urun_adi": "OTO JAKI ÜSTTEN VANALI KIRMIZI",
+        "urun_id": "94",
+        "resim": "/images/Urun_min/64975b14-1.jpg",
+        "fiyat": "12,05",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004008",
+        "urun_adi": "PHOENİX ISI TERMOSTAT 30-90 ÇİFT KONTAK",
+        "urun_id": "95",
+        "resim": "/images/Urun_min/c5354a04-7.jpg",
+        "fiyat": "2,29",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004010",
+        "urun_adi": "PHOENİX ISI TERMOSTAT 50-300 ÇİFT KONTAK",
+        "urun_id": "96",
+        "resim": "/images/Urun_min/bf8bd946-9.jpg",
+        "fiyat": "2,29",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004009",
+        "urun_adi": "PHOENİX ISI TERMOSTAT 30-120 ÇİFT KONTAK",
+        "urun_id": "97",
+        "resim": "/images/Urun_min/b05c8d49-5.jpg",
+        "fiyat": "2,29",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000234",
+        "urun_adi": "ÜNYON 3/4",
+        "urun_id": "101",
+        "resim": "/images/Urun_min/39318f99-2.jpg",
+        "fiyat": "1,68",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000283",
+        "urun_adi": "MANİFOLD TAKIM MFD-200 90 CM HORTUMLU R 22-134-404",
+        "urun_id": "103",
+        "resim": "/images/Urun_min/e909ae31-0.jpg",
+        "fiyat": "26,45",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000367",
+        "urun_adi": "FANCO 450mm FAN MOTORU ÜFLEME",
+        "urun_id": "105",
+        "resim": "/images/Urun_min/efc78a7d-3.jpg",
+        "fiyat": "59",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000101",
+        "urun_adi": "TECHNO FAN 18cm 22W. RADYAL FAN",
+        "urun_id": "106",
+        "resim": "/images/Urun_min/c5007dc9-4.jpg",
+        "fiyat": "8,45",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000338",
+        "urun_adi": "TECHSUN 1/4\" SOLENOİD VANA RAKORLU",
+        "urun_id": "107",
+        "resim": "/images/Urun_min/5e044a99-3.jpg",
+        "fiyat": "18,28",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000339",
+        "urun_adi": "TECHSUN 3/8\" SOLENOİD VANA RAKORLU",
+        "urun_id": "108",
+        "resim": "/images/Urun_min/88aebe78-0.jpg",
+        "fiyat": "18,53",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000340",
+        "urun_adi": "TECHSUN 1/2\" SOLENOİD VANA RAKORLU",
+        "urun_id": "109",
+        "resim": "/images/Urun_min/ff048f63-b.jpg",
+        "fiyat": "23,29",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000341",
+        "urun_adi": "TECHSUN 5/8\" SOLENOİD VANA RAKORLU",
+        "urun_id": "110",
+        "resim": "/images/Urun_min/73216e49-8.jpg",
+        "fiyat": "31,43",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000342",
+        "urun_adi": "TECHSUN 3/4\" SOLENOİD VANA KAYNAKLI",
+        "urun_id": "111",
+        "resim": "/images/Urun_min/37aac8ff-6.jpg",
+        "fiyat": "51,93",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000282",
+        "urun_adi": "GAZ ŞARJ HORTUMU 180CM 3LÜ TAKIM R 22-134-404",
+        "urun_id": "112",
+        "resim": "/images/Urun_min/2acc21b3-8.jpg",
+        "fiyat": "11,18",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000107",
+        "urun_adi": "VAKUM POMPASI CL 160 8,4m3 TEK KADEME",
+        "urun_id": "113",
+        "resim": "/images/Urun_min/26ad039c-9.jpg",
+        "fiyat": "167,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000330",
+        "urun_adi": "TECHSUN HLP830E  KOMBİNE PRESOSTADI OTOMATİK RESET",
+        "urun_id": "114",
+        "resim": "/images/Urun_min/1bf5a127-b.jpg",
+        "fiyat": "16,8",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000328",
+        "urun_adi": "TECHSUN HLP 110E VAKUM PRESOSTADI OTOMATİK RESET",
+        "urun_id": "115",
+        "resim": "/images/Urun_min/0101551e-d.jpg",
+        "fiyat": "10,9",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000329",
+        "urun_adi": "TECHSUN HLP 530E PRESYON PRESOSTADI OTOMATİK RESET",
+        "urun_id": "116",
+        "resim": "/images/Urun_min/9a0f3ce5-1.jpg",
+        "fiyat": "10,9",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000260",
+        "urun_adi": "JİNYİNG  DX 150 DİJİTAL TERMOSTAT (TEK SENSÖRLÜ)",
+        "urun_id": "117",
+        "resim": "/images/Urun_min/4557688c-7.jpg",
+        "fiyat": "11,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000664",
+        "urun_adi": "SETTALA R600 GAZ İZOBUTAN DMR TÜP 420gr.",
+        "urun_id": "118",
+        "resim": "/images/Urun_min/e7dbc423-f.jpg",
+        "fiyat": "3,51",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000236",
+        "urun_adi": "BORULU SİBOP 1/4 8 CM",
+        "urun_id": "121",
+        "resim": "/images/Urun_min/aa205438-6.jpg",
+        "fiyat": "0,55",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000331",
+        "urun_adi": "TECHSUN HLP830HME KOMBİNE PRESOSTADI MANUEL RESET",
+        "urun_id": "122",
+        "resim": "/images/Urun_min/678637e3-6.jpg",
+        "fiyat": "16,8",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004007",
+        "urun_adi": "PHOENİX ISI TERMOSTAT 0-40 ÇİFT KONTAK",
+        "urun_id": "123",
+        "resim": "/images/Urun_min/45f285bc-3.jpg",
+        "fiyat": "2,29",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000838",
+        "urun_adi": "JİNYİNG NTC SENSOR 14M",
+        "urun_id": "124",
+        "resim": "/images/Urun_min/02b6a456-7.jpg",
+        "fiyat": "12",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000063",
+        "urun_adi": "PRO-HEAT 1mt DRAİN LİNE REZİSTANS",
+        "urun_id": "125",
+        "resim": "/images/Urun_min/f41da159-6.jpg",
+        "fiyat": "4,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000064",
+        "urun_adi": "PRO-HEAT 1,5mt DRAİN LİNE REZİSTANS",
+        "urun_id": "126",
+        "resim": "/images/Urun_min/ab6d4f84-5.jpg",
+        "fiyat": "5,1",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000065",
+        "urun_adi": "PRO-HEAT 2mt DRAİN LİNE REZİSTANS",
+        "urun_id": "127",
+        "resim": "/images/Urun_min/e11b1977-1.jpg",
+        "fiyat": "5,9",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000066",
+        "urun_adi": "PRO-HEAT 3mt DRAİN LİNE REZİSTANS",
+        "urun_id": "128",
+        "resim": "/images/Urun_min/63e553d4-8.jpg",
+        "fiyat": "7,75",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000067",
+        "urun_adi": "PRO-HEAT 4mt DRAİN LİNE REZİSTANS",
+        "urun_id": "129",
+        "resim": "/images/Urun_min/3e7a34a7-d.jpg",
+        "fiyat": "9,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000068",
+        "urun_adi": "PRO-HEAT 5mt DRAİN LİNE REZİSTANS",
+        "urun_id": "130",
+        "resim": "/images/Urun_min/58518967-c.jpg",
+        "fiyat": "12",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000069",
+        "urun_adi": "PRO-HEAT 6mt DRAİN LİNE REZİSTANS",
+        "urun_id": "131",
+        "resim": "/images/Urun_min/fd2d7f89-0.jpg",
+        "fiyat": "14,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000070",
+        "urun_adi": "PRO-HEAT 220VOLT 6mt. KAPI  REZİSTANS 180 W",
+        "urun_id": "132",
+        "resim": "/images/Urun_min/61b46b0c-b.jpg",
+        "fiyat": "3,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000072",
+        "urun_adi": "PRO-HEAT 24 VOLT 6mt. KAPI  REZİSTANS 180 W",
+        "urun_id": "133",
+        "resim": "/images/Urun_min/4f105f88-b.jpg",
+        "fiyat": "4,71",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005047",
+        "urun_adi": "YAPIŞKANLI ALÜMİNYUM BANT 7CM*25M",
+        "urun_id": "134",
+        "resim": "/images/Urun_min/8277f435-7.jpg",
+        "fiyat": "3,3",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000248",
+        "urun_adi": "JİNYİNG WT2 -50 / +300 SAPLAMALI TERMOMETRE",
+        "urun_id": "135",
+        "resim": "/images/Urun_min/18d659ce-3.jpg",
+        "fiyat": "10,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000249",
+        "urun_adi": "JİNYİNG WT1 -50 / +300 SAPLAMALI TERMOMETRE",
+        "urun_id": "136",
+        "resim": "/images/Urun_min/e4f09071-9.jpg",
+        "fiyat": "4,77",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005123",
+        "urun_adi": "OTO JAKI VANASIZ DÜZ",
+        "urun_id": "137",
+        "resim": "/images/Urun_min/f7b4546c-a.jpg",
+        "fiyat": "8,65",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000280",
+        "urun_adi": "TECHSUN TCH48 DRAYER TAŞI",
+        "urun_id": "138",
+        "resim": "/images/Urun_min/b300b62a-3.jpg",
+        "fiyat": "7,1",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000284",
+        "urun_adi": "MANİFOLD TAKIM MFD-100 90 CM HORTUMLU R 22-134-404",
+        "urun_id": "139",
+        "resim": "/images/Urun_min/75b1ecc4-4.jpg",
+        "fiyat": "23,65",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000346",
+        "urun_adi": "DANFOSS EXP. VALF TEX-2 F22 068Z3209",
+        "urun_id": "140",
+        "resim": "/images/Urun_min/18686e17-c.jpg",
+        "fiyat": "68,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000348",
+        "urun_adi": "DANFOSS EXP. VALF TEN-2 F134 068Z3348",
+        "urun_id": "141",
+        "resim": "/images/Urun_min/10b58183-e.jpg",
+        "fiyat": "62,15",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000347",
+        "urun_adi": "DANFOSS EXP. VALF TES2 F404 068Z3403",
+        "urun_id": "143",
+        "resim": "/images/Urun_min/d171307e-2.jpg",
+        "fiyat": "62,15",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000517",
+        "urun_adi": "DANFOSS KP-1 1101",
+        "urun_id": "144",
+        "resim": "/images/Urun_min/17b42e76-9.jpg",
+        "fiyat": "28,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000518",
+        "urun_adi": "DANFOSS KP-5 1173",
+        "urun_id": "145",
+        "resim": "/images/Urun_min/c7ac6b18-9.jpg",
+        "fiyat": "36,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000261",
+        "urun_adi": "JİNYİNG DX 10 DİJİTAL TERMOMETRE 220V.",
+        "urun_id": "146",
+        "resim": "/images/Urun_min/8be4cbaf-e.jpg",
+        "fiyat": "10,8",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000262",
+        "urun_adi": "JİNYİNG DX 10A DİJİTAL TERMOMETRE12V / 24V",
+        "urun_id": "147",
+        "resim": "/images/Urun_min/b23ee900-f.jpg",
+        "fiyat": "11,05",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000332",
+        "urun_adi": "TECHSUN FLOW SWİTCH 1\"",
+        "urun_id": "148",
+        "resim": "/images/Urun_min/ac89cd70-7.jpg",
+        "fiyat": "25",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000096",
+        "urun_adi": "FAN ÇEMBERİ 15 CM SAC",
+        "urun_id": "150",
+        "resim": "/images/Urun_min/808258dd-8.jpg",
+        "fiyat": "2,63",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000098",
+        "urun_adi": "FAN ÇEMBERİ 25 CM TEL",
+        "urun_id": "151",
+        "resim": "/images/Urun_min/ba322cb5-0.jpg",
+        "fiyat": "2,1",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000099",
+        "urun_adi": "FAN ÇEMBERİ 30 CM TEL",
+        "urun_id": "152",
+        "resim": "/images/Urun_min/36913a0a-9.jpg",
+        "fiyat": "2,35",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000333",
+        "urun_adi": "TECHSUN RAKORLU KILCAL BORU 1/4 1.2M",
+        "urun_id": "153",
+        "resim": "/images/Urun_min/571d9a63-f.jpg",
+        "fiyat": "3,65",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005087",
+        "urun_adi": "TECHSUN KLİMA 4 YOLLU VANA DSF-35 3/4 - 7/8",
+        "urun_id": "154",
+        "resim": "/images/Urun_min/3307195e-2.jpg",
+        "fiyat": "85,8",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000345",
+        "urun_adi": "DANFOSS EXP. VALF TN2 F134 068Z3346",
+        "urun_id": "155",
+        "resim": "/images/Urun_min/0e094395-c.jpg",
+        "fiyat": "38,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000316",
+        "urun_adi": "SANXIN 1/2\" LİKİT TUTUCU",
+        "urun_id": "156",
+        "resim": "/images/Urun_min/924efa6e-1.jpg",
+        "fiyat": "22",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000322",
+        "urun_adi": "HPEOK PKW-55824 1/2\" YAĞ AYIRICI",
+        "urun_id": "157",
+        "resim": "/images/Urun_min/9fc07caa-4.jpg",
+        "fiyat": "32",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000323",
+        "urun_adi": "HPEOK PKW-55855 5/8\" YAĞ AYIRICI",
+        "urun_id": "158",
+        "resim": "/images/Urun_min/17772c6c-3.jpg",
+        "fiyat": "34",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000324",
+        "urun_adi": "HPEOK PKW-55877 7/8\" YAĞ AYIRICI",
+        "urun_id": "159",
+        "resim": "/images/Urun_min/e1170ef4-7.jpeg",
+        "fiyat": "37",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000325",
+        "urun_adi": "HPEOK PKW-55889 1 1/8\" YAĞ AYIRICI",
+        "urun_id": "160",
+        "resim": "/images/Urun_min/075cff22-9.jpg",
+        "fiyat": "45,75",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000326",
+        "urun_adi": "HPEOK PKW-569011 1 3/8\" YAĞ AYIRICI",
+        "urun_id": "161",
+        "resim": "/images/Urun_min/60a300ec-3.jpg",
+        "fiyat": "52",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000327",
+        "urun_adi": "HPEOK PKW-569213 1 5/8\" YAĞ AYIRICI",
+        "urun_id": "162",
+        "resim": "/images/Urun_min/c355a5b8-4.jpg",
+        "fiyat": "79",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000254",
+        "urun_adi": "JİNYİNG DS 1 TERMOMETRE",
+        "urun_id": "163",
+        "resim": "/images/Urun_min/3fef1f14-5.jpg",
+        "fiyat": "3,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000362",
+        "urun_adi": "FANCO 550mm FAN MOTORU EMİCİ",
+        "urun_id": "164",
+        "resim": "/images/Urun_min/9dcd4d5b-2.jpg",
+        "fiyat": "118,52",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000510",
+        "urun_adi": "TECHSUN 8-10 hp VANALI DİK GAZ DEPO",
+        "urun_id": "167",
+        "resim": "/images/Urun_min/2b047636-f.jpg",
+        "fiyat": "70,07",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000511",
+        "urun_adi": "FAN MOTORU PERVANE 150mm 25 DERECE EMİCİ",
+        "urun_id": "168",
+        "resim": "/images/Urun_min/653e6fa5-e.jpg",
+        "fiyat": "1,05",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000253",
+        "urun_adi": "JİNYİNG TPM-10A TERMOMETRE 2M. SENSÖRLÜ",
+        "urun_id": "169",
+        "resim": "/images/Urun_min/713736e7-1.JPG",
+        "fiyat": "2,75",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006528",
+        "urun_adi": "PHOENIX WY84-965-22A YORÇ TERMOSTAT",
+        "urun_id": "170",
+        "resim": "/images/Urun_min/6483141d-4.jpg",
+        "fiyat": "9,9",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006529",
+        "urun_adi": "PHOENIX WY84-966-21B 2700 TERMOSTAT",
+        "urun_id": "171",
+        "resim": "/images/Urun_min/093f24d9-3.jpg",
+        "fiyat": "9,9",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006530",
+        "urun_adi": "PHOENIX WY90-966-21C AEG TERMOSTAT",
+        "urun_id": "172",
+        "resim": "/images/Urun_min/f7e46129-9.jpg",
+        "fiyat": "9,9",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004011",
+        "urun_adi": "PHOENİX ISI TERMOSTATI  50-200 ÇİFT KONTAK",
+        "urun_id": "173",
+        "resim": "/images/Urun_min/07b1fb27-e.jpg",
+        "fiyat": "2,29",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000252",
+        "urun_adi": "JİNYİNG BT2 TERMO HİGROMETRE",
+        "urun_id": "174",
+        "resim": "/images/Urun_min/0d076419-6.jpg",
+        "fiyat": "17,8",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008002",
+        "urun_adi": "DECHANG YB 50 SÜPÜRGE MOTORU 1200W",
+        "urun_id": "175",
+        "resim": "/images/Urun_min/a58ac83b-e.jpg",
+        "fiyat": "11,78",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008003",
+        "urun_adi": "DECHANG YB 60 SUPURGE MOTORU 1400W",
+        "urun_id": "176",
+        "resim": "/images/Urun_min/522ab1c7-3.jpg",
+        "fiyat": "15,7",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008005",
+        "urun_adi": "DECHANG YB 30 SÜPÜRGE MOTORU 1200W",
+        "urun_id": "178",
+        "resim": "/images/Urun_min/64360b7d-9.jpg",
+        "fiyat": "10,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008006",
+        "urun_adi": "DECHANG YB 20 SÜPÜRGE MOTORU 1400W",
+        "urun_id": "179",
+        "resim": "/images/Urun_min/8e004271-8.jpg",
+        "fiyat": "10,8",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000592",
+        "urun_adi": "DONGTAİ 60M2 ÇİFT FANLI KONDANSER",
+        "urun_id": "181",
+        "resim": "/images/Urun_min/f10ada41-2.jpg",
+        "fiyat": "412,7",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008007",
+        "urun_adi": "DECHANG YB 35 SÜPÜRGE MOTORU 1200W",
+        "urun_id": "183",
+        "resim": "/images/Urun_min/8d7f136f-d.jpg",
+        "fiyat": "10,65",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000541",
+        "urun_adi": "TECHSUN TC-MVP-2.5M/A 1.5CFM VAKUM POMPASI",
+        "urun_id": "1089",
+        "resim": "/images/Urun_min/fba65e07-7.jpg",
+        "fiyat": "48,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000542",
+        "urun_adi": "TECHSUN TC-VP-3M/C 1.8CFM VAKUM POMPASI",
+        "urun_id": "1090",
+        "resim": "/images/Urun_min/79b2337c-1.jpg",
+        "fiyat": "53,75",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000543",
+        "urun_adi": "TECHSUN TC-VP-4.2M/C 2.5CFM VAKUM POMPASI",
+        "urun_id": "1091",
+        "resim": "/images/Urun_min/9c3d2425-3.jpg",
+        "fiyat": "65,65",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000544",
+        "urun_adi": "TECHSUN TC-VP-7.6M/C 4.5CFM VAKUM POMPASI",
+        "urun_id": "1092",
+        "resim": "/images/Urun_min/e4540715-6.jpg",
+        "fiyat": "97,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000545",
+        "urun_adi": "TECHSUN TC-VP-10.2M/C 6CFM VAKUM POMPASI",
+        "urun_id": "1093",
+        "resim": "/images/Urun_min/947db2c1-a.jpg",
+        "fiyat": "123,8",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000546",
+        "urun_adi": "TECHSUN TC-VP-17M/C 10CFM VAKUM POMPASI",
+        "urun_id": "1094",
+        "resim": "/images/Urun_min/b2c5b7a1-a.jpg",
+        "fiyat": "192,1",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000102",
+        "urun_adi": "TECHNO FAN 24cm 30W. RADYAL FAN",
+        "urun_id": "184",
+        "resim": "/images/Urun_min/9b28e42f-e.jpg",
+        "fiyat": "11,57",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000295",
+        "urun_adi": "TECHSUN 450V. 8µf KONDANSATÖR",
+        "urun_id": "185",
+        "resim": "/images/Urun_min/4d7b04bd-b.jpg",
+        "fiyat": "0,82",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000296",
+        "urun_adi": "TECHSUN 450V. 9µf KONDANSATÖR ALÜMİNYUM",
+        "urun_id": "186",
+        "resim": "/images/Urun_min/df8d3844-c.jpg",
+        "fiyat": "0,95",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000297",
+        "urun_adi": "TECHSUN 450V. 10µf KONDANSATÖR ALÜMİNYUM",
+        "urun_id": "187",
+        "resim": "/images/Urun_min/3ccb83b6-0.jpg",
+        "fiyat": "1,03",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000298",
+        "urun_adi": "TECHSUN 450V. 12µf KONDANSATÖR",
+        "urun_id": "188",
+        "resim": "/images/Urun_min/d0e214bc-1.jpg",
+        "fiyat": "1,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000299",
+        "urun_adi": "TECHSUN 450V. 16µf KONDANSATÖR ALÜMİNYUM",
+        "urun_id": "189",
+        "resim": "/images/Urun_min/88d3bb2c-f.jpg",
+        "fiyat": "1,27",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000300",
+        "urun_adi": "TECHSUN 450V. 20µf KONDANSATÖR",
+        "urun_id": "190",
+        "resim": "/images/Urun_min/51dc8133-b.jpg",
+        "fiyat": "1,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000301",
+        "urun_adi": "TECHSUN 450V. 25µf KONDANSATÖR ALÜMİNYUM",
+        "urun_id": "986",
+        "resim": "/images/Urun_min/c4e0ea26-a.jpg",
+        "fiyat": "1,51",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000302",
+        "urun_adi": "TECHSUN 450V. 30µf KONDANSATÖR",
+        "urun_id": "191",
+        "resim": "/images/Urun_min/00f8c5ff-f.jpg",
+        "fiyat": "2,07",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000303",
+        "urun_adi": "TECHSUN 450V. 35µf KONDANSATÖR ALÜMİNYUM",
+        "urun_id": "987",
+        "resim": "/images/Urun_min/885ec089-3.jpg",
+        "fiyat": "1,88",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000304",
+        "urun_adi": "TECHSUN 450V. 40µf KONDANSATÖR",
+        "urun_id": "192",
+        "resim": "/images/Urun_min/acc9456f-7.jpg",
+        "fiyat": "2,55",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000306",
+        "urun_adi": "TECHSUN 450V. 50µf KONDANSATÖR ALÜMİNYUM",
+        "urun_id": "988",
+        "resim": "/images/Urun_min/0b2fb86f-7.jpg",
+        "fiyat": "2,36",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000308",
+        "urun_adi": "TECHSUN 450V. 60µf KONDANSATÖR",
+        "urun_id": "193",
+        "resim": "/images/Urun_min/00381388-8.jpg",
+        "fiyat": "4,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000312",
+        "urun_adi": "TECHSUN 64-77 uf  220/250V.START KONDANSATÖR",
+        "urun_id": "194",
+        "resim": "/images/Urun_min/692e8152-7.jpg",
+        "fiyat": "1,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000313",
+        "urun_adi": "TECHSUN 88-108 uf  220/250V.START KONDANSATÖR",
+        "urun_id": "195",
+        "resim": "/images/Urun_min/8a7375c3-e.jpg",
+        "fiyat": "2,05",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000314",
+        "urun_adi": "TECHSUN 124-149 uf  220/250V.START KONDANSATÖR",
+        "urun_id": "196",
+        "resim": "/images/Urun_min/01cae064-6.jpg",
+        "fiyat": "2,15",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000315",
+        "urun_adi": "TECHSUN 145-175 uf  220/250V.START KONDANSATÖR",
+        "urun_id": "197",
+        "resim": "/images/Urun_min/44051a36-7.jpg",
+        "fiyat": "2,25",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000265",
+        "urun_adi": "JİNYİNG DX 201A DİJ.TER.TERMOSTAT 12/24v",
+        "urun_id": "198",
+        "resim": "/images/Urun_min/92f0fa49-f.jpg",
+        "fiyat": "34",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008008",
+        "urun_adi": "DECHANG YB 15 SÜPÜRGE MOTORU 1400W",
+        "urun_id": "199",
+        "resim": "/images/Urun_min/26879942-7.jpg",
+        "fiyat": "16,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008009",
+        "urun_adi": "DECHANG YB 55 SÜPÜRGE MOTORU 1200W",
+        "urun_id": "200",
+        "resim": "/images/Urun_min/a2276c3f-e.jpg",
+        "fiyat": "12,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005048",
+        "urun_adi": "BANT 19mm TECHSUN SİYAH",
+        "urun_id": "201",
+        "resim": "/images/Urun_min/543ebcd8-d.jpg",
+        "fiyat": "0,28",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005119",
+        "urun_adi": "KARTLI KUMANDA SALON TİPİ  ZL-U10A",
+        "urun_id": "202",
+        "resim": "/images/Urun_min/c67fd5e1-3.jpg",
+        "fiyat": "26,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000266",
+        "urun_adi": "TECHSUN CLD-100 GAZ KAÇAK DEDEKTÖRÜ",
+        "urun_id": "983",
+        "resim": "/images/Urun_min/79c80216-7.jpg",
+        "fiyat": "58,35",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008015",
+        "urun_adi": "ULKA EP77 28W HALI YIK. POMPASI",
+        "urun_id": "203",
+        "resim": "/images/Urun_min/17ecb48f-a.jpg",
+        "fiyat": "8,35",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "K0005118",
+        "urun_adi": "KARTLI KUMANDA SPLİT TİPİ ZL-U03A",
+        "urun_id": "205",
+        "resim": "/images/Urun_min/f6931f35-5.jpg",
+        "fiyat": "14,39",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005117",
+        "urun_adi": "KLİMA KUMANDASI KT-518",
+        "urun_id": "206",
+        "resim": "/images/Urun_min/0a071db7-8.jpg",
+        "fiyat": "2,74",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000374",
+        "urun_adi": "POLAR 450mm FAN MOTORU EMİCİ",
+        "urun_id": "207",
+        "resim": "/images/Urun_min/071fef78-b.jpg",
+        "fiyat": "50,9",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000375",
+        "urun_adi": "POLAR 500mm FAN MOTORU EMİCİ",
+        "urun_id": "208",
+        "resim": "/images/Urun_min/c3a2fd81-d.jpg",
+        "fiyat": "70",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005089",
+        "urun_adi": "DUNAN KLİMA 4 YOLLU BOBİNİ 54000009825",
+        "urun_id": "209",
+        "resim": "/images/Urun_min/12702853-8.jpg",
+        "fiyat": "5,95",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006532",
+        "urun_adi": "PHOENIX 2600 716R-9701İ 4-4 OÇM TERMOSTAT",
+        "urun_id": "210",
+        "resim": "/images/Urun_min/84ca2acf-7.jpg",
+        "fiyat": "12",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000103",
+        "urun_adi": "TECHNO FAN 36cm 40W. RADYAL FAN",
+        "urun_id": "219",
+        "resim": "/images/Urun_min/ca170470-6.jpg",
+        "fiyat": "15,9",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000117",
+        "urun_adi": "TECHSUN DS20114 ŞARJ İSTASYONU TERAZİLİ",
+        "urun_id": "223",
+        "resim": "/images/Urun_min/00ad801a-e.jpg",
+        "fiyat": "425",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000158",
+        "urun_adi": "TECHSUN ETC-974 DİJİTAL TERMOSTAT (ÇİFT SENSÖRLÜ)",
+        "urun_id": "1065",
+        "resim": "/images/Urun_min/851cd077-b.jpeg",
+        "fiyat": "16,79",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000349",
+        "urun_adi": "DANFOSS 0 NO ORİFİS",
+        "urun_id": "225",
+        "resim": "/images/Urun_min/f8e3d3b9-5.jpg",
+        "fiyat": "10,95",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000350",
+        "urun_adi": "DANFOSS 1 NO ORİFİS",
+        "urun_id": "226",
+        "resim": "/images/Urun_min/3f89a9f2-c.jpg",
+        "fiyat": "10,95",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000351",
+        "urun_adi": "DANFOSS 2 NO ORİFİS",
+        "urun_id": "227",
+        "resim": "/images/Urun_min/96b6ee04-7.jpg",
+        "fiyat": "10,95",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000352",
+        "urun_adi": "DANFOSS 3 NO ORİFİS",
+        "urun_id": "228",
+        "resim": "/images/Urun_min/8ebd1c1a-a.jpg",
+        "fiyat": "10,95",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000353",
+        "urun_adi": "DANFOSS 4 NO ORİFİS",
+        "urun_id": "229",
+        "resim": "/images/Urun_min/8d0c2e15-2.jpg",
+        "fiyat": "10,95",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000354",
+        "urun_adi": "DANFOSS 5 NO ORİFİS",
+        "urun_id": "230",
+        "resim": "/images/Urun_min/b7d320db-6.jpg",
+        "fiyat": "10,95",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000355",
+        "urun_adi": "DANFOSS 6 NO ORİFİS",
+        "urun_id": "231",
+        "resim": "/images/Urun_min/ffd2aabc-b.jpg",
+        "fiyat": "10,95",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008036",
+        "urun_adi": "35MM KROM TELESKOBİK BORU 100CM",
+        "urun_id": "232",
+        "resim": "/images/Urun_min/84231b19-b.jpg",
+        "fiyat": "3,53",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008037",
+        "urun_adi": "32MM KROM TELESKOBİK BORU 100CM",
+        "urun_id": "233",
+        "resim": "/images/Urun_min/5df5195a-6.jpg",
+        "fiyat": "3,53",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004021",
+        "urun_adi": "LG 1/6 MSA43 KOMPRESOR",
+        "urun_id": "234",
+        "resim": "/images/Urun_min/74b89465-d.jpg",
+        "fiyat": "43,25",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004022",
+        "urun_adi": "LG 1/5 MA57 KOMPRESOR",
+        "urun_id": "235",
+        "resim": "/images/Urun_min/57562f97-7.jpg",
+        "fiyat": "44,52",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000148",
+        "urun_adi": "FANCO 17*17*51mm KARE FAN",
+        "urun_id": "237",
+        "resim": "/images/Urun_min/42578dae-f.jpg",
+        "fiyat": "8,7",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005108",
+        "urun_adi": "TECHSUN SPP5 KONDANSATÖR",
+        "urun_id": "238",
+        "resim": "/images/Urun_min/0eb8d7d9-5.jpg",
+        "fiyat": "4,39",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005109",
+        "urun_adi": "TECHSUN SPP6 KONDANSATÖR",
+        "urun_id": "239",
+        "resim": "/images/Urun_min/918279a5-b.jpg",
+        "fiyat": "5,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005110",
+        "urun_adi": "TECHSUN SPP8 KONDANSATÖR",
+        "urun_id": "240",
+        "resim": "/images/Urun_min/464e75d0-7.jpg",
+        "fiyat": "7,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000667",
+        "urun_adi": "TECHSUN 52 CM SİLİKON KARTER ISITICI 50W.",
+        "urun_id": "241",
+        "resim": "/images/Urun_min/690b2593-0.jpg",
+        "fiyat": "8,88",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005093",
+        "urun_adi": "TECHSUN 35+1,5 KONDANSATÖR",
+        "urun_id": "242",
+        "resim": "/images/Urun_min/6e1f70fa-d.jpg",
+        "fiyat": "2,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005095",
+        "urun_adi": "TECHSUN 45+1,5 KONDANSATÖR",
+        "urun_id": "243",
+        "resim": "/images/Urun_min/f10a6341-8.jpg",
+        "fiyat": "2,67",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005096",
+        "urun_adi": "TECHSUN 50+1,5 KONDANSATÖR",
+        "urun_id": "244",
+        "resim": "/images/Urun_min/59bfbfe6-f.jpg",
+        "fiyat": "2,84",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005097",
+        "urun_adi": "TECHSUN 60+1,5 KONDANSATÖR",
+        "urun_id": "245",
+        "resim": "/images/Urun_min/7e1534fd-0.jpg",
+        "fiyat": "3,75",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005100",
+        "urun_adi": "TECHSUN 30+5 KONDANSATÖR",
+        "urun_id": "246",
+        "resim": "/images/Urun_min/ae0d9f50-9.jpg",
+        "fiyat": "2,35",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005101",
+        "urun_adi": "TECHSUN 35+5 KONDANSATÖR",
+        "urun_id": "247",
+        "resim": "/images/Urun_min/988dddc5-0.jpg",
+        "fiyat": "2,51",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005103",
+        "urun_adi": "TECHSUN 45+5 KONDANSATÖR",
+        "urun_id": "248",
+        "resim": "/images/Urun_min/9ce61231-1.jpg",
+        "fiyat": "2,67",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005104",
+        "urun_adi": "TECHSUN 50+5 KONDANSATÖR",
+        "urun_id": "249",
+        "resim": "/images/Urun_min/0f066834-7.jpg",
+        "fiyat": "2,72",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005107",
+        "urun_adi": "TECHSUN 60+5 KONDANSATÖR",
+        "urun_id": "250",
+        "resim": "/images/Urun_min/11fc0070-f.jpg",
+        "fiyat": "3,51",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000293",
+        "urun_adi": "TECHSUN 450V. 5µf KONDANSATÖR",
+        "urun_id": "251",
+        "resim": "/images/Urun_min/93382960-7.jpg",
+        "fiyat": "0,74",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000257",
+        "urun_adi": "JİNYİNG WT-5 GÜNEŞ ENERJİLİ SAPLAMALI TERMOMETRE",
+        "urun_id": "252",
+        "resim": "/images/Urun_min/4dc9df10-d.jpg",
+        "fiyat": "8,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000258",
+        "urun_adi": "JİNYİNG DST-50 GÜNEŞ ENERJİLİ TERMOMETRE",
+        "urun_id": "253",
+        "resim": "/images/Urun_min/1e1544d0-9.jpg",
+        "fiyat": "6,27",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005090",
+        "urun_adi": "TECHSUN 20+1.5 KONDANSATÖR",
+        "urun_id": "254",
+        "resim": "/images/Urun_min/7792b181-5.jpg",
+        "fiyat": "2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005091",
+        "urun_adi": "TECHSUN 25+1.5 KONDANSATÖR",
+        "urun_id": "255",
+        "resim": "/images/Urun_min/1e6311a3-b.jpg",
+        "fiyat": "2,09",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005092",
+        "urun_adi": "TECHSUN 30+1.5 KONDANSATÖR",
+        "urun_id": "256",
+        "resim": "/images/Urun_min/ae30447c-9.jpg",
+        "fiyat": "2,06",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005094",
+        "urun_adi": "TECHSUN 40+1,5 KONDANSATÖR",
+        "urun_id": "257",
+        "resim": "/images/Urun_min/85ef3a3f-4.jpg",
+        "fiyat": "2,51",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005098",
+        "urun_adi": "TECHSUN 20+5 KONDANSATÖR",
+        "urun_id": "258",
+        "resim": "/images/Urun_min/423e95c2-9.jpg",
+        "fiyat": "2,22",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005099",
+        "urun_adi": "TECHSUN 25+5 KONDANSATÖR",
+        "urun_id": "259",
+        "resim": "/images/Urun_min/552796bf-0.jpg",
+        "fiyat": "2,27",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005102",
+        "urun_adi": "TECHSUN 40+5 KONDANSATÖR",
+        "urun_id": "260",
+        "resim": "/images/Urun_min/6d400d91-c.jpg",
+        "fiyat": "2,59",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000285",
+        "urun_adi": "TECHSUN 450V. 1µf KONDANSATÖR",
+        "urun_id": "261",
+        "resim": "/images/Urun_min/765b557f-e.jpg",
+        "fiyat": "0,53",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000286",
+        "urun_adi": "TECHSUN 450V. 1.5µf KONDANSATÖR",
+        "urun_id": "262",
+        "resim": "/images/Urun_min/350e1637-b.jpg",
+        "fiyat": "0,57",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000287",
+        "urun_adi": "TECHSUN 450V. 2µf KONDANSATÖR",
+        "urun_id": "263",
+        "resim": "/images/Urun_min/330c3552-9.jpg",
+        "fiyat": "0,59",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000288",
+        "urun_adi": "TECHSUN 450V. 2.5µf KONDANSATÖR",
+        "urun_id": "264",
+        "resim": "/images/Urun_min/2955dbe4-f.jpg",
+        "fiyat": "0,61",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000289",
+        "urun_adi": "TECHSUN 450V. 3µf KONDANSATÖR",
+        "urun_id": "265",
+        "resim": "/images/Urun_min/1fb77944-c.jpg",
+        "fiyat": "0,64",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000291",
+        "urun_adi": "TECHSUN 450V. 4µf KONDANSATÖR",
+        "urun_id": "266",
+        "resim": "/images/Urun_min/a084faa8-9.jpg",
+        "fiyat": "0,68",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000294",
+        "urun_adi": "TECHSUN 450V. 6µf KONDANSATÖR",
+        "urun_id": "267",
+        "resim": "/images/Urun_min/54f5c2e8-c.jpg",
+        "fiyat": "0,78",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000307",
+        "urun_adi": "TECHSUN 450V. 55µf KONDANSATÖR",
+        "urun_id": "268",
+        "resim": "/images/Urun_min/6d7c8a7e-b.jpg",
+        "fiyat": "3,73",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000309",
+        "urun_adi": "TECHSUN 450V. 70µf KONDANSATÖR",
+        "urun_id": "269",
+        "resim": "/images/Urun_min/e6d6ad0a-4.jpg",
+        "fiyat": "4,49",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000310",
+        "urun_adi": "TECHSUN 450V. 80µf KONDANSATÖR",
+        "urun_id": "270",
+        "resim": "/images/Urun_min/1a8ac50d-3.jpg",
+        "fiyat": "5,18",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000311",
+        "urun_adi": "TECHSUN 450V. 100µf KONDANSATÖR",
+        "urun_id": "271",
+        "resim": "/images/Urun_min/0cd47672-c.jpg",
+        "fiyat": "5,73",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005046",
+        "urun_adi": "ZİFTLİ İZOLASYONLU BANT 2,50MM*50MM*9,15M",
+        "urun_id": "272",
+        "resim": "/images/Urun_min/1defdd7a-b.jpg",
+        "fiyat": "12,25",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000292",
+        "urun_adi": "TECHSUN 450V. 4.5µf KONDANSATÖR",
+        "urun_id": "273",
+        "resim": "/images/Urun_min/0d8a25c4-1.jpg",
+        "fiyat": "0,72",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000290",
+        "urun_adi": "TECHSUN 450V. 3.5µf KONDANSATÖR",
+        "urun_id": "274",
+        "resim": "/images/Urun_min/e43c0b82-4.jpg",
+        "fiyat": "0,66",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000259",
+        "urun_adi": "JİNYİNG JDB60 TERMO HİGROMETRE",
+        "urun_id": "275",
+        "resim": "/images/Urun_min/d596bb9b-1.jpg",
+        "fiyat": "12,75",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000520",
+        "urun_adi": "DANFOSS MP55 YAĞ OTO.",
+        "urun_id": "276",
+        "resim": "/images/Urun_min/bae7b760-1.png",
+        "fiyat": "162,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000071",
+        "urun_adi": "PRO-HEAT 220VOLT 6mt. KAPI  REZ. 78W",
+        "urun_id": "277",
+        "resim": "/images/Urun_min/3362b27b-7.jpg",
+        "fiyat": "3,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000267",
+        "urun_adi": "TECHSUN HLD-200 GAZ KAÇAK DEDEKTÖRÜ",
+        "urun_id": "278",
+        "resim": "/images/Urun_min/72577b6e-7.jpg",
+        "fiyat": "95,45",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000522",
+        "urun_adi": "DANFOSS KP-15  1243",
+        "urun_id": "279",
+        "resim": "/images/Urun_min/0c1dc7cb-b.png",
+        "fiyat": "58,7",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000524",
+        "urun_adi": "DANFOSS 48-DN DCR DRAYER TAŞI",
+        "urun_id": "280",
+        "resim": "/images/Urun_min/506b7b06-5.jpg",
+        "fiyat": "13,05",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005120",
+        "urun_adi": "KARTLI KUMANDA FANCOİL TİPİ UD-U12A",
+        "urun_id": "283",
+        "resim": "/images/Urun_min/3ad3a5da-2.jpg",
+        "fiyat": "40,27",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000073",
+        "urun_adi": "KESİLEBİLİR KABLO REZİSTANS 100m. / 30w.",
+        "urun_id": "284",
+        "resim": "/images/Urun_min/cd206396-7.jpg",
+        "fiyat": "315",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000519",
+        "urun_adi": "DANFOSS MP54 YAĞ OTO.",
+        "urun_id": "285",
+        "resim": "/images/Urun_min/0296b616-4.png",
+        "fiyat": "145",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005032",
+        "urun_adi": "LG ROTARY KOMPRESÖR GK113PAE 9000 BTU R410",
+        "urun_id": "287",
+        "resim": "/images/Urun_min/4e4fd6b7-1.jpg",
+        "fiyat": "101,75",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005080",
+        "urun_adi": "TECHSUN SPLİT TİP DRENAJ POMPASI PSB1218",
+        "urun_id": "288",
+        "resim": "/images/Urun_min/d6543175-7.jpg",
+        "fiyat": "41,1",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005081",
+        "urun_adi": "TECHSUN KANALLI TİP DRENAJ POMPASI PSB30228",
+        "urun_id": "289",
+        "resim": "/images/Urun_min/7af22476-7.png",
+        "fiyat": "35,95",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008011",
+        "urun_adi": "DECHANG YB 45 SÜPÜRGE MOTORU 1200W",
+        "urun_id": "291",
+        "resim": "/images/Urun_min/4f47d9c0-7.jpg",
+        "fiyat": "12",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000469",
+        "urun_adi": "C-1079/7 CASTEL 7/8\" SELENOİD KAYN.",
+        "urun_id": "292",
+        "resim": "/images/Urun_min/55b2105b-7.jpg",
+        "fiyat": "52,82",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000470",
+        "urun_adi": "C-1099/9 CASTEL 1 1/8\" SELENOİD KAYN.",
+        "urun_id": "293",
+        "resim": "/images/Urun_min/ee3919d0-6.jpg",
+        "fiyat": "92,69",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000186",
+        "urun_adi": "DONGTAİ 2 5/8\" TİTREŞİM ÖNLEYİCİ",
+        "urun_id": "294",
+        "resim": "/images/Urun_min/a3dd1cde-0.jpg",
+        "fiyat": "107,8",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000665",
+        "urun_adi": "TECHSUN R600A GAZ VANASI",
+        "urun_id": "295",
+        "resim": "/images/Urun_min/3913a726-1.jpg",
+        "fiyat": "5,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005001",
+        "urun_adi": "AİR CLİMATE 1/4 - 3/8 3M. MONTAJ KİTİ",
+        "urun_id": "296",
+        "resim": "/images/Urun_min/c46b2282-8.jpg",
+        "fiyat": "7,37",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005002",
+        "urun_adi": "AİR CLİMATE 1/4 - 3/8 5M. MONTAJ KİTİ",
+        "urun_id": "297",
+        "resim": "/images/Urun_min/6c1b1399-5.jpg",
+        "fiyat": "9,42",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005003",
+        "urun_adi": "AİR CLİMATE 1/4 - 3/8 7M. MONTAJ KİTİ",
+        "urun_id": "298",
+        "resim": "/images/Urun_min/b2835fbb-8.jpg",
+        "fiyat": "12,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005005",
+        "urun_adi": "AİR CLİMATE 1/4 - 1/2 3M. MONTAJ KİTİ",
+        "urun_id": "299",
+        "resim": "/images/Urun_min/addd246f-a.jpg",
+        "fiyat": "8,88",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005006",
+        "urun_adi": "AİR CLİMATE 1/4 - 1/2 5M. MONTAJ KİTİ",
+        "urun_id": "300",
+        "resim": "/images/Urun_min/2a5f8ff8-0.jpg",
+        "fiyat": "11,96",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005007",
+        "urun_adi": "AİR CLİMATE 1/4 - 1/2 7M. MONTAJ KİTİ",
+        "urun_id": "301",
+        "resim": "/images/Urun_min/60b49366-2.jpg",
+        "fiyat": "15,22",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005008",
+        "urun_adi": "AİR CLİMATE 1/4 - 1/2 10M. MONTAJ KİTİ",
+        "urun_id": "302",
+        "resim": "/images/Urun_min/db6ac08c-0.jpg",
+        "fiyat": "19,99",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005010",
+        "urun_adi": "AİR CLİMATE 3/8 - 5/8 5M. MONTAJ KİTİ",
+        "urun_id": "303",
+        "resim": "/images/Urun_min/3dc92687-b.jpg",
+        "fiyat": "17,27",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005011",
+        "urun_adi": "AİR CLİMATE 3/8 - 5/8 7M. MONTAJ KİTİ",
+        "urun_id": "304",
+        "resim": "/images/Urun_min/af218578-b.jpg",
+        "fiyat": "21,74",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005012",
+        "urun_adi": "AİR CLİMATE 3/8 - 5/8 10M. MONTAJ KİTİ",
+        "urun_id": "305",
+        "resim": "/images/Urun_min/2b9129b3-1.jpg",
+        "fiyat": "29,11",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005105",
+        "urun_adi": "TECHSUN 50+6 KONDANSATÖR",
+        "urun_id": "308",
+        "resim": "/images/Urun_min/d39291d2-2.jpg",
+        "fiyat": "2,78",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005106",
+        "urun_adi": "TECHSUN 55+6 KONDANSATÖR",
+        "urun_id": "309",
+        "resim": "/images/Urun_min/70b20e40-4.jpg",
+        "fiyat": "2,93",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000268",
+        "urun_adi": "TECHSUN HT81 ANENOMETRE",
+        "urun_id": "944",
+        "resim": "/images/Urun_min/dc140895-e.jpg",
+        "fiyat": "43,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000269",
+        "urun_adi": "TECHSUN HT80A DESİBELMETRE",
+        "urun_id": "945",
+        "resim": "/images/Urun_min/4fb74091-2.jpg",
+        "fiyat": "40",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000270",
+        "urun_adi": "TECHSUN HT86 NEMÖLÇER",
+        "urun_id": "311",
+        "resim": "/images/Urun_min/b1b42877-a.jpg",
+        "fiyat": "42,7",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000271",
+        "urun_adi": "TECHSUN HT88A KIZILÖTESİ TERMOMETRE",
+        "urun_id": "946",
+        "resim": "/images/Urun_min/71b85b95-8.jpg",
+        "fiyat": "29",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004042",
+        "urun_adi": "TECHSUN TCH12380 SU POMPASI",
+        "urun_id": "312",
+        "resim": "/images/Urun_min/3af91017-6.jpg",
+        "fiyat": "83,95",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000167",
+        "urun_adi": "FAN MOTORU AYAK 72MM (20W)",
+        "urun_id": "318",
+        "resim": "/images/Urun_min/bff5b37f-7.jpg",
+        "fiyat": "0,47",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000168",
+        "urun_adi": "FAN MOTORU AYAK 84MM (40-65W)",
+        "urun_id": "319",
+        "resim": "/images/Urun_min/c8d8097f-3.jpg",
+        "fiyat": "0,58",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000169",
+        "urun_adi": "FAN MOTORU AYAK 109MM (100-125W)",
+        "urun_id": "320",
+        "resim": "/images/Urun_min/b99e10be-9.jpg",
+        "fiyat": "0,89",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000369",
+        "urun_adi": "FANCO 550mm FAN MOTORU ÜFLEME",
+        "urun_id": "321",
+        "resim": "/images/Urun_min/5708cb85-2.jpg",
+        "fiyat": "95",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005016",
+        "urun_adi": "AİR CLİMATE 1/4 - 5/8 7M. MONTAJ KİTİ",
+        "urun_id": "322",
+        "resim": "/images/Urun_min/5cd77920-b.jpg",
+        "fiyat": "19,51",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000150",
+        "urun_adi": "ELİWELL EW 974 TERMOSTAT GREY",
+        "urun_id": "323",
+        "resim": "/images/Urun_min/38b5ec78-4.jpg",
+        "fiyat": "29,9",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "K0005036",
+        "urun_adi": "LG SCROLL KOMPRESÖR SB061YMA 5HP R22",
+        "urun_id": "324",
+        "resim": "/images/Urun_min/c83fa8d7-6.jpg",
+        "fiyat": "483",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000515",
+        "urun_adi": "FAN MOTORU PERVANE 350mm 22 DERECE EMİCİ",
+        "urun_id": "325",
+        "resim": "/images/Urun_min/8cec195d-6.jpg",
+        "fiyat": "2,65",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004013",
+        "urun_adi": "İND BUZDOLABI TİMER 173680 (SONXIE)",
+        "urun_id": "327",
+        "resim": "/images/Urun_min/1200ba6c-1.jpg",
+        "fiyat": "5,55",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "A0285437",
+        "urun_adi": "ASKOLL 40 W M221 KARE G.MANYETİK POMPA BAKIR SARGI",
+        "urun_id": "328",
+        "resim": "/images/Urun_min/4019c25a-1.jpg",
+        "fiyat": "6,65",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "B0004024",
+        "urun_adi": "AEG-BCH-VST BUZDOLABI TİMER PASİFİK",
+        "urun_id": "330",
+        "resim": "/images/Urun_min/e3cc531f-1.jpg",
+        "fiyat": "4,15",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006520",
+        "urun_adi": "EMNİYET ANAHTARI ARC 2704830100 / 3 SOKET",
+        "urun_id": "331",
+        "resim": "/images/Urun_min/ca3cd1fe-e.JPG",
+        "fiyat": "3,6",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006521",
+        "urun_adi": "EMNİYET ANAHTARI ARC 2704830300 / 4 SOKET",
+        "urun_id": "332",
+        "resim": "/images/Urun_min/aed86566-3.jpg",
+        "fiyat": "3,32",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006522",
+        "urun_adi": "EMNİYET ANAHTARI ARC 2805310100 / MİNİ",
+        "urun_id": "333",
+        "resim": "/images/Urun_min/74be166e-4.JPG",
+        "fiyat": "2,55",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "A0144997",
+        "urun_adi": "ASKOLL 40 W M231 MANYETİK POMPA BAKIR SARGI",
+        "urun_id": "334",
+        "resim": "/images/Urun_min/df69991f-f.jpg",
+        "fiyat": "6,21",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "K0005009",
+        "urun_adi": "AİR CLİMATE 3/8 - 5/8 3M. MONTAJ KİTİ",
+        "urun_id": "335",
+        "resim": "/images/Urun_min/0fc69771-4.jpg",
+        "fiyat": "12,99",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005112",
+        "urun_adi": "TECHSUN RCS-N9030 SELENOİDLİ TERAZİ 100KG",
+        "urun_id": "339",
+        "resim": "/images/Urun_min/461187b7-6.jpg",
+        "fiyat": "230",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "A0297108",
+        "urun_adi": "NSK 6207-ZZ / C3  RULMAN",
+        "urun_id": "345",
+        "resim": "/images/Urun_min/a9929783-8.jpg",
+        "fiyat": "175,16",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005159",
+        "urun_adi": "DEMİRDÖKÜM KLİMA KUMANDASI",
+        "urun_id": "346",
+        "resim": "/images/Urun_min/40d26eed-c.jpg",
+        "fiyat": "1,94",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005161",
+        "urun_adi": "ELECTRA KLİMA KUMANDASI RC3",
+        "urun_id": "348",
+        "resim": "/images/Urun_min/37fc42a3-9.jpg",
+        "fiyat": "2,66",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005162",
+        "urun_adi": "VESTEL KLİMA KUMANDASI",
+        "urun_id": "349",
+        "resim": "/images/Urun_min/c2bf0999-a.jpg",
+        "fiyat": "2,02",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006523",
+        "urun_adi": "EMNİYET ANAHTARI BCH MAXX 421470",
+        "urun_id": "350",
+        "resim": "/images/Urun_min/6a9e58f2-6.jpg",
+        "fiyat": "6,04",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000464",
+        "urun_adi": "C-1020/2 CASTEL 1/4\" SELENOİD VALF RAK.",
+        "urun_id": "351",
+        "resim": "/images/Urun_min/d043f23b-7.jpg",
+        "fiyat": "20,91",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000465",
+        "urun_adi": "C-1020/3 CASTEL 3/8\" SELENOİD VALF RAK.",
+        "urun_id": "352",
+        "resim": "/images/Urun_min/3eef9779-5.jpg",
+        "fiyat": "21,93",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000468",
+        "urun_adi": "C-1070/5 CASTEL 5/8\" SELENOİD VALF RAK.",
+        "urun_id": "353",
+        "resim": "/images/Urun_min/a23b3c09-e.jpg",
+        "fiyat": "44,14",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000157",
+        "urun_adi": "TECHSUN ETC-961 DİJİTAL TERMOSTAT (TEK SENSÖRLÜ)",
+        "urun_id": "1086",
+        "resim": "/images/Urun_min/9faf8547-c.jpeg",
+        "fiyat": "11,96",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000149",
+        "urun_adi": "ELİWELL EW 961 TERMOSTAT GREY",
+        "urun_id": "355",
+        "resim": "/images/Urun_min/f70c4c5a-9.jpg",
+        "fiyat": "19,33",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "K0005043",
+        "urun_adi": "6*10 ŞEFFAF DRENAJ POMPASI HORTUMU",
+        "urun_id": "356",
+        "resim": "/images/Urun_min/c49a551d-d.jpeg",
+        "fiyat": "5,315",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005055",
+        "urun_adi": "ARÇELİK-BEKO KLİMA KART 5400232812",
+        "urun_id": "357",
+        "resim": "/images/Urun_min/16acf3f1-e.jpg",
+        "fiyat": "1107,35",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005056",
+        "urun_adi": "ARÇELİK-BEKO KLİMA KART 5400379022",
+        "urun_id": "358",
+        "resim": "/images/Urun_min/74d33b32-0.jpg",
+        "fiyat": "1208",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005058",
+        "urun_adi": "ARÇELİK-BEKO ALICI GÖZ 5400255601",
+        "urun_id": "360",
+        "resim": "/images/Urun_min/6a719d3a-1.jpg",
+        "fiyat": "251,7",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005059",
+        "urun_adi": "ARÇELİK-LG CROSS FAN YATAK GRUBU 5400232002",
+        "urun_id": "361",
+        "resim": "/images/Urun_min/9adc8145-f.jpg",
+        "fiyat": "2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005061",
+        "urun_adi": "ARÇELİK-BEKO DIŞ FAN MOTORU 7/9 BTU 5400087825",
+        "urun_id": "362",
+        "resim": "/images/Urun_min/6a49dcfc-9.jpg",
+        "fiyat": "20,35",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005064",
+        "urun_adi": "ARÇELİK-BEKO İÇ FAN MOTORU 18 BTU 5400042904",
+        "urun_id": "364",
+        "resim": "/images/Urun_min/edd29966-8.jpg",
+        "fiyat": "26,7",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005065",
+        "urun_adi": "ARÇELİK-BEKO İÇ FAN MOTORU 24/26 BTU 5400042908",
+        "urun_id": "365",
+        "resim": "/images/Urun_min/9dfc72aa-1.jpg",
+        "fiyat": "23,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005069",
+        "urun_adi": "DUNAN KLİMA 4 YOLLU VANA DSF4  7/9/12K 5/16-3/8",
+        "urun_id": "369",
+        "resim": "/images/Urun_min/9d2e28f4-a.jpg",
+        "fiyat": "12",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005070",
+        "urun_adi": "DUNAN KLİMA 4 YOLLU VANA DSF9 18K 3/8-1/2",
+        "urun_id": "370",
+        "resim": "/images/Urun_min/41c10f21-1.jpg",
+        "fiyat": "14,3",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005071",
+        "urun_adi": "KLİMA VANA 1/4 5400032108",
+        "urun_id": "371",
+        "resim": "/images/Urun_min/04aa9685-0.jpg",
+        "fiyat": "2,93",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005072",
+        "urun_adi": "KLİMA VANA 3/8 5400030919",
+        "urun_id": "372",
+        "resim": "/images/Urun_min/d7369584-1.jpg",
+        "fiyat": "4,58",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005073",
+        "urun_adi": "KLİMA VANA 1/2 5400031911",
+        "urun_id": "373",
+        "resim": "/images/Urun_min/d70f3c1b-f.jpg",
+        "fiyat": "5,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005074",
+        "urun_adi": "KLİMA VANA 5/8 5400030805",
+        "urun_id": "374",
+        "resim": "/images/Urun_min/961c2c9c-3.jpg",
+        "fiyat": "8,01",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005075",
+        "urun_adi": "CHECK VALF 3/8 5400039408",
+        "urun_id": "375",
+        "resim": "/images/Urun_min/df2679b6-1.jpg",
+        "fiyat": "2,69",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005076",
+        "urun_adi": "CHECK VALF 1/2 5400039404",
+        "urun_id": "376",
+        "resim": "/images/Urun_min/0e03adb7-1.jpg",
+        "fiyat": "2,69",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005077",
+        "urun_adi": "ARÇELİK-BEKO DIŞ FAN MOTORU 18/19 BTU 5400724904",
+        "urun_id": "377",
+        "resim": "/images/Urun_min/0e874359-a.jpg",
+        "fiyat": "27,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005078",
+        "urun_adi": "ARÇELİK-BEKO DIŞ FAN MOTORU 24/26 BTU 5400609304",
+        "urun_id": "378",
+        "resim": "/images/Urun_min/d4ea89a8-c.jpg",
+        "fiyat": "27,8",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000154",
+        "urun_adi": "ELİWELL EWRC 500 LX KONTROL CİHAZI",
+        "urun_id": "380",
+        "resim": "/images/Urun_min/6d4c5908-b.jpg",
+        "fiyat": "99,14",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000151",
+        "urun_adi": "ELİWELL EW 961 TERMOSTAT PLUS",
+        "urun_id": "381",
+        "resim": "/images/Urun_min/9434946e-2.jpg",
+        "fiyat": "22,59",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000152",
+        "urun_adi": "ELİWELL EW 974 TERMOSTAT PLUS",
+        "urun_id": "382",
+        "resim": "/images/Urun_min/5c6862fe-8.jpg",
+        "fiyat": "36,05",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "A0194397",
+        "urun_adi": "TP TEKLİ VENTİL ARİSTON 194397",
+        "urun_id": "383",
+        "resim": "/images/Urun_min/73914f03-8.jpg",
+        "fiyat": "2,91",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000019",
+        "urun_adi": "T 20 HS 112 E 2HP FR.GRUP TFH-4524",
+        "urun_id": "384",
+        "resim": "/images/Urun_min/f3d1ee22-a.jpg",
+        "fiyat": "1151,56",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000175",
+        "urun_adi": "TECHSUN SPLİT KLİMA VANASI 7/8",
+        "urun_id": "385",
+        "resim": "/images/Urun_min/fe07757f-0.jpg",
+        "fiyat": "22,9",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000004",
+        "urun_adi": "C 15 HS 112E 1.5HP COP. GRUP CR22",
+        "urun_id": "386",
+        "resim": "/images/Urun_min/cb05a317-9.jpg",
+        "fiyat": "860,18",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000009",
+        "urun_adi": "C 33 HS 112E 3.25HP COP. GRUP CR42",
+        "urun_id": "387",
+        "resim": "/images/Urun_min/1c57f670-b.jpg",
+        "fiyat": "1166,84",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000015",
+        "urun_adi": "T 10 HS 112 E 1HP FR. GRUP CAJ9510",
+        "urun_id": "388",
+        "resim": "/images/Urun_min/5c74971c-5.jpg",
+        "fiyat": "868,25",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000016",
+        "urun_adi": "T 12 HS 112 E 1+HP FR. GRUP CAJ9513",
+        "urun_id": "389",
+        "resim": "/images/Urun_min/0c4a057a-3.jpg",
+        "fiyat": "882,49",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000017",
+        "urun_adi": "T 13 HS 112 E 1.3HP FR. GRUP CAJ4517",
+        "urun_id": "390",
+        "resim": "/images/Urun_min/a46b9c7b-c.jpg",
+        "fiyat": "1000,7",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000018",
+        "urun_adi": "T 15 HS 112 E 1.5HP FR. GRUP CAJ4519",
+        "urun_id": "391",
+        "resim": "/images/Urun_min/6d1836d6-c.jpg",
+        "fiyat": "1036,77",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000020",
+        "urun_adi": "T 25 HS 112 E 2.5HP FR.GRUP TFH4531",
+        "urun_id": "392",
+        "resim": "/images/Urun_min/02fe4ece-4.jpg",
+        "fiyat": "1291,22",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000022",
+        "urun_adi": "T 40 HS 112 E 4HP FR.GRUP TAG4546",
+        "urun_id": "394",
+        "resim": "/images/Urun_min/ad724be4-3.jpg",
+        "fiyat": "1549,46",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000024",
+        "urun_adi": "T 50 HS 112 E 5HP FR.GRUP TAG4561",
+        "urun_id": "395",
+        "resim": "/images/Urun_min/fbc4be78-1.jpg",
+        "fiyat": "1808,47",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000025",
+        "urun_adi": "T 60 HS 112 E 6HP FR.GRUP TAG4568",
+        "urun_id": "889",
+        "resim": "/images/Urun_min/aa84ff9d-b.jpg",
+        "fiyat": "1889,36",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000026",
+        "urun_adi": "T 70 HS 112 E 7HP FR.GRUP TAG4573",
+        "urun_id": "890",
+        "resim": "/images/Urun_min/806f4793-2.jpg",
+        "fiyat": "2041,74",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000028",
+        "urun_adi": "T 15 HD 112 E 1.5HP FR.GRUP CAJ2464",
+        "urun_id": "891",
+        "resim": "/images/Urun_min/8c2476a2-2.jpg",
+        "fiyat": "1006,77",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000490",
+        "urun_adi": "C-2200 ORFİS 0 NUMARA CASTEL",
+        "urun_id": "396",
+        "resim": "/images/Urun_min/af8c64ae-d.jpg",
+        "fiyat": "7,6",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000491",
+        "urun_adi": "C-2201 ORFİS 1 NUMARA CASTEL",
+        "urun_id": "397",
+        "resim": "/images/Urun_min/72541aaa-9.jpg",
+        "fiyat": "7,6",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000492",
+        "urun_adi": "C-2202 ORFİS 2 NUMARA CASTEL",
+        "urun_id": "398",
+        "resim": "/images/Urun_min/7cccce47-2.jpg",
+        "fiyat": "7,6",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000493",
+        "urun_adi": "C-2203 ORFİS 3 NUMARA CASTEL",
+        "urun_id": "399",
+        "resim": "/images/Urun_min/d8824e31-f.jpg",
+        "fiyat": "7,6",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000494",
+        "urun_adi": "C-2204 ORFİS 4 NUMARA CASTEL",
+        "urun_id": "400",
+        "resim": "/images/Urun_min/ffe9ae48-f.jpg",
+        "fiyat": "7,6",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000495",
+        "urun_adi": "C-2205 ORFİS 5 NUMARA CASTEL",
+        "urun_id": "401",
+        "resim": "/images/Urun_min/bb46afd7-f.jpg",
+        "fiyat": "7,6",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000496",
+        "urun_adi": "C-2206 ORFİS 6 NUMARA CASTEL",
+        "urun_id": "402",
+        "resim": "/images/Urun_min/fa294149-6.jpg",
+        "fiyat": "11,95",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006515",
+        "urun_adi": "SKF 6203-ZZ / C3 RULMAN",
+        "urun_id": "403",
+        "resim": "/images/Urun_min/c4553ec5-e.jpg",
+        "fiyat": "66,44",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "E0000466",
+        "urun_adi": "C-1064/3 CASTEL 3/8\" SELENOİD VALF RAK.",
+        "urun_id": "404",
+        "resim": "/images/Urun_min/f5de051b-d.jpg",
+        "fiyat": "27,57",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000467",
+        "urun_adi": "C-1064/4 CASTEL 1/2\" SELENOİD VALF RAK.",
+        "urun_id": "405",
+        "resim": "/images/Urun_min/f4585d41-7.jpg",
+        "fiyat": "27,42",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000471",
+        "urun_adi": "C-1079/11 CASTEL 1 3/8\" SELENOİD KAYN.",
+        "urun_id": "406",
+        "resim": "/images/Urun_min/163721c1-e.jpg",
+        "fiyat": "204,85",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000472",
+        "urun_adi": "CASTEL 1/4 C-4305/2 DRAYER",
+        "urun_id": "407",
+        "resim": "/images/Urun_min/69eef241-c.jpg",
+        "fiyat": "7,53",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000473",
+        "urun_adi": "CASTEL 3/8 C-4308/3 DRAYER",
+        "urun_id": "408",
+        "resim": "/images/Urun_min/2ff27c8c-8.jpg",
+        "fiyat": "8,76",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000474",
+        "urun_adi": "CASTEL 3/8 C-4316/3 DRAYER",
+        "urun_id": "409",
+        "resim": "/images/Urun_min/e028f470-6.jpg",
+        "fiyat": "11,39",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000475",
+        "urun_adi": "CASTEL 1/2 C-4308/4 DRAYER",
+        "urun_id": "410",
+        "resim": "/images/Urun_min/5b866e44-d.jpg",
+        "fiyat": "9,7",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000476",
+        "urun_adi": "CASTEL 1/2 C-4316/4 DRAYER",
+        "urun_id": "411",
+        "resim": "/images/Urun_min/1c9b12c4-f.jpg",
+        "fiyat": "11,39",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000477",
+        "urun_adi": "CASTEL 5/8 C-4316/5 DRAYER",
+        "urun_id": "412",
+        "resim": "/images/Urun_min/4c3bbe05-8.jpg",
+        "fiyat": "13,02",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000478",
+        "urun_adi": "CASTEL 5/8 C-4330/5 DRAYER",
+        "urun_id": "413",
+        "resim": "/images/Urun_min/35f73121-a.jpg",
+        "fiyat": "21,71",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000479",
+        "urun_adi": "C-3810/33 CASTEL 3/8 GÖZ. CAMI RAK.",
+        "urun_id": "414",
+        "resim": "/images/Urun_min/1532debc-5.jpg",
+        "fiyat": "7,81",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000480",
+        "urun_adi": "C-3810/44 CASTEL 1/2 GÖZ. CAMI RAK.",
+        "urun_id": "415",
+        "resim": "/images/Urun_min/2ce3051e-b.jpg",
+        "fiyat": "8,83",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000481",
+        "urun_adi": "C-3810/55 CASTEL 5/8 GÖZ. CAMI RAK.",
+        "urun_id": "416",
+        "resim": "/images/Urun_min/dfc9dd88-5.jpg",
+        "fiyat": "9,84",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000482",
+        "urun_adi": "C-3940/7 CASTEL 7/8 GÖZ. CAMI KAYN.",
+        "urun_id": "417",
+        "resim": "/images/Urun_min/54081c01-7.jpg",
+        "fiyat": "20,26",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000483",
+        "urun_adi": "C-3940/9 CASTEL 1 1/8 GÖZ. CAMI KAYN.",
+        "urun_id": "418",
+        "resim": "/images/Urun_min/0398b2ce-0.jpg",
+        "fiyat": "26,19",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000484",
+        "urun_adi": "C-2210/4 CASTEL R22/407C EXP. VALF İÇ DENGE",
+        "urun_id": "419",
+        "resim": "/images/Urun_min/50152ceb-8.jpg",
+        "fiyat": "27,2",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000485",
+        "urun_adi": "C-2230/4 CASTEL R404A EXP. VALF İÇ DENGE",
+        "urun_id": "420",
+        "resim": "/images/Urun_min/a5cb4c3f-1.jpg",
+        "fiyat": "38,66",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000486",
+        "urun_adi": "C-2220/4 CASTEL R134A EXP. VALF İÇ DENGE",
+        "urun_id": "421",
+        "resim": "/images/Urun_min/0e5d9f0f-4.jpg",
+        "fiyat": "38,66",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000487",
+        "urun_adi": "C-2210/4E CASTEL R22/407C EXP. VALF DIŞ DENGE",
+        "urun_id": "422",
+        "resim": "/images/Urun_min/83324d7b-e.jpg",
+        "fiyat": "47,76",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000488",
+        "urun_adi": "C-2230/4E CASTEL R404A EXP. VALF DIŞ DENGE",
+        "urun_id": "423",
+        "resim": "/images/Urun_min/725b3514-b.jpg",
+        "fiyat": "45,04",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000489",
+        "urun_adi": "C-2220/4E CASTEL R134A EXP. VALF DIŞ DENGE",
+        "urun_id": "424",
+        "resim": "/images/Urun_min/13e8712e-f.jpg",
+        "fiyat": "45,04",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000003",
+        "urun_adi": "C 13 HS 112E 1 1/3HP COP. GRUP KCJ484",
+        "urun_id": "425",
+        "resim": "/images/Urun_min/8011218f-f.jpg",
+        "fiyat": "675,99",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "B0004028",
+        "urun_adi": "FSTB K54P1168 1.2mt DERİN DOND. TERMOSTAT",
+        "urun_id": "1085",
+        "resim": "/images/Urun_min/e8117722-3.jpeg",
+        "fiyat": "3,02",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005190",
+        "urun_adi": "ARÇELİK-BEKO KLİMA KART 5400188308",
+        "urun_id": "426",
+        "resim": "/images/Urun_min/e648cae7-3.jpg",
+        "fiyat": "855,7",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005189",
+        "urun_adi": "ARÇELİK-BEKO KLİMA KART 5400188306",
+        "urun_id": "427",
+        "resim": "/images/Urun_min/d63a5c9f-3.jpg",
+        "fiyat": "480,8",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005188",
+        "urun_adi": "ARÇELİK-BEKO ALICI GÖZ 5400061005",
+        "urun_id": "428",
+        "resim": "/images/Urun_min/394de884-a.jpg",
+        "fiyat": "1006,7",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "S0008023",
+        "urun_adi": "TECHSUN TB45 SÜPÜRGE MOTORU 1400W",
+        "urun_id": "429",
+        "resim": "/images/Urun_min/d1ec77f6-5.jpg",
+        "fiyat": "8,76",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008025",
+        "urun_adi": "TECHSUN TB55 SÜPÜRGE MOTORU 1400W",
+        "urun_id": "919",
+        "resim": "/images/Urun_min/ed1bbbe4-0.jpg",
+        "fiyat": "9,24",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008026",
+        "urun_adi": "TECHSUN TB60 SUPURGE MOTORU 1400W",
+        "urun_id": "430",
+        "resim": "/images/Urun_min/278ebad7-d.jpg",
+        "fiyat": "14,68",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008027",
+        "urun_adi": "TECHSUN TB60 SÜPÜRGE MOTORU 1600W",
+        "urun_id": "431",
+        "resim": "/images/Urun_min/70a2f77c-1.jpg",
+        "fiyat": "14,68",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005163",
+        "urun_adi": "ELECTRA KLİMA KUMANDASI MİNİ RC5",
+        "urun_id": "432",
+        "resim": "/images/Urun_min/83f80421-3.jpg",
+        "fiyat": "2,05",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008020",
+        "urun_adi": "TECHSUN TB30 SÜPÜRGE MOTORU 1200W",
+        "urun_id": "433",
+        "resim": "/images/Urun_min/4c1cfeef-f.jpg",
+        "fiyat": "7,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008021",
+        "urun_adi": "TECHSUN TB35 SÜPÜRGE MOTORU 1200W",
+        "urun_id": "1052",
+        "resim": "/images/Urun_min/578a68db-1.jpg",
+        "fiyat": "7,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008024",
+        "urun_adi": "TECHSUN TB50 SÜPÜRGE MOTORU 1400W",
+        "urun_id": "434",
+        "resim": "/images/Urun_min/d6adacfe-6.jpg",
+        "fiyat": "12,02",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008022",
+        "urun_adi": "TECHSUN TB40 SÜPÜRGE MOTORU 1200W",
+        "urun_id": "1023",
+        "resim": "/images/Urun_min/382cd28f-e.jpg",
+        "fiyat": "9,48",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005039",
+        "urun_adi": "PANASONİC 2JS 464 D3 BB02 24.000 BTU COMP.",
+        "urun_id": "435",
+        "resim": "/images/Urun_min/b7af3abe-a.jpg",
+        "fiyat": "159",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005004",
+        "urun_adi": "AİR CLİMATE 1/4 - 3/8 10M. MONTAJ KİTİ",
+        "urun_id": "436",
+        "resim": "/images/Urun_min/5496b45f-7.jpg",
+        "fiyat": "16,25",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005017",
+        "urun_adi": "AİR CLİMATE 3/8 - 3/4  5M. MONTAJ KİTİ",
+        "urun_id": "437",
+        "resim": "/images/Urun_min/71073618-2.jpg",
+        "fiyat": "21,15",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005018",
+        "urun_adi": "AİR CLİMATE 3/8 - 3/4  7M. MONTAJ KİTİ",
+        "urun_id": "438",
+        "resim": "/images/Urun_min/d79c76e1-6.jpg",
+        "fiyat": "26,88",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005019",
+        "urun_adi": "AİR CLİMATE 3/8 - 3/4  10M. MONTAJ KİTİ",
+        "urun_id": "439",
+        "resim": "/images/Urun_min/51a51f73-a.jpg",
+        "fiyat": "34,73",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005020",
+        "urun_adi": "AİR CLİMATE 1/2 - 3/4  5M. MONTAJ KİTİ",
+        "urun_id": "440",
+        "resim": "/images/Urun_min/d69c2526-5.jpg",
+        "fiyat": "23,25",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005021",
+        "urun_adi": "AİR CLİMATE 1/2 - 3/4  7M. MONTAJ KİTİ",
+        "urun_id": "441",
+        "resim": "/images/Urun_min/4b557880-c.jpg",
+        "fiyat": "28,99",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005022",
+        "urun_adi": "AİR CLİMATE 1/2 - 3/4  10M. MONTAJ KİTİ",
+        "urun_id": "442",
+        "resim": "/images/Urun_min/5ae3fa29-0.jpg",
+        "fiyat": "38,66",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006504",
+        "urun_adi": "TECHNO-PUMP CL3000S OÇM POMPA",
+        "urun_id": "445",
+        "resim": "/images/Urun_min/4334c63c-5.jpg",
+        "fiyat": "6,3",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006508",
+        "urun_adi": "TECHNO-PUMP CL4000 OÇM POMPA",
+        "urun_id": "449",
+        "resim": "/images/Urun_min/067cd999-c.jpg",
+        "fiyat": "6,1",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006512",
+        "urun_adi": "TECHNO-PUMP CL07212 OÇM POMPA",
+        "urun_id": "453",
+        "resim": "/images/Urun_min/a9feaa08-6.jpg",
+        "fiyat": "6,3",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000115",
+        "urun_adi": "VAKUM POMPASI CL 2100 13M3 ÇİFT KADEME",
+        "urun_id": "456",
+        "resim": "/images/Urun_min/b12bd84c-7.jpg",
+        "fiyat": "237,45",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000109",
+        "urun_adi": "VAKUM POMPASI CL 1100 12M3 TEK KADEME",
+        "urun_id": "457",
+        "resim": "/images/Urun_min/6d42d286-9.jpg",
+        "fiyat": "203,55",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000535",
+        "urun_adi": "TECHSUN PVC PERDE 300MM*3MM*50M ( MAVİ )",
+        "urun_id": "460",
+        "resim": "/images/Urun_min/4cb27a2b-1.jpg",
+        "fiyat": "337",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000536",
+        "urun_adi": "TECHSUN PVC PERDE 200MM*2MM*50M ( MAVİ )",
+        "urun_id": "461",
+        "resim": "/images/Urun_min/9d55a03b-f.jpg",
+        "fiyat": "131,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006516",
+        "urun_adi": "SKF 6204-ZZ / C3 RULMAN",
+        "urun_id": "462",
+        "resim": "/images/Urun_min/fc4d538c-d.jpg",
+        "fiyat": "82,14",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "O0006517",
+        "urun_adi": "SKF 6205-ZZ / C3 RULMAN",
+        "urun_id": "463",
+        "resim": "/images/Urun_min/42ea1f91-3.jpg",
+        "fiyat": "94,22",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "O0006518",
+        "urun_adi": "SKF 6202-ZZ / C3 RULMAN",
+        "urun_id": "464",
+        "resim": "/images/Urun_min/af2591a7-1.jpg",
+        "fiyat": "65,23",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "E0000074",
+        "urun_adi": "KESİLEBİLİR KABLO REZİSTANS 100m. / 50w.",
+        "urun_id": "465",
+        "resim": "/images/Urun_min/a58862fe-3.jpg",
+        "fiyat": "3,15",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006519",
+        "urun_adi": "SKF 6206-ZZ / C3  RULMAN",
+        "urun_id": "466",
+        "resim": "/images/Urun_min/012cf6cf-0.jpg",
+        "fiyat": "132,88",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "E0000113",
+        "urun_adi": "VAKUM POMPASI CL 260 8m3 ÇİFT KADEME",
+        "urun_id": "467",
+        "resim": "/images/Urun_min/df007216-5.jpg",
+        "fiyat": "192,95",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005082",
+        "urun_adi": "TECHSUN APLİK TİP DRENAJ POMPASI PSB1018",
+        "urun_id": "469",
+        "resim": "/global_assets/images/placeholders/placeholder.jpg",
+        "fiyat": "36,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006502",
+        "urun_adi": "TECHNO-PUMP WP4125 OÇM POMPA",
+        "urun_id": "470",
+        "resim": "/images/Urun_min/b8f58848-3.jpg",
+        "fiyat": "4,73",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004015",
+        "urun_adi": "TECHNO FAN BUZDOLABI FAN MOTORU CL174705",
+        "urun_id": "471",
+        "resim": "/images/Urun_min/7f9adb54-8.jpeg",
+        "fiyat": "5,92",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005013",
+        "urun_adi": "AİR CLİMATE 1/4 - 5/8  3M. MONTAJ KİTİ",
+        "urun_id": "472",
+        "resim": "/images/Urun_min/1af2061c-2.jpg",
+        "fiyat": "11,3",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005015",
+        "urun_adi": "AİR CLİMATE 1/4 - 5/8  5M. MONTAJ KİTİ",
+        "urun_id": "473",
+        "resim": "/images/Urun_min/a7503d90-9.jpg",
+        "fiyat": "15,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000668",
+        "urun_adi": "TECHSUN 57 CM SİLİKON KARTER ISITICI 50W.",
+        "urun_id": "474",
+        "resim": "/images/Urun_min/ae81ba7b-d.jpg",
+        "fiyat": "9,51",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000336",
+        "urun_adi": "FAN AİR 172*150*51 KARE FAN",
+        "urun_id": "478",
+        "resim": "/images/Urun_min/5b9ff1dd-c.jpg",
+        "fiyat": "12,25",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000114",
+        "urun_adi": "VAKUM POMPASI CL 280 10,5m3 ÇİFT KADEME",
+        "urun_id": "480",
+        "resim": "/images/Urun_min/292c9bcc-d.jpg",
+        "fiyat": "218,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004001",
+        "urun_adi": "PARS- AS 170 1/4 KOMPRESOR",
+        "urun_id": "482",
+        "resim": "/images/Urun_min/118a0210-2.jpg",
+        "fiyat": "36,12",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004002",
+        "urun_adi": "PARS- AS 190 1/4+ KOMPRESOR",
+        "urun_id": "483",
+        "resim": "/images/Urun_min/4c213ca6-a.jpg",
+        "fiyat": "36,12",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005088",
+        "urun_adi": "TECHSUN KLİMA 4 YOLLU VANA DSF-50 7/8 - 1 1/8",
+        "urun_id": "484",
+        "resim": "/images/Urun_min/2d14c350-b.jpg",
+        "fiyat": "171,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004003",
+        "urun_adi": "PARS- AS 100 1/6 KOMPRESOR",
+        "urun_id": "486",
+        "resim": "/images/Urun_min/71d0e209-b.jpg",
+        "fiyat": "40,75",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004004",
+        "urun_adi": "PARS- AS 140 1/5 KOMPRESOR",
+        "urun_id": "487",
+        "resim": "/images/Urun_min/3cb8d53c-5.jpg",
+        "fiyat": "58,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004005",
+        "urun_adi": "PARS- AS 200 1/4+ R600 KOMPRESOR",
+        "urun_id": "488",
+        "resim": "/images/Urun_min/218e19dc-2.jpg",
+        "fiyat": "34,3",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004006",
+        "urun_adi": "PARS- AS 650 1/4 650 KALORİ KOMPRESOR",
+        "urun_id": "489",
+        "resim": "/images/Urun_min/c7512e3f-7.jpg",
+        "fiyat": "53,15",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000055",
+        "urun_adi": "TECHNO FAN YJF5 / 33W FAN MOTORU",
+        "urun_id": "490",
+        "resim": "/images/Urun_min/62202fd0-2.jpg",
+        "fiyat": "5,88",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000056",
+        "urun_adi": "TECHNO FAN YJF10 / 42W FAN MOTORU",
+        "urun_id": "491",
+        "resim": "/images/Urun_min/8ab2880f-1.jpg",
+        "fiyat": "7,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000057",
+        "urun_adi": "TECHNO FAN YJF16 / 58W FAN MOTORU",
+        "urun_id": "492",
+        "resim": "/images/Urun_min/dd3b225f-4.jpg",
+        "fiyat": "9,18",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000058",
+        "urun_adi": "TECHNO FAN YJF18 / 72W FAN MOTORU",
+        "urun_id": "493",
+        "resim": "/images/Urun_min/bb67785f-7.jpg",
+        "fiyat": "10,27",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000059",
+        "urun_adi": "TECHNO FAN YJF25 / 95W  FAN MOTORU",
+        "urun_id": "494",
+        "resim": "/images/Urun_min/06c96346-a.jpg",
+        "fiyat": "12,26",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000060",
+        "urun_adi": "TECHNO FAN YJF34 / 120W FAN MOTORU",
+        "urun_id": "495",
+        "resim": "/images/Urun_min/d5a8827c-b.jpg",
+        "fiyat": "13,75",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006527",
+        "urun_adi": "EMNİYET ANAHTARI SAMSUNG DC64-00653C",
+        "urun_id": "497",
+        "resim": "/images/Urun_min/db6ae497-0.jpg",
+        "fiyat": "2,96",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "B0004037",
+        "urun_adi": "BİMETAL SİGORTA GRUBU 196986 SİYAH İND",
+        "urun_id": "498",
+        "resim": "/images/Urun_min/57636f4d-8.jpg",
+        "fiyat": "3,99",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004038",
+        "urun_adi": "BİMETAL SİGORTA GRUBU 196988-196985 BEYAZ İND",
+        "urun_id": "499",
+        "resim": "/images/Urun_min/ec83dc30-5.jpg",
+        "fiyat": "3,99",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005165",
+        "urun_adi": "LG ROTARY KOMPRESÖR QP407PNA LG 24.000 BTU",
+        "urun_id": "1102",
+        "resim": "/images/Urun_min/7dfc1814-a.jpg",
+        "fiyat": "142,55",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000773",
+        "urun_adi": "TECHSUN TPM-250 ALÇAK BASINÇ MANOMETRE GLİSERİNLİ",
+        "urun_id": "500",
+        "resim": "/images/Urun_min/9d0d64d3-f.jpg",
+        "fiyat": "7,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000774",
+        "urun_adi": "TECHSUN TPM-500 YÜKSEK BASINÇ MANOMETRE GLİSERİNLİ",
+        "urun_id": "501",
+        "resim": "/images/Urun_min/92c7a095-a.jpg",
+        "fiyat": "7,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000771",
+        "urun_adi": "TECHSUN SPLİT KLİMA VANASI 1 1/8",
+        "urun_id": "502",
+        "resim": "/images/Urun_min/c6c9307a-5.jpg",
+        "fiyat": "35,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005122",
+        "urun_adi": "OTO JAKI ÜSTTEN VANALI MAVİ",
+        "urun_id": "503",
+        "resim": "/images/Urun_min/9ebde750-4.jpg",
+        "fiyat": "12,05",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000768",
+        "urun_adi": "JİNYİNG TPM-10 TERMOMETRE 1.5M. SENSÖRLÜ",
+        "urun_id": "504",
+        "resim": "/images/Urun_min/2a7c0f4a-6.JPG",
+        "fiyat": "1,62",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000666",
+        "urun_adi": "TECHSUN 41 CM SİLİKON KARTER ISITICI 50W.",
+        "urun_id": "505",
+        "resim": "/images/Urun_min/16d414b4-4.jpg",
+        "fiyat": "7,26",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000617",
+        "urun_adi": "COPELAND ZR28K3PFJ-522 2.5 HP 220V. KOMPRESÖR",
+        "urun_id": "511",
+        "resim": "/images/Urun_min/eef6e3b9-2.jpg",
+        "fiyat": "645,25",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000618",
+        "urun_adi": "COPELAND ZR28K3E-TFD-522 KOMPRESÖR",
+        "urun_id": "512",
+        "resim": "/images/Urun_min/ce36e7c0-8.jpg",
+        "fiyat": "513,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000619",
+        "urun_adi": "COPELAND ZR34K3-PFJ-522 3HP 220V KOMPRESÖR",
+        "urun_id": "513",
+        "resim": "/images/Urun_min/82fc5e9d-4.jpg",
+        "fiyat": "667,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000620",
+        "urun_adi": "COPELAND ZR34KH-TFD-522 3HP KOMPRESÖR",
+        "urun_id": "514",
+        "resim": "/images/Urun_min/332a14be-f.jpg",
+        "fiyat": "601",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000621",
+        "urun_adi": "COPELAND ZR47KC-TFD-522 4HP KOMPRESÖR",
+        "urun_id": "515",
+        "resim": "/images/Urun_min/c0539ee8-5.jpg",
+        "fiyat": "674",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000623",
+        "urun_adi": "COPELAND ZR72KC-TFD-522 6HP KOMPRESÖR",
+        "urun_id": "516",
+        "resim": "/images/Urun_min/f584f12e-f.jpg",
+        "fiyat": "775,75",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000624",
+        "urun_adi": "COPELAND ZR81KC-TFD-522 7HP KOMPRESÖR",
+        "urun_id": "517",
+        "resim": "/images/Urun_min/f1cfda08-3.jpg",
+        "fiyat": "1182,35",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000625",
+        "urun_adi": "COPELAND ZR160 KCE-TFD 522 13 HP KOMPRESÖR",
+        "urun_id": "518",
+        "resim": "/images/Urun_min/7b28eb36-e.jpg",
+        "fiyat": "1832,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000627",
+        "urun_adi": "MANEROUP SM084 7 HP SCROL KOMPRESÖR",
+        "urun_id": "519",
+        "resim": "/images/Urun_min/74ca281b-7.jpg",
+        "fiyat": "1289,35",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000629",
+        "urun_adi": "MANEROUP SM1124 10 HP SCROL KOMPRESÖR",
+        "urun_id": "521",
+        "resim": "/images/Urun_min/19abc2a8-3.jpg",
+        "fiyat": "1358,9",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000630",
+        "urun_adi": "MANEROUP SM1147 12 HP SCROL KOMPRESÖR",
+        "urun_id": "522",
+        "resim": "/images/Urun_min/de0f7db3-3.jpg",
+        "fiyat": "1428,7",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000631",
+        "urun_adi": "MANEROUP SM 185-6RI KOMPRESÖR",
+        "urun_id": "523",
+        "resim": "/images/Urun_min/346a4725-7.jpg",
+        "fiyat": "1936,7",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000776",
+        "urun_adi": "ELİWELL EWRC 500 NT KONTROL CİHAZI",
+        "urun_id": "525",
+        "resim": "/images/Urun_min/dae2809e-e.jpg",
+        "fiyat": "105",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "S0008043",
+        "urun_adi": "TECHSUN TB5 SÜPÜRGE MOTORU 1300W.",
+        "urun_id": "917",
+        "resim": "/images/Urun_min/2cc0e394-3.jpg",
+        "fiyat": "9,24",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008044",
+        "urun_adi": "TECHSUN TB5A SÜPÜRGE MOTORU 800W",
+        "urun_id": "918",
+        "resim": "/images/Urun_min/f0bdc661-0.jpg",
+        "fiyat": "8,99",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000762",
+        "urun_adi": "PRO-HEAT 7.5mt DRAİN LİNE REZİSTANS 225w.",
+        "urun_id": "527",
+        "resim": "/images/Urun_min/ba2fc068-3.jpg",
+        "fiyat": "18,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000755",
+        "urun_adi": "PVC PERDE ASKI GÖVDE 100CM (304K)",
+        "urun_id": "528",
+        "resim": "/images/Urun_min/8580ea5b-6.jpg",
+        "fiyat": "19,1",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005167",
+        "urun_adi": "ARÇELİK KLİMA KUMANDASI 5401219101",
+        "urun_id": "530",
+        "resim": "/images/Urun_min/3456e9d7-2.jpg",
+        "fiyat": "72",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "E0000779",
+        "urun_adi": "PRO-HEAT 6mt DRAİN LİNE REZİSTANS 180w.",
+        "urun_id": "531",
+        "resim": "/images/Urun_min/13279f2e-6.jpg",
+        "fiyat": "14,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008045",
+        "urun_adi": "TECHSUN TB48 SÜP. MOTORU 1400W KONDANSATÖRLÜ",
+        "urun_id": "532",
+        "resim": "/images/Urun_min/8cff0158-9.jpg",
+        "fiyat": "9,1",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005168",
+        "urun_adi": "ARÇELİK-BEKO KLİMA KART 5400735210",
+        "urun_id": "533",
+        "resim": "/images/Urun_min/b0c79075-7.jpg",
+        "fiyat": "2416",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005170",
+        "urun_adi": "ARÇELİK-BEKO ALICI GÖZ 5400786801",
+        "urun_id": "535",
+        "resim": "/images/Urun_min/cc9c5011-0.jpg",
+        "fiyat": "231,5",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005171",
+        "urun_adi": "ARÇELİK-BEKO ALICI GÖZ 5400934501",
+        "urun_id": "536",
+        "resim": "/images/Urun_min/607fe481-2.jpg",
+        "fiyat": "231,5",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005172",
+        "urun_adi": "ARÇELİK-LG KLİMA KUMANDASI 5400929811",
+        "urun_id": "537",
+        "resim": "/images/Urun_min/8d7d0ae1-8.jpg",
+        "fiyat": "73,95",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005173",
+        "urun_adi": "ARÇELİK-BEKO KONTROL KUTUSU 5400977817",
+        "urun_id": "538",
+        "resim": "/images/Urun_min/6385a366-c.jpg",
+        "fiyat": "4130",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005174",
+        "urun_adi": "ARÇELİK-BEKO KONTROL KUTUSU 5400792303",
+        "urun_id": "539",
+        "resim": "/images/Urun_min/7da0c1f3-5.jpg",
+        "fiyat": "6090",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005175",
+        "urun_adi": "ARÇELİK-LG KLİMA KUMANDASI 5400929807",
+        "urun_id": "540",
+        "resim": "/images/Urun_min/8ec0a1f5-9.jpg",
+        "fiyat": "73,95",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005176",
+        "urun_adi": "ARÇELİK-BEKO KLİMA KART 5400232811",
+        "urun_id": "541",
+        "resim": "/images/Urun_min/d1efdc9a-2.jpg",
+        "fiyat": "1107,5",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005177",
+        "urun_adi": "ARÇELİK-BEKO KLİMA TERMİSTÖR 5401033401",
+        "urun_id": "542",
+        "resim": "/images/Urun_min/a7a45f28-d.jpg",
+        "fiyat": "211,4",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "E0000789",
+        "urun_adi": "DUCATI 16UF KONDANSATOR",
+        "urun_id": "546",
+        "resim": "/images/Urun_min/6e72531e-6.jpg",
+        "fiyat": "1,55",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000790",
+        "urun_adi": "DUCATI 18UF KONDANSATOR",
+        "urun_id": "547",
+        "resim": "/images/Urun_min/060cf724-b.jpg",
+        "fiyat": "1,62",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000791",
+        "urun_adi": "DUCATI 20UF KONDANSATOR",
+        "urun_id": "548",
+        "resim": "/images/Urun_min/2fd0d824-4.jpg",
+        "fiyat": "1,68",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000810",
+        "urun_adi": "HONEYWELL TMVX-00108U R404A EXP. VALF",
+        "urun_id": "989",
+        "resim": "/images/Urun_min/6a27be30-8.jpg",
+        "fiyat": "42,3",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000812",
+        "urun_adi": "HONEYWELL TMVD 00008 - 0.5 ORIFIS",
+        "urun_id": "990",
+        "resim": "/images/Urun_min/8e8aaf87-f.jpg",
+        "fiyat": "9,25",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000813",
+        "urun_adi": "HONEYWELL TMVD 00009 - 0.7 ORIFIS",
+        "urun_id": "991",
+        "resim": "/images/Urun_min/a9b4499d-f.jpg",
+        "fiyat": "9,25",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000814",
+        "urun_adi": "HONEYWELL TMVD 00001 - 1 ORIFIS",
+        "urun_id": "992",
+        "resim": "/images/Urun_min/342b445d-f.jpg",
+        "fiyat": "9,25",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000815",
+        "urun_adi": "HONEYWELL TMVD 00002 - 1.5 ORIFIS",
+        "urun_id": "993",
+        "resim": "/images/Urun_min/435c4834-5.jpg",
+        "fiyat": "9,25",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000817",
+        "urun_adi": "HONEYWELL TMVD 00004 - 2.5 ORIFIS",
+        "urun_id": "994",
+        "resim": "/images/Urun_min/72bbb87b-a.jpg",
+        "fiyat": "9,25",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000819",
+        "urun_adi": "HONEYWELL TMVD 00006 - 3.5 ORIFIS",
+        "urun_id": "995",
+        "resim": "/images/Urun_min/75493aac-0.jpg",
+        "fiyat": "9,25",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000875",
+        "urun_adi": "PVC PERDE ASKI GÖVDE 60CM PVC",
+        "urun_id": "550",
+        "resim": "/images/Urun_min/87bd2121-3.jpg",
+        "fiyat": "4,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000877",
+        "urun_adi": "C 60 HS 112E 6HP COP. GRUP CR62 EKO",
+        "urun_id": "950",
+        "resim": "/images/Urun_min/69db7433-c.jpg",
+        "fiyat": "1450",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "X0000064",
+        "urun_adi": "BCH BUZDOLABI TİMER JS4-802-1",
+        "urun_id": "552",
+        "resim": "/images/Urun_min/bcf3f426-0.jpg",
+        "fiyat": "4,95",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "X0000071",
+        "urun_adi": "1/2 RAKOR (CL)",
+        "urun_id": "920",
+        "resim": "/images/Urun_min/2fdd6881-5.jpg",
+        "fiyat": "0,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008046",
+        "urun_adi": "DECHANG YB 43 SÜPÜRGE MOTORU 1700W",
+        "urun_id": "554",
+        "resim": "/images/Urun_min/0c75d522-f.jpg",
+        "fiyat": "10,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005218",
+        "urun_adi": "KT-9018E UNİVERSAL KUMANDA 5000 KOD",
+        "urun_id": "555",
+        "resim": "/images/Urun_min/94c8bb07-c.jpg",
+        "fiyat": "2,19",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000868",
+        "urun_adi": "C 15 HS 112E 1.5HP COP. GRUP CR22 EKO 220V.",
+        "urun_id": "951",
+        "resim": "/images/Urun_min/0463322b-d.jpg",
+        "fiyat": "860",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000869",
+        "urun_adi": "C 20 HS 112E 2HP COP. GRUP CR24 EKO",
+        "urun_id": "952",
+        "resim": "/images/Urun_min/b9e7a7da-b.jpg",
+        "fiyat": "899",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000870",
+        "urun_adi": "C 25 HS 112E 2.5HP COP. GRUP CR30 EKO",
+        "urun_id": "953",
+        "resim": "/images/Urun_min/a86e1ba1-c.jpg",
+        "fiyat": "965",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000871",
+        "urun_adi": "C 30 HS 112E 3HP COP. GRUP CR34 EKO",
+        "urun_id": "954",
+        "resim": "/images/Urun_min/16c17fc8-8.jpg",
+        "fiyat": "1060",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000872",
+        "urun_adi": "C 40 HS 112E 4HP COP. GRUP CR47 EKO",
+        "urun_id": "955",
+        "resim": "/images/Urun_min/b6ad9f23-7.jpg",
+        "fiyat": "1160",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000873",
+        "urun_adi": "C 50 HS 112E 5HP COP. GRUP CR57 EKO",
+        "urun_id": "956",
+        "resim": "/images/Urun_min/bfddfd35-1.jpg",
+        "fiyat": "1300",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000822",
+        "urun_adi": "TECHSUN 0.9 UF KARE KONDANSATOR",
+        "urun_id": "556",
+        "resim": "/images/Urun_min/76b06810-6.jpg",
+        "fiyat": "0,31",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000823",
+        "urun_adi": "TECHSUN 1 UF KARE KONDANSATOR",
+        "urun_id": "557",
+        "resim": "/images/Urun_min/94db6d05-a.jpg",
+        "fiyat": "0,32",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000824",
+        "urun_adi": "TECHSUN 1.5 UF KARE KONDANSATOR",
+        "urun_id": "558",
+        "resim": "/images/Urun_min/e1c0717f-c.jpg",
+        "fiyat": "0,35",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000825",
+        "urun_adi": "TECHSUN 2 UF KARE KONDANSATOR",
+        "urun_id": "559",
+        "resim": "/images/Urun_min/34821e9f-9.jpg",
+        "fiyat": "0,36",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000826",
+        "urun_adi": "TECHSUN 2.5 UF KARE KONDANSATOR",
+        "urun_id": "560",
+        "resim": "/images/Urun_min/80523feb-2.jpg",
+        "fiyat": "0,42",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000827",
+        "urun_adi": "TECHSUN 3 UF KARE KONDANSATOR",
+        "urun_id": "561",
+        "resim": "/images/Urun_min/a0354fce-2.jpg",
+        "fiyat": "0,45",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000828",
+        "urun_adi": "TECHSUN 3.5 UF KARE KONDANSATOR",
+        "urun_id": "562",
+        "resim": "/images/Urun_min/17c7e742-f.jpg",
+        "fiyat": "0,52",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000829",
+        "urun_adi": "TECHSUN 4 UF KARE KONDANSATOR",
+        "urun_id": "563",
+        "resim": "/images/Urun_min/f80783ef-a.jpg",
+        "fiyat": "0,55",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000830",
+        "urun_adi": "TECHSUN 4.5 UF KARE KONDANSATOR",
+        "urun_id": "564",
+        "resim": "/images/Urun_min/3de10a14-7.jpg",
+        "fiyat": "0,58",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000831",
+        "urun_adi": "TECHSUN 5 UF KARE KONDANSATOR",
+        "urun_id": "565",
+        "resim": "/images/Urun_min/97b71be6-1.jpg",
+        "fiyat": "0,66",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004057",
+        "urun_adi": "ARÇ BUZDOLABI TİMER(SONXIE)",
+        "urun_id": "566",
+        "resim": "/images/Urun_min/8325f29d-5.jpg",
+        "fiyat": "4,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004058",
+        "urun_adi": "BUZDOLABI SENSÖR VST BEYAZ 030014912",
+        "urun_id": "567",
+        "resim": "/images/Urun_min/575ea7e8-4.jpg",
+        "fiyat": "1,27",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004059",
+        "urun_adi": "BUZDOLABI SENSÖR BCH KSU MODEL SİYAH UÇ",
+        "urun_id": "568",
+        "resim": "/images/Urun_min/1420c078-b.jpg",
+        "fiyat": "1,91",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004060",
+        "urun_adi": "BUZDOLABI SENSÖR BCH UZUN KIRMIZI SOKET",
+        "urun_id": "569",
+        "resim": "/images/Urun_min/05a10075-c.jpg",
+        "fiyat": "2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004061",
+        "urun_adi": "BUZDOLABI SENSÖR İND BEYAZ 092208",
+        "urun_id": "570",
+        "resim": "/images/Urun_min/785c636a-0.jpg",
+        "fiyat": "2,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004062",
+        "urun_adi": "TERMAL SİGORTA GRUBU 72 DERECE 266868 İND",
+        "urun_id": "571",
+        "resim": "/images/Urun_min/1d19a0e1-c.jpg",
+        "fiyat": "3,3",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000889",
+        "urun_adi": "T 10 HD 112 E 1HP FR.GRUP CAJ2446 EKO",
+        "urun_id": "957",
+        "resim": "/images/Urun_min/1de9b4d6-1.jpg",
+        "fiyat": "815",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000890",
+        "urun_adi": "T 15 HD 112 E 1.5HP FR.GRUP CAJ2464 EKO",
+        "urun_id": "958",
+        "resim": "/images/Urun_min/02a2c2b0-4.jpg",
+        "fiyat": "885",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000891",
+        "urun_adi": "T 20 HD 112 E 2HP FR.GRUP TFH2480 EKO",
+        "urun_id": "959",
+        "resim": "/images/Urun_min/bea2e71f-8.jpg",
+        "fiyat": "1035",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000892",
+        "urun_adi": "T 30 HD 112 E 3HP FR.GRUP TFH2511 EKO",
+        "urun_id": "960",
+        "resim": "/images/Urun_min/41fbde05-b.jpg",
+        "fiyat": "1115",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000893",
+        "urun_adi": "T 50 HD 112E 5HP FR. GRUP TAG2516 EKO",
+        "urun_id": "961",
+        "resim": "/images/Urun_min/3e5cf26c-a.jpg",
+        "fiyat": "1505",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000894",
+        "urun_adi": "T 70 HD 112E 7HP FR. GRUP TAG2522 EKO",
+        "urun_id": "962",
+        "resim": "/images/Urun_min/f5c2ae26-3.jpg",
+        "fiyat": "1655",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000895",
+        "urun_adi": "T 15 HS 112 E 1.5HP FR. GRUP CAJ4519 EKO",
+        "urun_id": "963",
+        "resim": "/images/Urun_min/e69d3ef2-d.jpg",
+        "fiyat": "915",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000896",
+        "urun_adi": "T 20 HS 112 E 2HP FR.GRUP FH-4524Z EKO",
+        "urun_id": "964",
+        "resim": "/images/Urun_min/8a7f040e-7.jpg",
+        "fiyat": "995",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000897",
+        "urun_adi": "T 25 HS 112 E 2.5HP FR.GRUP FH4532Z EKO",
+        "urun_id": "965",
+        "resim": "/images/Urun_min/5a669e8e-9.jpg",
+        "fiyat": "1065",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000898",
+        "urun_adi": "T 30 HS 112 E 3HP FR.GRUP FH4538Z EKO",
+        "urun_id": "966",
+        "resim": "/images/Urun_min/419cea56-8.jpg",
+        "fiyat": "1200",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000899",
+        "urun_adi": "T 40 HS 112 E 4HP FR.GRUP TAG4546 EKO",
+        "urun_id": "967",
+        "resim": "/images/Urun_min/a0d50253-5.jpg",
+        "fiyat": "1385",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000900",
+        "urun_adi": "T 50 HS 112 E 5HP FR.GRUP TAG4561 EKO",
+        "urun_id": "968",
+        "resim": "/images/Urun_min/7e3e3219-d.jpg",
+        "fiyat": "1555",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000901",
+        "urun_adi": "T 60 HS 112 E 6HP FR.GRUP TAG4568 EKO",
+        "urun_id": "969",
+        "resim": "/images/Urun_min/8ae977ae-c.jpg",
+        "fiyat": "1725",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000902",
+        "urun_adi": "T 70 HS 112 E 7HP FR.GRUP TAG4573 EKO",
+        "urun_id": "970",
+        "resim": "/images/Urun_min/68e97e68-5.jpg",
+        "fiyat": "1810",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000903",
+        "urun_adi": "C 15 HD 112E 1.5HP GRUP CS10 EKO 220V.",
+        "urun_id": "971",
+        "resim": "/images/Urun_min/26b091fd-d.jpg",
+        "fiyat": "940",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000904",
+        "urun_adi": "C 20 HD 112E 2HP GRUP CS12 EKO 220V.",
+        "urun_id": "972",
+        "resim": "/images/Urun_min/fb607328-8.jpg",
+        "fiyat": "1030",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006624",
+        "urun_adi": "TP TEKLİ VENTİL 90° METAL BAĞLANTI 10.5mm",
+        "urun_id": "572",
+        "resim": "/images/Urun_min/110a9d3e-9.jpg",
+        "fiyat": "2,14",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006625",
+        "urun_adi": "TP TEKLİ VENTİL 180° METAL BAĞLANTI 10.5mm",
+        "urun_id": "573",
+        "resim": "/images/Urun_min/9517ba0f-2.jpg",
+        "fiyat": "2,12",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006626",
+        "urun_adi": "TP ÜÇLÜ VENTİL 90° METAL BAĞLANTI 10.5mm",
+        "urun_id": "574",
+        "resim": "/images/Urun_min/d2289a43-6.jpg",
+        "fiyat": "8,46",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006627",
+        "urun_adi": "TP İKİLİ VENTİL 180° METAL BAĞLANTI 10.5mm",
+        "urun_id": "575",
+        "resim": "/images/Urun_min/1047ab3b-f.jpg",
+        "fiyat": "3,69",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006628",
+        "urun_adi": "TP ÜÇLÜ VENTİL 180° METAL BAĞLANTI YAPRAK 10.5mm",
+        "urun_id": "576",
+        "resim": "/images/Urun_min/2bfaf3f2-2.jpg",
+        "fiyat": "6,4",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "K0005192",
+        "urun_adi": "ARÇELİK-BEKO KLİMA KART 5400211216",
+        "urun_id": "577",
+        "resim": "/images/Urun_min/bbeb3b82-5.jpg",
+        "fiyat": "679,5",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005193",
+        "urun_adi": "ARÇELİK-BEKO KLİMA KART 5400211206",
+        "urun_id": "578",
+        "resim": "/images/Urun_min/6a85bb5b-c.jpg",
+        "fiyat": "241,6",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "E0000905",
+        "urun_adi": "C 30 HD 112E 3HP GRUP CS18 EKO 380V.",
+        "urun_id": "973",
+        "resim": "/images/Urun_min/e249120f-4.jpg",
+        "fiyat": "1090",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000906",
+        "urun_adi": "C 40 HD 112E 4HP GRUP CS27 EKO 380V.",
+        "urun_id": "974",
+        "resim": "/images/Urun_min/1ef1254d-3.jpg",
+        "fiyat": "1300",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000907",
+        "urun_adi": "C 50 HD 112E 5HP GRUP CS33 EKO 380V.",
+        "urun_id": "975",
+        "resim": "/images/Urun_min/5912be48-a.jpg",
+        "fiyat": "1350",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006629",
+        "urun_adi": "EMNİYET ANAHTARI ARC-LG 9190872021",
+        "urun_id": "581",
+        "resim": "/images/Urun_min/e223accb-e.jpg",
+        "fiyat": "2,23",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "K0005198",
+        "urun_adi": "TECHSUN 55+5 KONDANSATÖR",
+        "urun_id": "582",
+        "resim": "/images/Urun_min/1c586b44-4.jpg",
+        "fiyat": "2,96",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005199",
+        "urun_adi": "TECHSUN 60+6 KONDANSATÖR",
+        "urun_id": "583",
+        "resim": "/images/Urun_min/a68c34ac-d.jpg",
+        "fiyat": "3,17",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000908",
+        "urun_adi": "TECHSUN RLD-382P GAZ KAÇAK DEDEKTÖRÜ",
+        "urun_id": "584",
+        "resim": "/images/Urun_min/2b32ba5f-0.jpg",
+        "fiyat": "190",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004068",
+        "urun_adi": "TECHNO FAN BUZDOLABI İÇ-DIŞ FAN MOTORU CL174380",
+        "urun_id": "585",
+        "resim": "/images/Urun_min/040b99be-d.jpeg",
+        "fiyat": "3,87",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000935",
+        "urun_adi": "GREEN GARDEN KÜRESEL VANA 1/4\"",
+        "urun_id": "586",
+        "resim": "/images/Urun_min/583cae3d-0.jpg",
+        "fiyat": "12,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000936",
+        "urun_adi": "GREEN GARDEN KÜRESEL VANA 3/8\"",
+        "urun_id": "587",
+        "resim": "/images/Urun_min/696fed2a-0.jpg",
+        "fiyat": "12,8",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000937",
+        "urun_adi": "GREEN GARDEN KÜRESEL VANA 1/2\"",
+        "urun_id": "588",
+        "resim": "/images/Urun_min/a62ae46b-0.jpg",
+        "fiyat": "15,35",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000938",
+        "urun_adi": "GREEN GARDEN KÜRESEL VANA 5/8\"",
+        "urun_id": "589",
+        "resim": "/images/Urun_min/a731df41-6.jpg",
+        "fiyat": "15,7",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000939",
+        "urun_adi": "GREEN GARDEN KÜRESEL VANA 3/4\"",
+        "urun_id": "590",
+        "resim": "/images/Urun_min/e66cde96-5.jpg",
+        "fiyat": "21,3",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000940",
+        "urun_adi": "GREEN GARDEN KÜRESEL VANA SİBOPLU 7/8\"",
+        "urun_id": "591",
+        "resim": "/images/Urun_min/39d8cab6-b.jpg",
+        "fiyat": "28,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000941",
+        "urun_adi": "GREEN GARDEN KÜRESEL VANA SİBOPLU 1 1/8\"",
+        "urun_id": "592",
+        "resim": "/images/Urun_min/981aee32-a.jpg",
+        "fiyat": "40,75",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000942",
+        "urun_adi": "GREEN GARDEN KÜRESEL VANA SİBOPLU 1 3/8\"",
+        "urun_id": "593",
+        "resim": "/images/Urun_min/347cf2df-7.jpg",
+        "fiyat": "55,25",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000943",
+        "urun_adi": "GREEN GARDEN KÜRESEL VANA SİBOPLU 1 5/8\"",
+        "urun_id": "594",
+        "resim": "/images/Urun_min/226043d3-8.jpg",
+        "fiyat": "89",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000944",
+        "urun_adi": "GREEN GARDEN KÜRESEL VANA SİBOPLU 2 1/8\"",
+        "urun_id": "595",
+        "resim": "/images/Urun_min/38b724fd-d.jpg",
+        "fiyat": "128,65",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000945",
+        "urun_adi": "GREEN GARDEN ROTOLOK VANA 3/8\" - 1\"",
+        "urun_id": "596",
+        "resim": "/images/Urun_min/bd5d8435-8.jpg",
+        "fiyat": "7,14",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000946",
+        "urun_adi": "GREEN GARDEN ROTOLOK VANA 1/2\" - 1\"",
+        "urun_id": "597",
+        "resim": "/images/Urun_min/8a8df54a-4.jpg",
+        "fiyat": "7,14",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000947",
+        "urun_adi": "GREEN GARDEN ROTOLOK VANA 5/8\" - 1\"",
+        "urun_id": "598",
+        "resim": "/images/Urun_min/acbae5cc-c.jpg",
+        "fiyat": "7,14",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000948",
+        "urun_adi": "GREEN GARDEN ROTOLOK VANA 7/8\" - 1 1/4\"",
+        "urun_id": "599",
+        "resim": "/images/Urun_min/4743f80a-3.jpg",
+        "fiyat": "15,1",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005204",
+        "urun_adi": "TECHSUN TC5 5LT SPREY POMPA",
+        "urun_id": "602",
+        "resim": "/images/Urun_min/a2259bbe-1.JPG",
+        "fiyat": "16,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000958",
+        "urun_adi": "TECHNOFOG TF6000 NEMLENDİRME CİHAZI",
+        "urun_id": "606",
+        "resim": "/images/Urun_min/be2f2466-b.jpg",
+        "fiyat": "0",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008051",
+        "urun_adi": "DECHANG YB37 SÜPÜRGE MOTORU 2000W",
+        "urun_id": "608",
+        "resim": "/images/Urun_min/96b50a1e-e.jpg",
+        "fiyat": "15",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000972",
+        "urun_adi": "JİNYİNG NTC SENSOR 7.5M",
+        "urun_id": "611",
+        "resim": "/images/Urun_min/37f5587c-7.jpg",
+        "fiyat": "8",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005221",
+        "urun_adi": "KT-N828 UNİVERSAL KUMANDA",
+        "urun_id": "612",
+        "resim": "/images/Urun_min/906fb4c7-3.jpg",
+        "fiyat": "5,92",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005222",
+        "urun_adi": "KT-528 UNİVERSAL KUMANDA",
+        "urun_id": "613",
+        "resim": "/images/Urun_min/4fb77635-9.jpg",
+        "fiyat": "3,02",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005223",
+        "urun_adi": "MİDEA-RUBENİS UNİVERSAL KUMANDA",
+        "urun_id": "614",
+        "resim": "/images/Urun_min/592e7b76-4.jpg",
+        "fiyat": "2,05",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005224",
+        "urun_adi": "ARÇELİK UNİVERSAL KUMANDA",
+        "urun_id": "615",
+        "resim": "/images/Urun_min/820410df-9.jpg",
+        "fiyat": "2,25",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005225",
+        "urun_adi": "D.DOKUM-BAYMAK UNİVERSAL KUMANDA",
+        "urun_id": "616",
+        "resim": "/images/Urun_min/377b8b30-b.jpg",
+        "fiyat": "1,93",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005226",
+        "urun_adi": "MITSUBISHI UNİVERSAL KUMANDA",
+        "urun_id": "617",
+        "resim": "/images/Urun_min/15b3466d-2.jpg",
+        "fiyat": "2,93",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005227",
+        "urun_adi": "KT-N898 UNIVERSAL KUMANDA GREY",
+        "urun_id": "618",
+        "resim": "/images/Urun_min/ed9ae837-0.jpg",
+        "fiyat": "5,92",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005228",
+        "urun_adi": "KT-N898 UNIVERSAL KUMANDA BLACK",
+        "urun_id": "619",
+        "resim": "/images/Urun_min/64d10acf-4.jpg",
+        "fiyat": "5,92",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004071",
+        "urun_adi": "ARA BÖLME REZİSTANSI 4254090385",
+        "urun_id": "620",
+        "resim": "/images/Urun_min/300c5253-9.jpg",
+        "fiyat": "4,41",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004072",
+        "urun_adi": "ARA BÖLME REZİSTANSI 32006025",
+        "urun_id": "621",
+        "resim": "/images/Urun_min/67a840b2-9.jpg",
+        "fiyat": "5,47",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004073",
+        "urun_adi": "ARA BÖLME REZİSTANSI 277213",
+        "urun_id": "622",
+        "resim": "/images/Urun_min/d932285f-d.jpg",
+        "fiyat": "4,29",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005237",
+        "urun_adi": "KT-4000 UNIVERSAL KUMANDA",
+        "urun_id": "623",
+        "resim": "/images/Urun_min/0d15dcf2-3.jpg",
+        "fiyat": "4,67",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000973",
+        "urun_adi": "GAZ ŞARJ HORTUMU 90CM 3LÜ TAKIM R410A",
+        "urun_id": "624",
+        "resim": "/images/Urun_min/16354ffc-e.jpg",
+        "fiyat": "14,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000974",
+        "urun_adi": "GAZ ŞARJ HORTUMU 180CM 3LÜ TAKIM R410A",
+        "urun_id": "625",
+        "resim": "/images/Urun_min/7b262f7f-7.jpg",
+        "fiyat": "20,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000975",
+        "urun_adi": "GAZ ŞARJ HORTUMU 90CM VANALI 3LÜ TAKIM R410A",
+        "urun_id": "626",
+        "resim": "/images/Urun_min/f334f761-8.jpg",
+        "fiyat": "21,14",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000976",
+        "urun_adi": "GAZ ŞARJ HORTUMU 180CM VANALI 3LÜ TAKIM R410A",
+        "urun_id": "627",
+        "resim": "/images/Urun_min/7d39a89a-5.jpg",
+        "fiyat": "24,04",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000977",
+        "urun_adi": "TEKLİ MANİFOLD A.B (R410/R22/R134A/R404A)",
+        "urun_id": "628",
+        "resim": "/images/Urun_min/d803f2eb-6.jpg",
+        "fiyat": "8,35",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000978",
+        "urun_adi": "TEKLİ MANİFOLD Y.B (R410/R22/R134A/R404A)",
+        "urun_id": "629",
+        "resim": "/images/Urun_min/a940eac0-c.jpg",
+        "fiyat": "8,35",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000979",
+        "urun_adi": "TEKLİ MANİFOLD A.B GÖZETLEMELİ(R410/R22/R134A/R404",
+        "urun_id": "630",
+        "resim": "/images/Urun_min/9ba6b920-3.jpg",
+        "fiyat": "8,95",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005238",
+        "urun_adi": "TECHSUN 35+2.5 KONDANSATÖR",
+        "urun_id": "631",
+        "resim": "/images/Urun_min/02d9d8b8-8.jpg",
+        "fiyat": "2,35",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005239",
+        "urun_adi": "TECHSUN 40+2.5 KONDANSATÖR",
+        "urun_id": "632",
+        "resim": "/images/Urun_min/24d8f3b1-c.jpg",
+        "fiyat": "2,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005240",
+        "urun_adi": "TECHSUN 45+2.5 KONDANSATÖR",
+        "urun_id": "633",
+        "resim": "/images/Urun_min/bc4e0989-3.jpg",
+        "fiyat": "2,75",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005241",
+        "urun_adi": "TECHSUN 50+2.5 KONDANSATÖR",
+        "urun_id": "634",
+        "resim": "/images/Urun_min/9eb0a5f4-5.jpg",
+        "fiyat": "2,84",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005242",
+        "urun_adi": "TECHSUN 40+3 KONDANSATÖR",
+        "urun_id": "635",
+        "resim": "/images/Urun_min/31d24fc8-c.jpg",
+        "fiyat": "2,67",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005243",
+        "urun_adi": "TECHSUN 45+3 KONDANSATÖR",
+        "urun_id": "636",
+        "resim": "/images/Urun_min/f3d3d053-a.jpg",
+        "fiyat": "2,75",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005244",
+        "urun_adi": "TECHSUN 50+3 KONDANSATÖR",
+        "urun_id": "637",
+        "resim": "/images/Urun_min/5d795e04-0.jpg",
+        "fiyat": "2,84",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005245",
+        "urun_adi": "TECHSUN 55+3 KONDANSATÖR",
+        "urun_id": "638",
+        "resim": "/images/Urun_min/cd81b4b4-c.jpg",
+        "fiyat": "3,34",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000980",
+        "urun_adi": "TEKLİ MANİFOLD A.B R600 / R290 / R1270",
+        "urun_id": "1095",
+        "resim": "/images/Urun_min/882fe15e-7.png",
+        "fiyat": "8,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008054",
+        "urun_adi": "DECHANG YB 5A  SÜPÜRGE MOTORU 800W",
+        "urun_id": "640",
+        "resim": "/images/Urun_min/47df117d-f.jpg",
+        "fiyat": "12,8",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000981",
+        "urun_adi": "TEKLİ MANİFOLD Y.B GÖZETLEMELİ(R410/R22/R134A/R404",
+        "urun_id": "641",
+        "resim": "/images/Urun_min/1af72aa1-6.jpg",
+        "fiyat": "8,95",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004074",
+        "urun_adi": "ARA BÖLME REZİSTANSI 4218950100",
+        "urun_id": "642",
+        "resim": "/images/Urun_min/a3421a79-2.jpg",
+        "fiyat": "4,07",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004075",
+        "urun_adi": "ARA BÖLME REZİSTANSI 4848310185",
+        "urun_id": "643",
+        "resim": "/images/Urun_min/65bd7735-4.jpg",
+        "fiyat": "4,17",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004076",
+        "urun_adi": "ARA BÖLME REZİSTANSI 4809590100",
+        "urun_id": "644",
+        "resim": "/images/Urun_min/c96fe1b1-1.jpg",
+        "fiyat": "5,12",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004077",
+        "urun_adi": "ARA BÖLME REZİSTANSI 4296520100",
+        "urun_id": "645",
+        "resim": "/images/Urun_min/ace517ab-e.jpg",
+        "fiyat": "3,99",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004078",
+        "urun_adi": "ARA BÖLME REZİSTANSI 4231640100",
+        "urun_id": "646",
+        "resim": "/images/Urun_min/6e4c41e6-0.jpg",
+        "fiyat": "2,66",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000982",
+        "urun_adi": "HPEOK 1/4 032 RAKORLU DRAYER 43MM",
+        "urun_id": "647",
+        "resim": "/images/Urun_min/9fdaa03d-f.jpg",
+        "fiyat": "3,45",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000983",
+        "urun_adi": "HPEOK 1/4 052 RAKORLU DRAYER 63.50MM",
+        "urun_id": "648",
+        "resim": "/images/Urun_min/637a3991-9.jpg",
+        "fiyat": "3,61",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000984",
+        "urun_adi": "HPEOK 3/8 053 RAKORLU DRAYER 63.50MM",
+        "urun_id": "649",
+        "resim": "/images/Urun_min/5f201d99-8.jpg",
+        "fiyat": "4,22",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000985",
+        "urun_adi": "HPEOK 3/8 083 RAKORLU DRAYER 63.50MM",
+        "urun_id": "650",
+        "resim": "/images/Urun_min/cf61cdfc-5.jpg",
+        "fiyat": "3,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000986",
+        "urun_adi": "HPEOK 1/2 084 RAKORLU DRAYER 63.50MM",
+        "urun_id": "651",
+        "resim": "/images/Urun_min/11d90e7b-c.jpg",
+        "fiyat": "3,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000987",
+        "urun_adi": "HPEOK 5/8 165 RAKORLU DRAYER 63.5MM",
+        "urun_id": "652",
+        "resim": "/images/Urun_min/1a71d3fb-4.jpg",
+        "fiyat": "5,75",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000988",
+        "urun_adi": "HPEOK 5/8 305 RAKORLU DRAYER 76MM",
+        "urun_id": "653",
+        "resim": "/images/Urun_min/9dd14cd7-a.jpg",
+        "fiyat": "9,58",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000989",
+        "urun_adi": "HPEOK 1/4 032S KAYNAKLI DRAYER 43MM",
+        "urun_id": "654",
+        "resim": "/images/Urun_min/fd7e1892-2.jpg",
+        "fiyat": "3,37",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000990",
+        "urun_adi": "HPEOK 1/4 052S KAYNAKLI DRAYER 63.50MM",
+        "urun_id": "655",
+        "resim": "/images/Urun_min/af1c6487-e.jpg",
+        "fiyat": "3,7",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000991",
+        "urun_adi": "HPEOK 3/8 053S KAYNAKLI DRAYER 63.50MM",
+        "urun_id": "656",
+        "resim": "/images/Urun_min/d73a323c-0.jpg",
+        "fiyat": "3,99",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000992",
+        "urun_adi": "HPEOK 3/8 083S KAYNAKLI DRAYER 63.50MM",
+        "urun_id": "657",
+        "resim": "/images/Urun_min/6423a250-1.jpg",
+        "fiyat": "4,3",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000993",
+        "urun_adi": "HPEOK 3/8 163S KAYNAKLI DRAYER 63.50MM",
+        "urun_id": "658",
+        "resim": "/images/Urun_min/1d421c53-8.jpg",
+        "fiyat": "5,06",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000994",
+        "urun_adi": "HPEOK 1/2 084S KAYNAKLI DRAYER 63.50MM",
+        "urun_id": "659",
+        "resim": "/images/Urun_min/40e73a69-8.jpg",
+        "fiyat": "4,54",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000995",
+        "urun_adi": "HPEOK 1/2 164S KAYNAKLI DRAYER 63.50MM",
+        "urun_id": "660",
+        "resim": "/images/Urun_min/e84db4cb-e.jpg",
+        "fiyat": "5,15",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000996",
+        "urun_adi": "HPEOK 1/2 304S KAYNAKLI DRAYER 76MM",
+        "urun_id": "661",
+        "resim": "/images/Urun_min/ffab3e10-e.jpeg",
+        "fiyat": "8,75",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000997",
+        "urun_adi": "HPEOK 5/8 165S KAYNAKLI DRAYER 63.50MM",
+        "urun_id": "662",
+        "resim": "/images/Urun_min/5dfd5b3f-7.jpg",
+        "fiyat": "5,83",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000998",
+        "urun_adi": "HPEOK 5/8 305S KAYNAKLI DRAYER 76MM",
+        "urun_id": "663",
+        "resim": "/images/Urun_min/5a29fbfb-a.jpeg",
+        "fiyat": "9,13",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004079",
+        "urun_adi": "ARA BÖLME REZİSTANSI 174442",
+        "urun_id": "664",
+        "resim": "/images/Urun_min/d48c6d73-6.jpg",
+        "fiyat": "3,93",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0000999",
+        "urun_adi": "HPEOK 1/2 164 RAKORLU DRAYER 63.50MM",
+        "urun_id": "1080",
+        "resim": "/images/Urun_min/80a2ebd3-f.jpg",
+        "fiyat": "5,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001001",
+        "urun_adi": "TECHSUN ALÇAK BASINÇ MANOMETRE R134-404-410-R32",
+        "urun_id": "665",
+        "resim": "/images/Urun_min/32cef6f8-a.jpg",
+        "fiyat": "4,11",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001002",
+        "urun_adi": "TECHSUN YÜKSEK BASINÇ MANOMETRE R134-404-410-R32",
+        "urun_id": "666",
+        "resim": "/images/Urun_min/21637c29-d.jpg",
+        "fiyat": "4,11",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005249",
+        "urun_adi": "TECHSUN APLİK TİP DRENAJ POMPASI TCAK-20",
+        "urun_id": "667",
+        "resim": "/images/Urun_min/b16247c2-f.jpg",
+        "fiyat": "38",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008055",
+        "urun_adi": "TECHSUN TB27 SÜPÜRGE MOTORU 1600W",
+        "urun_id": "668",
+        "resim": "/images/Urun_min/fd56b6df-9.JPG",
+        "fiyat": "10,03",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005251",
+        "urun_adi": "ARÇELİK-LG KLİMA KUMANDASI 5401267323 SOĞUK",
+        "urun_id": "669",
+        "resim": "/images/Urun_min/9e7c3cda-8.jpg",
+        "fiyat": "129,5",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005252",
+        "urun_adi": "ARÇELİK-ALTUS KLİMA KUMANDASI 5400616401",
+        "urun_id": "670",
+        "resim": "/images/Urun_min/e9d0d7ed-0.jpg",
+        "fiyat": "52,2",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005253",
+        "urun_adi": "ARÇELİK-LG KLİMA KUMANDASI 5401135599",
+        "urun_id": "671",
+        "resim": "/images/Urun_min/c91bf0d3-5.jpg",
+        "fiyat": "129,5",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005255",
+        "urun_adi": "ARÇELİK KLİMA KUMANDASI 5400929893 SOĞUK",
+        "urun_id": "672",
+        "resim": "/images/Urun_min/086fc7ba-2.jpg",
+        "fiyat": "129,5",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005256",
+        "urun_adi": "ARÇELİK-LG KLİMA KUMANDASI 5401133698",
+        "urun_id": "673",
+        "resim": "/images/Urun_min/ebec01cd-f.jpg",
+        "fiyat": "129,5",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "K0005259",
+        "urun_adi": "SAMSUNG UNIVERSAL KUMANDA",
+        "urun_id": "674",
+        "resim": "/images/Urun_min/56737ba0-5.jpg",
+        "fiyat": "2,24",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005260",
+        "urun_adi": "GREE - AIRFEL UNIVERSAL KUMANDA",
+        "urun_id": "675",
+        "resim": "/images/Urun_min/a531530d-3.jpg",
+        "fiyat": "2,17",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005261",
+        "urun_adi": "DEMİRDÖKÜM UNİVERSAL KUMANDA A2",
+        "urun_id": "676",
+        "resim": "/images/Urun_min/1fe6698c-9.jpg",
+        "fiyat": "2,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005262",
+        "urun_adi": "KT-E05 UNIVERSAL KUMANDA",
+        "urun_id": "677",
+        "resim": "/images/Urun_min/0d7542f7-c.jpg",
+        "fiyat": "3,02",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005263",
+        "urun_adi": "KT-B02 UNIVERSAL KUMANDA",
+        "urun_id": "678",
+        "resim": "/images/Urun_min/2f3fc663-3.jpg",
+        "fiyat": "2,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005264",
+        "urun_adi": "SAMSUNG UNIVERSAL KUMANDA YENI",
+        "urun_id": "679",
+        "resim": "/images/Urun_min/1dd67db3-6.jpg",
+        "fiyat": "4,25",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005265",
+        "urun_adi": "SANHUA KLİMA 4 YOLLU VANA DSF9 18K 3/8-1/2 R410A",
+        "urun_id": "680",
+        "resim": "/images/Urun_min/de158cde-4.jpg",
+        "fiyat": "14,3",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005268",
+        "urun_adi": "LG ROTARY KOMPRESOR QKS164PNA 9000BTU R22",
+        "urun_id": "1024",
+        "resim": "/images/Urun_min/089906b5-2.jpg",
+        "fiyat": "74,9",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001005",
+        "urun_adi": "TECHNO FAN YJF10 / 42W FAN MOTORU 2M. KABLOLU",
+        "urun_id": "1101",
+        "resim": "/images/Urun_min/63bddd40-0.jpg",
+        "fiyat": "8,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005271",
+        "urun_adi": "ARÇELİK-BEKO İÇ FAN MOTORU 24/26 BTU 5400254625",
+        "urun_id": "684",
+        "resim": "/images/Urun_min/6a3e5ae2-4.jpg",
+        "fiyat": "29",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008057",
+        "urun_adi": "32MM PASLANMAZ TELESKOBİK BORU 93CM",
+        "urun_id": "687",
+        "resim": "/images/Urun_min/eab84d06-1.jpg",
+        "fiyat": "2,87",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006633",
+        "urun_adi": "EMNİYET ANAHTARI İND AQUALTİS 299278,264161",
+        "urun_id": "689",
+        "resim": "/images/Urun_min/2c60997b-f.jpg",
+        "fiyat": "6,8",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0001008",
+        "urun_adi": "MANİFOLD TAKIM MFD301 (22/134/404A/410A )",
+        "urun_id": "691",
+        "resim": "/images/Urun_min/70e6b7d7-7.jpg",
+        "fiyat": "32,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001009",
+        "urun_adi": "MANİFOLD TAKIM MFD305 ÇANTALI(22/134A/404A/410A)",
+        "urun_id": "692",
+        "resim": "/images/Urun_min/cdfd505f-d.jpg",
+        "fiyat": "55,1",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004081",
+        "urun_adi": "ARA BÖLME EVAP  REZİSTANSI 271385 (42.5 CM)",
+        "urun_id": "693",
+        "resim": "/images/Urun_min/e00ffdd2-b.jpg",
+        "fiyat": "5,44",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004080",
+        "urun_adi": "ALÜMİNYUM FOLYO 4212770100",
+        "urun_id": "694",
+        "resim": "/images/Urun_min/dfe1926a-5.jpg",
+        "fiyat": "0,83",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004082",
+        "urun_adi": "ARA BÖLME EVAP  REZİSTANSI 4295230100",
+        "urun_id": "695",
+        "resim": "/images/Urun_min/520679cd-9.jpg",
+        "fiyat": "2,14",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004083",
+        "urun_adi": "ARA BÖLME EVAP  REZİSTANSI 4295200100",
+        "urun_id": "696",
+        "resim": "/images/Urun_min/d3623999-2.jpg",
+        "fiyat": "2,18",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006638",
+        "urun_adi": "TP İKİLİ VENTİL 180° GEÇMELİ 10.5mm",
+        "urun_id": "697",
+        "resim": "/images/Urun_min/050206f2-7.jpg",
+        "fiyat": "3,63",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006639",
+        "urun_adi": "TP İKİLİ VENTİL 180° GEÇMELİ  ARİSTON 194402",
+        "urun_id": "698",
+        "resim": "/images/Urun_min/ab56a90e-d.jpg",
+        "fiyat": "5,16",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006640",
+        "urun_adi": "TP ÜÇLÜ VENTİL 180° GEÇMELİ  GRP SOKET İND 110331",
+        "urun_id": "699",
+        "resim": "/images/Urun_min/a63e9689-e.jpg",
+        "fiyat": "6,77",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006641",
+        "urun_adi": "TP İKİLİ VENTİL GEÇMELİ GRP SOKET ARİSTON 110333",
+        "urun_id": "700",
+        "resim": "/images/Urun_min/29deaf3d-8.jpg",
+        "fiyat": "4,05",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "K0005276",
+        "urun_adi": "16M DAR SARIM KREM RENKLİ DEKORATİF BANT",
+        "urun_id": "701",
+        "resim": "/images/Urun_min/7f5f9975-5.jpg",
+        "fiyat": "0,46",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006642",
+        "urun_adi": "TP İKİLİ VENTİL GEÇMELİ GRP SOKET  OKUYUCU KARTLI",
+        "urun_id": "702",
+        "resim": "/images/Urun_min/a95a79c9-d.jpg",
+        "fiyat": "7,31",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006643",
+        "urun_adi": "TP İKİLİ VENTİL GEÇMELİ GRP SOKET MAVİ BOBİN",
+        "urun_id": "703",
+        "resim": "/images/Urun_min/0b497c50-f.jpg",
+        "fiyat": "4,71",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0001016",
+        "urun_adi": "R410A  / R22 ADAPTOR",
+        "urun_id": "704",
+        "resim": "/images/Urun_min/4c893d08-d.jpg",
+        "fiyat": "1,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001017",
+        "urun_adi": "ŞARJ HORTUMU TEFLON CONTA 3LÜ SET",
+        "urun_id": "705",
+        "resim": "/images/Urun_min/06466703-6.jpg",
+        "fiyat": "1,1",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001018",
+        "urun_adi": "R22 / R410A ADAPTOR",
+        "urun_id": "706",
+        "resim": "/images/Urun_min/f1fef5ab-b.jpg",
+        "fiyat": "1,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005277",
+        "urun_adi": "AİR CLİMATE 1/4 - 5/8 10M. MONTAJ KİTİ",
+        "urun_id": "707",
+        "resim": "/images/Urun_min/37a5260b-3.jpg",
+        "fiyat": "25,61",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005278",
+        "urun_adi": "AİR CLİMATE 3/8 - 3/4 3M. MONTAJ KİTİ",
+        "urun_id": "708",
+        "resim": "/images/Urun_min/f334e222-3.jpg",
+        "fiyat": "15,7",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005279",
+        "urun_adi": "AİR CLİMATE 1/2 - 3/4 3M. MONTAJ KİTİ",
+        "urun_id": "709",
+        "resim": "/images/Urun_min/fe11b083-1.jpg",
+        "fiyat": "17,52",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006644",
+        "urun_adi": "TP TEKLİ VENTİL 90° GRUP SOKET 2.5 LT  ARÇ BULAŞIK",
+        "urun_id": "1083",
+        "resim": "/images/Urun_min/636141b4-2.jpeg",
+        "fiyat": "2,37",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006645",
+        "urun_adi": "TP İKİLİ VENTİL GEÇMELİ GRP SOKET BEYAZ BOBİN",
+        "urun_id": "711",
+        "resim": "/images/Urun_min/741130e8-8.jpg",
+        "fiyat": "3,87",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006646",
+        "urun_adi": "TP TEKLİ VENTİL 180° GEÇMELİ 10.5mm",
+        "urun_id": "712",
+        "resim": "/images/Urun_min/419c11de-d.jpg",
+        "fiyat": "2,21",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006647",
+        "urun_adi": "TP TEKLİ VENTİL 90° GEÇMELİ 2.5 LT  ARÇ BULAŞIK",
+        "urun_id": "713",
+        "resim": "/images/Urun_min/27dc8655-e.jpg",
+        "fiyat": "2,25",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0001021",
+        "urun_adi": "TECHSUN 0.7 / 0.3 BAR MÜŞÜR ALÇAK BASINÇ",
+        "urun_id": "714",
+        "resim": "/images/Urun_min/b4359e42-e.jpg",
+        "fiyat": "4,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001022",
+        "urun_adi": "TECHSUN 1.5 / 0.5 BAR MÜŞÜR ALÇAK BASINÇ",
+        "urun_id": "715",
+        "resim": "/images/Urun_min/b254cfb5-e.jpg",
+        "fiyat": "4,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001023",
+        "urun_adi": "TECHSUN 16 / 13 BAR MÜŞÜR FAN KONTROL",
+        "urun_id": "716",
+        "resim": "/images/Urun_min/1c7bf599-a.jpg",
+        "fiyat": "4,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001024",
+        "urun_adi": "TECHSUN 20 / 25 BAR MÜŞÜR YÜKSEK BASINÇ",
+        "urun_id": "717",
+        "resim": "/images/Urun_min/a77a6f91-b.jpg",
+        "fiyat": "4,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001026",
+        "urun_adi": "BORULU SİBOP 1/4 8.5CM",
+        "urun_id": "718",
+        "resim": "/images/Urun_min/e4f87764-7.jpg",
+        "fiyat": "0,56",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005295",
+        "urun_adi": "KLİMA KONDANSATOR 45+6 ORJ. 5400962206",
+        "urun_id": "720",
+        "resim": "/images/Urun_min/4bb02028-e.jpg",
+        "fiyat": "2,93",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005296",
+        "urun_adi": "KLİMA KONDANSATOR 25+1.5 ORJ. 5400962201",
+        "urun_id": "721",
+        "resim": "/images/Urun_min/7547a1ba-4.jpg",
+        "fiyat": "2,3",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005297",
+        "urun_adi": "KLİMA KONDANSATOR 60+6 ORJ. 5400962210",
+        "urun_id": "722",
+        "resim": "/images/Urun_min/0bee4f44-d.jpg",
+        "fiyat": "3,49",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005298",
+        "urun_adi": "KLİMA KONDANSATOR 45+1.5 ORJ. 5400962205",
+        "urun_id": "723",
+        "resim": "/images/Urun_min/6b4f4a3c-7.jpg",
+        "fiyat": "2,93",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004084",
+        "urun_adi": "ARA BÖLME REZİSTANSI 4295190100",
+        "urun_id": "724",
+        "resim": "/images/Urun_min/e3857a23-b.jpg",
+        "fiyat": "2,14",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004085",
+        "urun_adi": "ARA BÖLME REZİSTANSI 4870840185",
+        "urun_id": "1082",
+        "resim": "/images/Urun_min/4b34ebff-0.jpeg",
+        "fiyat": "3,56",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006648",
+        "urun_adi": "TP TEKLİ VENTİL 90° GEÇMELİ 2.5 LT  ARÇ BULAŞIK",
+        "urun_id": "1100",
+        "resim": "/images/Urun_min/48e9853c-4.jpg",
+        "fiyat": "2,25",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "B0004087",
+        "urun_adi": "TERMAL SİGORTA GRUBU 4386830385 ARC",
+        "urun_id": "725",
+        "resim": "/images/Urun_min/1ba7dfd7-d.jpg",
+        "fiyat": "2,15",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004088",
+        "urun_adi": "TERMAL SİGORTA GRUBU 72 DERECE BCH",
+        "urun_id": "726",
+        "resim": "/images/Urun_min/951b2a76-a.jpg",
+        "fiyat": "1,95",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005299",
+        "urun_adi": "LG ROTARY KOMPRESOR QV308PNA 18400 BTU R22",
+        "urun_id": "727",
+        "resim": "/images/Urun_min/7250809b-d.jpg",
+        "fiyat": "117,18",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004089",
+        "urun_adi": "TECHSUN TCH30G DC 12-24V R134A KOMP.",
+        "urun_id": "728",
+        "resim": "/images/Urun_min/ea37491f-a.jpg",
+        "fiyat": "63,65",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001028",
+        "urun_adi": "TECHSUN 450V. 25µf KONDANSATÖR ALÜMİNYUM",
+        "urun_id": "729",
+        "resim": "/images/Urun_min/2693909e-f.jpg",
+        "fiyat": "1,51",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001029",
+        "urun_adi": "TECHSUN 450V. 35µf KONDANSATÖR ALÜMİNYUM",
+        "urun_id": "730",
+        "resim": "/images/Urun_min/7cdf7805-8.jpg",
+        "fiyat": "1,88",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001030",
+        "urun_adi": "TECHSUN 450V. 50µf KONDANSATÖR ALÜMİNYUM",
+        "urun_id": "731",
+        "resim": "/images/Urun_min/eedd989d-8.jpg",
+        "fiyat": "2,36",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004090",
+        "urun_adi": "ARA BÖLME EVAP  REZİSTANSI 274921 (47.5 CM)",
+        "urun_id": "732",
+        "resim": "/images/Urun_min/3cafe711-0.jpg",
+        "fiyat": "9,3",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004091",
+        "urun_adi": "BUZDOLABI EVAP SENSÖRÜ ÜST ARÇ 4394720185",
+        "urun_id": "733",
+        "resim": "/images/Urun_min/cf43be13-3.jpg",
+        "fiyat": "1,97",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004092",
+        "urun_adi": "BUZDOLABI  ALT ORTAM SENSÖRÜ ARÇ 4394720285",
+        "urun_id": "734",
+        "resim": "/images/Urun_min/c7feef2d-1.jpg",
+        "fiyat": "2,42",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004093",
+        "urun_adi": "BUZDOLABI İKİLİ SENSÖR ARÇ 4298520185",
+        "urun_id": "735",
+        "resim": "/images/Urun_min/dda00798-d.jpg",
+        "fiyat": "2,38",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005301",
+        "urun_adi": "LG ROTARY KOMPRESÖR QKS208HNB 12100 BTU R22",
+        "urun_id": "736",
+        "resim": "/images/Urun_min/5af00fde-1.jpg",
+        "fiyat": "79,73",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005303",
+        "urun_adi": "ARÇELİK-BEKO CROSS FAN YATAK GRUBU 5400232012",
+        "urun_id": "737",
+        "resim": "/images/Urun_min/5bdb7c83-f.jpg",
+        "fiyat": "201,35",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "B0004097",
+        "urun_adi": "BİMETAL TERMOSTAT 4328840485 ARÇ",
+        "urun_id": "738",
+        "resim": "/images/Urun_min/6349b67e-2.jpg",
+        "fiyat": "2,27",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006649",
+        "urun_adi": "EMNİYET ANAHTARI AVENTİXX 627046, 638259",
+        "urun_id": "1087",
+        "resim": "/images/Urun_min/924a6443-7.jpeg",
+        "fiyat": "6,03",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006650",
+        "urun_adi": "BOSCH POMPA SGS COPRECİ EBS 2556-5104 BAKIR SARGI",
+        "urun_id": "740",
+        "resim": "/images/Urun_min/6bc6a38b-6.jpg",
+        "fiyat": "10,59",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "B0004098",
+        "urun_adi": "GENERAL DRAYER 10Gr. 5-2,5",
+        "urun_id": "1022",
+        "resim": "/images/Urun_min/e785aa2f-4.jpg",
+        "fiyat": "0,76",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "B0004099",
+        "urun_adi": "GENERAL DRAYER 13,5Gr. 5-2,5",
+        "urun_id": "744",
+        "resim": "/images/Urun_min/567647c0-a.jpg",
+        "fiyat": "0,77",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "B0004100",
+        "urun_adi": "GENERAL DRAYER 15Gr. 5-2,5",
+        "urun_id": "745",
+        "resim": "/images/Urun_min/93a16b53-9.jpg",
+        "fiyat": "0,8",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "B0004101",
+        "urun_adi": "GENERAL DRAYER 20Gr. 5-2,5",
+        "urun_id": "746",
+        "resim": "/images/Urun_min/0cc2e26f-b.jpg",
+        "fiyat": "0,86",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006652",
+        "urun_adi": "EMNİYET ANAHTARI ARC 2847740500",
+        "urun_id": "747",
+        "resim": "/images/Urun_min/8ba2c78e-4.JPG",
+        "fiyat": "3",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006653",
+        "urun_adi": "EMNİYET ANAHTARI VST M5 32005174",
+        "urun_id": "748",
+        "resim": "/images/Urun_min/1f4a2ba5-6.jpg",
+        "fiyat": "2,66",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "B0004102",
+        "urun_adi": "ARA BÖLME EVAP  REZİSTANSI 292647 (47 CM)",
+        "urun_id": "749",
+        "resim": "/images/Urun_min/a4528475-e.jpg",
+        "fiyat": "7,37",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001031",
+        "urun_adi": "HPEOK 3/8 163 RAKORLU DRAYER 63.5MM",
+        "urun_id": "750",
+        "resim": "/images/Urun_min/d98255e7-6.jpg",
+        "fiyat": "4,9",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004103",
+        "urun_adi": "ARÇ BUZDOLABI TİMER(SANKYO)",
+        "urun_id": "751",
+        "resim": "/images/Urun_min/386d255e-1.JPG",
+        "fiyat": "4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001032",
+        "urun_adi": "VAKUM POMPASI CL 110 1,8 m3(MİNİ) TEK KADEME",
+        "urun_id": "752",
+        "resim": "/images/Urun_min/db809820-c.jpg",
+        "fiyat": "54,55",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006656",
+        "urun_adi": "EMNİYET ANAHTARI ARC. 2805311700",
+        "urun_id": "753",
+        "resim": "/images/Urun_min/ece95d5f-4.JPG",
+        "fiyat": "2,66",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006657",
+        "urun_adi": "EMNİYET ANAHTARI VST M8 32024465",
+        "urun_id": "754",
+        "resim": "/images/Urun_min/a8794d40-5.jpg",
+        "fiyat": "4,08",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "B0004104",
+        "urun_adi": "GENERAL DRAYER 13,5 Gr.VAKUMLU 5-6.5 / 2.5",
+        "urun_id": "755",
+        "resim": "/images/Urun_min/7cfeed1f-e.jpg",
+        "fiyat": "0,85",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "S0008062",
+        "urun_adi": "DOMEL 467.3.618-2 SÜPÜRGE MOTORU 1600W",
+        "urun_id": "756",
+        "resim": "/images/Urun_min/bf7ecb5e-b.jpg",
+        "fiyat": "32,62",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "S0008063",
+        "urun_adi": "DOMEL 458.3.303-32 SÜPÜRGE MOTORU 850W",
+        "urun_id": "757",
+        "resim": "/images/Urun_min/05049f65-d.jpg",
+        "fiyat": "30,15",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "S0008064",
+        "urun_adi": "DOMEL 463.3.405-3 SÜPÜRGE MOTORU 1800W",
+        "urun_id": "758",
+        "resim": "/images/Urun_min/7b468e18-2.jpg",
+        "fiyat": "30,45",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "S0008065",
+        "urun_adi": "DOMEL 464.3.404-8 SÜPÜRGE MOTORU 1400W",
+        "urun_id": "759",
+        "resim": "/images/Urun_min/ff629a50-1.jpg",
+        "fiyat": "30,45",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "S0008066",
+        "urun_adi": "DOMEL 463.3.201-11 SÜPÜRGE MOTORU 1600W",
+        "urun_id": "760",
+        "resim": "/images/Urun_min/5b183811-c.jpg",
+        "fiyat": "30,45",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "K0005308",
+        "urun_adi": "MITSUBISHI NN40VAAMT 36.000BTU ROTARY 410/A 220v.",
+        "urun_id": "761",
+        "resim": "/images/Urun_min/0e8e7616-c.jpg",
+        "fiyat": "413,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001034",
+        "urun_adi": "TECHSUN 450V. 2.5µf KOMBİ POMPA KONDANSATÖRÜ",
+        "urun_id": "762",
+        "resim": "/images/Urun_min/33a16701-a.jpeg",
+        "fiyat": "0,65",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004105",
+        "urun_adi": "GENERAL DRAYER 13,5Gr. 6.35-2,5 mm",
+        "urun_id": "763",
+        "resim": "/images/Urun_min/70fe8b83-3.jpg",
+        "fiyat": "0,77",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "B0004106",
+        "urun_adi": "GENERAL DRAYER 15Gr. 6.35-2,5mm",
+        "urun_id": "764",
+        "resim": "/images/Urun_min/c52a3c75-e.jpg",
+        "fiyat": "0,8",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "B0004107",
+        "urun_adi": "GENERAL DRAYER 20Gr. 6.35-2,5mm",
+        "urun_id": "765",
+        "resim": "/images/Urun_min/bab2be4b-6.jpg",
+        "fiyat": "0,86",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "B0004108",
+        "urun_adi": "GENERAL DRAYER 30Gr. 6.35-2,5mm",
+        "urun_id": "766",
+        "resim": "/images/Urun_min/be4ddb78-1.jpg",
+        "fiyat": "1,36",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "B0004109",
+        "urun_adi": "GENERAL DRAYER 30Gr. 6.35-6.35mm",
+        "urun_id": "767",
+        "resim": "/images/Urun_min/4a616961-2.jpg",
+        "fiyat": "1,36",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "B0004110",
+        "urun_adi": "GENERAL DRAYER 40Gr. 6.35-6.35mm",
+        "urun_id": "768",
+        "resim": "/images/Urun_min/514f4d3b-d.jpg",
+        "fiyat": "1,6",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "B0004111",
+        "urun_adi": "GENERAL DRAYER 50Gr. 6.35-6.35mm",
+        "urun_id": "769",
+        "resim": "/images/Urun_min/4da20442-4.jpg",
+        "fiyat": "1,86",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0001035",
+        "urun_adi": "DAYOUNG 300mm EMİCİ AKSİYEL FAN 1380rpm 220v.",
+        "urun_id": "770",
+        "resim": "/images/Urun_min/1acd91b8-3.jpg",
+        "fiyat": "30,39",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001036",
+        "urun_adi": "DAYOUNG 350mm EMİCİ AKSİYEL FAN 1335rpm 220v.",
+        "urun_id": "771",
+        "resim": "/images/Urun_min/306e9ccc-5.jpg",
+        "fiyat": "40,52",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001037",
+        "urun_adi": "DAYOUNG 400mm EMİCİ AKSİYEL FAN 1370rpm 220v.",
+        "urun_id": "772",
+        "resim": "/images/Urun_min/d43ed2a2-f.jpg",
+        "fiyat": "45,9",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001038",
+        "urun_adi": "DAYOUNG 450mm EMİCİ AKSİYEL FAN 1360rpm 220v.",
+        "urun_id": "773",
+        "resim": "/images/Urun_min/c5941a5d-c.jpg",
+        "fiyat": "54,34",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001039",
+        "urun_adi": "DAYOUNG 500mm EMİCİ AKSİYEL FAN 1340rpm 220v.",
+        "urun_id": "774",
+        "resim": "/images/Urun_min/d88e518d-d.jpg",
+        "fiyat": "69,48",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001040",
+        "urun_adi": "DAYOUNG 630mm EMİCİ AKSİYEL FAN 1350rpm 220v.",
+        "urun_id": "775",
+        "resim": "/images/Urun_min/80c7c878-6.jpg",
+        "fiyat": "123,24",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008067",
+        "urun_adi": "DOMEL 440.3.606-7 SÜPÜRGE MOTORU 2100W",
+        "urun_id": "776",
+        "resim": "/images/Urun_min/db0be010-4.jpg",
+        "fiyat": "48,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005311",
+        "urun_adi": "HIGHLY SG210CV 12000BTU R22 ROTARY KOMP.",
+        "urun_id": "777",
+        "resim": "/images/Urun_min/9466ce2a-c.jpg",
+        "fiyat": "89",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005313",
+        "urun_adi": "HIGHLY SL300UV-C8EU 18000BTU R22  ROTARY KOMP.",
+        "urun_id": "778",
+        "resim": "/images/Urun_min/81d6eb3e-6.jpg",
+        "fiyat": "120,8",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005315",
+        "urun_adi": "HIGHLY ASL211SV 18000BTU R410 ROTARY KOMP.",
+        "urun_id": "779",
+        "resim": "/images/Urun_min/9c2c90a1-5.jpg",
+        "fiyat": "134,2",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005317",
+        "urun_adi": "HIGHLY ASH280TV-C8CU 24000BTU R410 ROTARY KOMP.",
+        "urun_id": "780",
+        "resim": "/images/Urun_min/dd2bb831-9.jpg",
+        "fiyat": "165,35",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001041",
+        "urun_adi": "DAYOUNG 630mm EMİCİ AKSİYEL FAN 920rpm 220v.",
+        "urun_id": "781",
+        "resim": "/images/Urun_min/8625afd2-2.jpg",
+        "fiyat": "123,24",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001042",
+        "urun_adi": "DAYOUNG 630mm EMİCİ AKSİYEL FAN 1395rpm 380v.",
+        "urun_id": "782",
+        "resim": "/images/Urun_min/6cef2c52-3.jpg",
+        "fiyat": "123,24",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001043",
+        "urun_adi": "KİNGVENT 800mm EMİCİ AKSİYEL FAN 920rpm 400v.",
+        "urun_id": "783",
+        "resim": "/images/Urun_min/46de331f-a.jpg",
+        "fiyat": "494,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001044",
+        "urun_adi": "HPEOK 5/8 165 RAKORLU DRAYER 76MM",
+        "urun_id": "784",
+        "resim": "/images/Urun_min/d7e4fbe9-e.jpg",
+        "fiyat": "5,75",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001033",
+        "urun_adi": "HPEOK 1/2 304 RAKORLU DRAYER 76MM",
+        "urun_id": "785",
+        "resim": "/images/Urun_min/e96c6559-e.jpg",
+        "fiyat": "9,25",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001031A",
+        "urun_adi": "HPEOK 3/8 163 RAKORLU DRAYER 76MM",
+        "urun_id": "786",
+        "resim": "/images/Urun_min/80bad436-0.jpg",
+        "fiyat": "4,9",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004112",
+        "urun_adi": "TECHSUN TCH25G DC 12-24V R134A KOMP.",
+        "urun_id": "787",
+        "resim": "/images/Urun_min/d5e1d662-d.jpg",
+        "fiyat": "62,67",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004113",
+        "urun_adi": "TECHSUN TCH35G DC 12-24V R134A KOMP.",
+        "urun_id": "788",
+        "resim": "/images/Urun_min/93295321-2.jpg",
+        "fiyat": "66,44",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004114",
+        "urun_adi": "ARA BÖLME REZİSTANSI 4820690185",
+        "urun_id": "898",
+        "resim": "/images/Urun_min/817c700c-0.jpg",
+        "fiyat": "5,36",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008069",
+        "urun_adi": "TECHSUN TB64 SÜPÜRGE MOTORU 1600W",
+        "urun_id": "789",
+        "resim": "/images/Urun_min/966beb43-d.jpg",
+        "fiyat": "10,27",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008070",
+        "urun_adi": "TECHSUN TB65 SÜPÜRGE MOTORU 1400W",
+        "urun_id": "790",
+        "resim": "/images/Urun_min/d2febb91-1.jpg",
+        "fiyat": "11,48",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008068",
+        "urun_adi": "TECHSUN TB35HD SÜPÜRGE MOTORU 1600W",
+        "urun_id": "791",
+        "resim": "/images/Urun_min/5f8437e8-0.jpg",
+        "fiyat": "9,54",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008071",
+        "urun_adi": "TECHSUN TB70 SÜPÜRGE MOTORU 1200W",
+        "urun_id": "792",
+        "resim": "/images/Urun_min/13bb58a7-c.jpg",
+        "fiyat": "19,21",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008072",
+        "urun_adi": "TECHSUN TB25 SÜPÜRGE MOTORU 1400W",
+        "urun_id": "793",
+        "resim": "/images/Urun_min/1e1678fb-0.jpg",
+        "fiyat": "9,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008020A",
+        "urun_adi": "TECHSUN TB30 SÜPÜRGE MOTORU KUTUSUZ 1200W",
+        "urun_id": "794",
+        "resim": "/images/Urun_min/7e589167-f.jpg",
+        "fiyat": "7,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008021A",
+        "urun_adi": "TECHSUN TB35 SÜPÜRGE MOTORU KUTUSUZ 1200W",
+        "urun_id": "795",
+        "resim": "/images/Urun_min/6a3930a7-f.jpg",
+        "fiyat": "7,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006660",
+        "urun_adi": "EMNİYET ANAHTARI İND 254755",
+        "urun_id": "899",
+        "resim": "/images/Urun_min/a32f7c0f-8.jpg",
+        "fiyat": "4,6",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006661",
+        "urun_adi": "EMNİYET ANAHTARI ARC 2805311400",
+        "urun_id": "900",
+        "resim": "/images/Urun_min/4174708f-2.jpg",
+        "fiyat": "2,65",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "S0008073",
+        "urun_adi": "TECHSUN TB28 SÜPÜRGE MOTORU 1400W",
+        "urun_id": "796",
+        "resim": "/images/Urun_min/58090aa5-4.png",
+        "fiyat": "9,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008074",
+        "urun_adi": "TECHSUN TB32 SÜPÜRGE MOTORU 2200W",
+        "urun_id": "797",
+        "resim": "/images/Urun_min/6cfc928c-f.png",
+        "fiyat": "9,48",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008021B",
+        "urun_adi": "TECHSUN TB35 SÜPÜRGE MOTORU KUTUSUZ 1200W",
+        "urun_id": "921",
+        "resim": "/images/Urun_min/1e48b35e-8.jpg",
+        "fiyat": "7,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008020B",
+        "urun_adi": "TECHSUN TB30 SÜPÜRGE MOTORU KUTUSUZ 1200W",
+        "urun_id": "901",
+        "resim": "/images/Urun_min/f83f495f-b.jpg",
+        "fiyat": "7,85",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001045",
+        "urun_adi": "TECHSUN 26 / 31 BAR MÜŞÜR YÜKSEK BASINÇ",
+        "urun_id": "798",
+        "resim": "/images/Urun_min/6694957c-b.jpg",
+        "fiyat": "4,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001046",
+        "urun_adi": "TECHSUN 32 / 40 BAR MÜŞÜR YÜKSEK BASINÇ",
+        "urun_id": "799",
+        "resim": "/images/Urun_min/7e72566e-1.jpg",
+        "fiyat": "4,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001047",
+        "urun_adi": "TECHSUN 11 / 8.5 BAR MÜŞÜR FAN KONTROL",
+        "urun_id": "800",
+        "resim": "/images/Urun_min/cd398fe2-3.jpg",
+        "fiyat": "4,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001048",
+        "urun_adi": "TECHSUN 2.1 / 0.7 BAR MÜŞÜR ALÇAK BASINÇ",
+        "urun_id": "801",
+        "resim": "/images/Urun_min/3ca600ab-5.jpg",
+        "fiyat": "4,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001049",
+        "urun_adi": "TECHSUN 3.7 / 1.7 BAR MÜŞÜR ALÇAK BASINÇ",
+        "urun_id": "802",
+        "resim": "/images/Urun_min/d279b5ea-5.jpg",
+        "fiyat": "4,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001050",
+        "urun_adi": "TECHSUN 18 / 24 BAR MÜŞÜR YÜKSEK BASINÇ",
+        "urun_id": "803",
+        "resim": "/images/Urun_min/e30054e6-1.jpg",
+        "fiyat": "4,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006662",
+        "urun_adi": "ŞEBEKE HORTUMU TP REFLEX 150CM EN 61770",
+        "urun_id": "805",
+        "resim": "/images/Urun_min/2abbe858-6.jpg",
+        "fiyat": "1,37",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006663",
+        "urun_adi": "ŞEBEKE HORTUMU TP REFLEX 200CM EN 61770",
+        "urun_id": "806",
+        "resim": "/images/Urun_min/7f98c46e-2.jpg",
+        "fiyat": "1,63",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006665",
+        "urun_adi": "ŞEBEKE HORTUMU TP REFLEX 300CM EN 61770",
+        "urun_id": "807",
+        "resim": "/images/Urun_min/a21c78b9-b.jpg",
+        "fiyat": "2,08",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000664A",
+        "urun_adi": "SETTALA R600 GAZ İZOBUTAN ALM TÜP 420gr.",
+        "urun_id": "809",
+        "resim": "/images/Urun_min/806ae3d8-c.jpeg",
+        "fiyat": "3,8",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006668",
+        "urun_adi": "TP REFLEX  AQUASTOP VENTİL HORTUMLU 1760360200",
+        "urun_id": "902",
+        "resim": "/images/Urun_min/7b659960-8.jpg",
+        "fiyat": "8,24",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "S0008075",
+        "urun_adi": "DOMEL 492.3.363 SÜPÜRGE MOTORU 1200W MKM7363-12",
+        "urun_id": "810",
+        "resim": "/images/Urun_min/7bd6ed6e-7.jpg",
+        "fiyat": "41,7",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "S0008076",
+        "urun_adi": "DOMEL 492.3.380 24V. SÜPÜRGE MOTORU MKM7380 550W",
+        "urun_id": "811",
+        "resim": "/images/Urun_min/7463a72b-8.jpg",
+        "fiyat": "73,07",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000318A",
+        "urun_adi": "HPEOK PKQ-207 7/8 LİKİT TUTUCU",
+        "urun_id": "840",
+        "resim": "/images/Urun_min/b9d45fe5-e.jpg",
+        "fiyat": "32",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005321",
+        "urun_adi": "HIGHLY ASG140TV 12000BTU R410 ROTARY KOMP.",
+        "urun_id": "843",
+        "resim": "/images/Urun_min/4f348d4e-0.jpg",
+        "fiyat": "103",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004115",
+        "urun_adi": "ARA BÖLME EVAP REZİSTANSI 32002109 (46,50CM)",
+        "urun_id": "922",
+        "resim": "/images/Urun_min/4118e955-b.jpg",
+        "fiyat": "6,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004116",
+        "urun_adi": "TERMAL SİGORTA GRUBU 77C VS13735",
+        "urun_id": "947",
+        "resim": "/images/Urun_min/ff31459b-e.jpg",
+        "fiyat": "1,82",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004117",
+        "urun_adi": "BİMETAL TERMOSTAT VS 05313",
+        "urun_id": "948",
+        "resim": "/images/Urun_min/6ce4e8b0-9.jpg",
+        "fiyat": "1,7",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004119",
+        "urun_adi": "TERMAL SİGORTA VS 32027624",
+        "urun_id": "1021",
+        "resim": "/images/Urun_min/b88df635-c.jpg",
+        "fiyat": "1,94",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001051",
+        "urun_adi": "HT750 ELEKTRONİK MANİFOLD",
+        "urun_id": "949",
+        "resim": "/images/Urun_min/b26d4547-7.jpg",
+        "fiyat": "266",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004120",
+        "urun_adi": "FSTB VT9 2mt. ÜÇ UÇLU TERMOSTAT",
+        "urun_id": "916",
+        "resim": "/images/Urun_min/54c55064-b.jpg",
+        "fiyat": "3,26",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006670",
+        "urun_adi": "BİTRON TEKLİ VENTİL 180° METAL BAĞLANTI 10,5mm",
+        "urun_id": "907",
+        "resim": "/images/Urun_min/61e5562d-3.jpg",
+        "fiyat": "1,94",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006671",
+        "urun_adi": "BİTRON TEKLİ VENTİL 90° METAL BAĞLANTI 10,5mm",
+        "urun_id": "908",
+        "resim": "/images/Urun_min/aad3427c-4.jpg",
+        "fiyat": "1,75",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006672",
+        "urun_adi": "BİTRON İKİLİ VENTİL 180° BSC MAXX KARTLI 428210",
+        "urun_id": "909",
+        "resim": "/images/Urun_min/2c5b4701-9.jpg",
+        "fiyat": "6,65",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006673",
+        "urun_adi": "BİTRON İKİLİ VENTİL 180° BSC LOGİX KART SYC 606001",
+        "urun_id": "910",
+        "resim": "/images/Urun_min/7b3b2d6b-5.jpg",
+        "fiyat": "11,36",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006674",
+        "urun_adi": "EMNİYET ANAHTARI BSC 619468-633765 (K)",
+        "urun_id": "911",
+        "resim": "/images/Urun_min/a9f26237-9.jpg",
+        "fiyat": "5,08",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006675",
+        "urun_adi": "EMNİYET ANAHTARI BSC 616876-613070-615834 (İ)",
+        "urun_id": "912",
+        "resim": "/images/Urun_min/25067527-4.jpg",
+        "fiyat": "6,95",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001052",
+        "urun_adi": "TECHSUN 1/4\" SOLENOİD VANA KAYNAKLI",
+        "urun_id": "875",
+        "resim": "/images/Urun_min/91b0cbd8-b.jpeg",
+        "fiyat": "17,41",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001053",
+        "urun_adi": "TECHSUN 3/8\" SOLENOİD VANA KAYNAKLI",
+        "urun_id": "876",
+        "resim": "/images/Urun_min/7b7c5ee1-1.jpg",
+        "fiyat": "17,65",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001054",
+        "urun_adi": "TECHSUN 1/2\" SOLENOİD VANA KAYNAKLI",
+        "urun_id": "877",
+        "resim": "/images/Urun_min/f501a4af-1.jpg",
+        "fiyat": "22,19",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001055",
+        "urun_adi": "TECHSUN 5/8\" SOLENOİD VANA KAYNAKLI",
+        "urun_id": "878",
+        "resim": "/images/Urun_min/e1c5f465-f.jpg",
+        "fiyat": "29,98",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006676",
+        "urun_adi": "TP ÜÇLÜ VENTİL 180° GEÇMELİ 10,5MM 2005680400",
+        "urun_id": "913",
+        "resim": "/images/Urun_min/2dd7fedd-1.jpg",
+        "fiyat": "6,7",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006677",
+        "urun_adi": "TP ÜÇLÜ VENTİL 180° GEÇMELİ GRP.SOKET 10,5MM",
+        "urun_id": "914",
+        "resim": "/images/Urun_min/2ea5a6b4-5.jpg",
+        "fiyat": "6,7",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0001056",
+        "urun_adi": "AKSA 18CM 22W.RADYAL FAN MOTORU",
+        "urun_id": "923",
+        "resim": "/images/Urun_min/057e0795-b.jpg",
+        "fiyat": "7,43",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001057",
+        "urun_adi": "AKSA 32/5W FAN MOTORU",
+        "urun_id": "924",
+        "resim": "/images/Urun_min/ede2057c-d.jpg",
+        "fiyat": "9,13",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001058",
+        "urun_adi": "AKSA 38/10W FAN MOTORU",
+        "urun_id": "925",
+        "resim": "/images/Urun_min/ff19bb77-d.jpg",
+        "fiyat": "10,74",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001059",
+        "urun_adi": "AKSA 65/16W FAN MOTORU",
+        "urun_id": "926",
+        "resim": "/images/Urun_min/6be11cef-f.jpg",
+        "fiyat": "11,71",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001060",
+        "urun_adi": "AKSA 73/18W FAN MOTORU",
+        "urun_id": "1012",
+        "resim": "/images/Urun_min/8779311f-1.jpg",
+        "fiyat": "13,53",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001061",
+        "urun_adi": "AKSA 95/25W FAN MOTORU",
+        "urun_id": "1013",
+        "resim": "/images/Urun_min/20fdefe7-5.jpg",
+        "fiyat": "16,32",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001062",
+        "urun_adi": "AKSA 120/34W FAN MOTORU",
+        "urun_id": "996",
+        "resim": "/images/Urun_min/c980ca51-1.jpg",
+        "fiyat": "18,05",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001063",
+        "urun_adi": "AKSA 32/5W FAN MOTORU MONTAJ AYAKLI",
+        "urun_id": "997",
+        "resim": "/images/Urun_min/f177a4c7-0.jpg",
+        "fiyat": "10,03",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001064",
+        "urun_adi": "AKSA 38/10W FAN MOTORU MONTAJ AYAKLI",
+        "urun_id": "998",
+        "resim": "/images/Urun_min/658ec2f1-0.jpg",
+        "fiyat": "11,7",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001065",
+        "urun_adi": "AKSA 65/16W FAN MOTORU MONTAJ AYAKLI",
+        "urun_id": "999",
+        "resim": "/images/Urun_min/53d4e032-e.jpg",
+        "fiyat": "12,78",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001066",
+        "urun_adi": "AKSA 73/18W FAN MOTORU MONTAJ AYAKLI",
+        "urun_id": "1000",
+        "resim": "/images/Urun_min/d77b65b1-0.jpg",
+        "fiyat": "15,27",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001067",
+        "urun_adi": "AKSA 95/25W FAN MOTORU MONTAJ AYAKLI",
+        "urun_id": "1001",
+        "resim": "/images/Urun_min/215542b6-0.jpg",
+        "fiyat": "18,21",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001068",
+        "urun_adi": "AKSA 120/34W FAN MOTORU MONTAJ AYAKLI",
+        "urun_id": "1002",
+        "resim": "/images/Urun_min/f7b811d9-2.jpg",
+        "fiyat": "19,9",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001069",
+        "urun_adi": "AKSA 250MM EMİCİ AKSİYEL FAN 1400 rpm 220V",
+        "urun_id": "927",
+        "resim": "/images/Urun_min/74beb84f-c.png",
+        "fiyat": "31,61",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001070",
+        "urun_adi": "AKSA 300MM EMİCİ AKSİYEL FAN 1400 rpm 220V",
+        "urun_id": "928",
+        "resim": "/images/Urun_min/5b782a85-5.png",
+        "fiyat": "38,91",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001071",
+        "urun_adi": "AKSA 350MM EMİCİ AKSİYEL FAN 1400 rpm 220V",
+        "urun_id": "929",
+        "resim": "/images/Urun_min/94256598-0.png",
+        "fiyat": "48,32",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001072",
+        "urun_adi": "AKSA 400MM EMİCİ AKSİYEL FAN 1350 rpm 220V",
+        "urun_id": "930",
+        "resim": "/images/Urun_min/c299c2d8-3.png",
+        "fiyat": "53,89",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001073",
+        "urun_adi": "AKSA 450MM EMİCİ AKSİYEL FAN 1350 rpm 220V",
+        "urun_id": "931",
+        "resim": "/images/Urun_min/8f052d88-4.png",
+        "fiyat": "65,23",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001074",
+        "urun_adi": "AKSA 500MM EMİCİ AKSİYEL FAN 1300 rpm 220V",
+        "urun_id": "932",
+        "resim": "/images/Urun_min/bf6af593-d.png",
+        "fiyat": "83,35",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006678",
+        "urun_adi": "BİTRON EMNİYET ANAHTARI VST 32018336 (İ)",
+        "urun_id": "977",
+        "resim": "/images/Urun_min/1a64ca95-a.jpg",
+        "fiyat": "5,65",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006679",
+        "urun_adi": "BİTRON EMNİYET ANAHTARI VST 32018338 (K)",
+        "urun_id": "978",
+        "resim": "/images/Urun_min/f73e24f1-9.jpg",
+        "fiyat": "4,77",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006680",
+        "urun_adi": "BİTRON EMNİYET ANAHTARI VST 32024463 (İ)",
+        "urun_id": "979",
+        "resim": "/images/Urun_min/b54b5134-9.jpg",
+        "fiyat": "5,44",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "S0008023A",
+        "urun_adi": "TECHSUN TB45 SÜPÜRGE MOTORU KUTUSUZ 1400W",
+        "urun_id": "933",
+        "resim": "/images/Urun_min/fe91a534-8.jpg",
+        "fiyat": "8,76",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008025A",
+        "urun_adi": "TECHSUN TB55 SUPURGE MOTORU KUTUSUZ 1400W",
+        "urun_id": "934",
+        "resim": "/images/Urun_min/7574df87-9.jpg",
+        "fiyat": "9,24",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005111",
+        "urun_adi": "TECHSUN TCH-100 TERAZİ 100KG",
+        "urun_id": "1051",
+        "resim": "/images/Urun_min/cea0319a-4.jpg",
+        "fiyat": "99",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006681",
+        "urun_adi": "EMNİYET ANAHTARI İND 309745",
+        "urun_id": "980",
+        "resim": "/images/Urun_min/e4ed1d73-4.jpg",
+        "fiyat": "3,02",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "K0005323",
+        "urun_adi": "TECHSUN SALON TİP DRENAJ POMPASI TCTD-20",
+        "urun_id": "984",
+        "resim": "/images/Urun_min/8c7cbf14-8.jpg",
+        "fiyat": "43,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005324",
+        "urun_adi": "TECHSUN KARE APLİK DRENAJ POMPASI TCAS-20",
+        "urun_id": "985",
+        "resim": "/images/Urun_min/3698074f-9.jpg",
+        "fiyat": "39,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001075",
+        "urun_adi": "TECHSUN 21 / 28 BAR MÜŞÜR YÜKSEK BASINÇ",
+        "urun_id": "940",
+        "resim": "/images/Urun_min/fdfae443-c.jpg",
+        "fiyat": "4,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001076",
+        "urun_adi": "TECHSUN 19 / 16 BAR MÜŞÜR FAN KONTROL",
+        "urun_id": "941",
+        "resim": "/images/Urun_min/27e9091c-2.jpg",
+        "fiyat": "4,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001077",
+        "urun_adi": "TECHSUN 2.2 / 1.2 BAR MÜŞÜR ALÇAK BASINÇ",
+        "urun_id": "942",
+        "resim": "/images/Urun_min/0e72733a-6.jpg",
+        "fiyat": "4,4",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008074A",
+        "urun_adi": "TECHSUN TB32 SÜPÜRGE MOTORU KUTUSUZ 2000W",
+        "urun_id": "903",
+        "resim": "/images/Urun_min/6f98b25c-8.jpg",
+        "fiyat": "9,48",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008077",
+        "urun_adi": "TECHSUN TB28E SÜPÜRGE MOTORU 800W",
+        "urun_id": "1084",
+        "resim": "/images/Urun_min/cd530aa2-e.jpeg",
+        "fiyat": "9,97",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "S0008078",
+        "urun_adi": "DOMEL 467.3.251-2 SÜPÜRGE MOTORU 24V. 280W.",
+        "urun_id": "935",
+        "resim": "/images/Urun_min/e823e1f0-0.jpg",
+        "fiyat": "71,05",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "S0008079",
+        "urun_adi": "DOMEL 491.3.405 SÜPÜRGE MOTORU EGZ.24V. 550W.",
+        "urun_id": "936",
+        "resim": "/images/Urun_min/07bce574-0.jpg",
+        "fiyat": "91,8",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "S0008080",
+        "urun_adi": "DOMEL 463.3.270-51 SÜPÜRGE MOTORU 800W.",
+        "urun_id": "937",
+        "resim": "/images/Urun_min/491150c2-3.jpg",
+        "fiyat": "31,3",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "S0008081",
+        "urun_adi": "DOMEL 496.3.535-6 SÜPÜRGE MOTORU MKM RB17 1000W.",
+        "urun_id": "938",
+        "resim": "/images/Urun_min/16fb0cc9-b.jpg",
+        "fiyat": "58",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0000895A",
+        "urun_adi": "T 15 HS 112 E 1.5HP FR. GRUP TAJ4519 EKO",
+        "urun_id": "976",
+        "resim": "/images/Urun_min/4532d009-e.jpg",
+        "fiyat": "935",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "E0001083",
+        "urun_adi": "DAYOUNG 630mm EMİCİ AKSİYEL FAN 900rpm 380v.",
+        "urun_id": "981",
+        "resim": "/images/Urun_min/eb41d0d5-9.jpg",
+        "fiyat": "123,24",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006700A",
+        "urun_adi": "HANYU B15-6A 40W PLASET POMPA",
+        "urun_id": "1018",
+        "resim": "/images/Urun_min/c5e0f87b-6.jpg",
+        "fiyat": "4,6",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006701A",
+        "urun_adi": "HANYU B20-6A 01 30W YUVARLAK GEÇMELİ POMPA",
+        "urun_id": "1019",
+        "resim": "/images/Urun_min/e4d40c7b-1.jpg",
+        "fiyat": "4,71",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "E0001085",
+        "urun_adi": "DAYOUNG 250mm EMİCİ AKSİYEL FAN 1430rpm 220v.",
+        "urun_id": "1037",
+        "resim": "/images/Urun_min/8e88eaab-d.jpg",
+        "fiyat": "29,86",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006686",
+        "urun_adi": "BİTRON İKİLİ VENTİL 180° METAL BAĞLANTI 10.5mm",
+        "urun_id": "1055",
+        "resim": "/images/Urun_min/095eec63-6.jpeg",
+        "fiyat": "3,63",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006687",
+        "urun_adi": "BİTRON İKİLİ VENTİL 180° GEÇMELİ 10.5mm",
+        "urun_id": "1042",
+        "resim": "/images/Urun_min/a8b05888-a.jpeg",
+        "fiyat": "3,66",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006688",
+        "urun_adi": "BİTRON MİCRO SWİTCH VST",
+        "urun_id": "1044",
+        "resim": "/images/Urun_min/9c4eab7d-7.jpeg",
+        "fiyat": "2,94",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "O0006689",
+        "urun_adi": "LG WM 6501KW2001A TAKO MOTOR SENSOR",
+        "urun_id": "1059",
+        "resim": "/images/Urun_min/9ca565cd-b.jpeg",
+        "fiyat": "3,27",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "O0006690",
+        "urun_adi": "EMNİYET ANAHTARI ARC 2849660200-500 DKS44403",
+        "urun_id": "1050",
+        "resim": "/images/Urun_min/cd97a520-f.jpeg",
+        "fiyat": "4,41",
+        "fiyat_birimi": "EURO"
+    },
+    {
+        "urun_kodu": "B0004123",
+        "urun_adi": "TECHSUN TCH65G DC 12-24V R134A KOMP.",
+        "urun_id": "1066",
+        "resim": "/images/Urun_min/3ab634d6-4.jpeg",
+        "fiyat": "115,17",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005326",
+        "urun_adi": "KLİMA VANA 3/4 L MODEL",
+        "urun_id": "1054",
+        "resim": "/images/Urun_min/69f54815-3.jpeg",
+        "fiyat": "13,5",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "K0005224A",
+        "urun_adi": "ARÇELİK UNİVERSAL KUMANDA - SOĞUK",
+        "urun_id": "1058",
+        "resim": "/images/Urun_min/aef6835f-4.jpg",
+        "fiyat": "60,28",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "O0006691",
+        "urun_adi": "TAHLİYE HORTUMU TP REFLEX ORJ. 225cm",
+        "urun_id": "1075",
+        "resim": "/images/Urun_min/d6ddc384-6.jpeg",
+        "fiyat": "20,54",
+        "fiyat_birimi": "TL"
+    },
+    {
+        "urun_kodu": "B0004007A",
+        "urun_adi": "PHOENİX ISI TERMOSTAT 0-40 ÇİFT KONTAK KAPAKSIZ",
+        "urun_id": "1096",
+        "resim": "/images/Urun_min/9acc79e2-5.png",
+        "fiyat": "2,29",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004008A",
+        "urun_adi": "PHOENİX ISI TERMOSTAT 30-90 ÇİFT KONTAK KAPAKSIZ",
+        "urun_id": "1097",
+        "resim": "/images/Urun_min/c55cfab2-2.png",
+        "fiyat": "2,29",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004009A",
+        "urun_adi": "PHOENİX ISI TERMOSTAT 30-120 ÇİFT KONTAK KAPAKSIZ",
+        "urun_id": "1098",
+        "resim": "/images/Urun_min/8dee98fb-e.png",
+        "fiyat": "2,29",
+        "fiyat_birimi": "USD"
+    },
+    {
+        "urun_kodu": "B0004010A",
+        "urun_adi": "PHOENİX ISI TERMOSTAT 50-300 ÇİFT KONTAK KAPAKSIZ",
+        "urun_id": "1099",
+        "resim": "/images/Urun_min/6c72d076-8.png",
+        "fiyat": "2,29",
+        "fiyat_birimi": "USD"
+    }
+]
