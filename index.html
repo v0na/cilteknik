@@ -310,8 +310,8 @@
                 const price = parseFloat(product.fiyat.replace(',', '.')).toFixed(2);
                 const tlPrice = parseFloat(product.tl_liste_fiyati.replace(',', '.')).toFixed(2);
                 const baseTlPrice = parseFloat(product.tl_liste_fiyati.replace(',', '.'));
-                const priceWithKdv = baseTlPrice * 1.20; // %20 KDV ekle
-                const rawSalePrice = priceWithKdv * 1.50; // %50 kar ekle
+                const priceWithKdv = baseTlPrice * 1.05; // %5 kk
+                const rawSalePrice = priceWithKdv * 1.75; // kar ekle
                 
                 // 5'e veya 0'a yuvarlama fonksiyonu
                 const roundToFiveOrZero = (price) => {
