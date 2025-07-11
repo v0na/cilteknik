@@ -95,7 +95,7 @@ if login_response.status_code == 200:
                         fiyat_birimi = match.group(2)
                     
                     # TL list price (TL Liste Fiyatı)
-                    tl_match = re.search(r"TL Liste Fiyatı:\s*([\d,]+)\s*TL", data_content)
+                    tl_match = re.search(r"KDV Dahil Peşin Fiyat:\s*([\d,]+)\s*TL", data_content)
                     if tl_match:
                         tl_liste_fiyati = tl_match.group(1)
 
