@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-28 11:24:17",
+    "last_updated": "2025-07-28 12:59:12",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -396,9 +396,9 @@
             "urun_adi": "GAZ ŞARJ HORTUMU 90CM 3LÜ TAKIM R 22-134-404",
             "urun_id": "58",
             "resim": "/images/Urun/5b09741a-4.jpg",
-            "fiyat": "7,92",
+            "fiyat": "7,24",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "322,34",
+            "tl_liste_fiyati": "294,66",
             "stok_durumu": "0"
         },
         {
@@ -756,9 +756,9 @@
             "urun_adi": "TECHSUN 3/8\" SOLENOİD VANA RAKORLU",
             "urun_id": "108",
             "resim": "/images/Urun/88aebe78-0.jpg",
-            "fiyat": "18,53",
+            "fiyat": "14,45",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "754,16",
+            "tl_liste_fiyati": "588,11",
             "stok_durumu": "0"
         },
         {
@@ -796,9 +796,9 @@
             "urun_adi": "GAZ ŞARJ HORTUMU 180CM 3LÜ TAKIM R 22-134-404",
             "urun_id": "112",
             "resim": "/images/Urun/2acc21b3-8.jpg",
-            "fiyat": "11,18",
+            "fiyat": "10,27",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "455,02",
+            "tl_liste_fiyati": "417,98",
             "stok_durumu": "1"
         },
         {
@@ -816,9 +816,9 @@
             "urun_adi": "TECHSUN HLP830E  KOMBİNE PRESOSTADI OTOMATİK RESET",
             "urun_id": "114",
             "resim": "/images/Urun/1bf5a127-b.jpg",
-            "fiyat": "16,8",
+            "fiyat": "12,38",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "683,75",
+            "tl_liste_fiyati": "503,86",
             "stok_durumu": "0"
         },
         {
@@ -876,9 +876,9 @@
             "urun_adi": "TECHSUN HLP830HME KOMBİNE PRESOSTADI MANUEL RESET",
             "urun_id": "122",
             "resim": "/images/Urun/678637e3-6.jpg",
-            "fiyat": "16,8",
+            "fiyat": "12,38",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "683,75",
+            "tl_liste_fiyati": "503,86",
             "stok_durumu": "1"
         },
         {
@@ -5516,9 +5516,9 @@
             "urun_adi": "GAZ ŞARJ HORTUMU 180CM 3LÜ TAKIM R410A",
             "urun_id": "625",
             "resim": "/images/Urun/7b262f7f-7.jpg",
-            "fiyat": "20,2",
+            "fiyat": "14,44",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "822,13",
+            "tl_liste_fiyati": "587,7",
             "stok_durumu": "0"
         },
         {
@@ -5946,9 +5946,9 @@
             "urun_adi": "TECHSUN APLİK TİP DRENAJ POMPASI TCAK-20",
             "urun_id": "667",
             "resim": "/images/Urun/b16247c2-f.jpg",
-            "fiyat": "38",
+            "fiyat": "27,78",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1546,58",
+            "tl_liste_fiyati": "1130,63",
             "stok_durumu": "1"
         },
         {
@@ -6146,9 +6146,9 @@
             "urun_adi": "MANİFOLD TAKIM MFD305 ÇANTALI(22/134A/404A/410A)",
             "urun_id": "692",
             "resim": "/images/Urun/cdfd505f-d.jpg",
-            "fiyat": "55,1",
+            "fiyat": "42,22",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2242,55",
+            "tl_liste_fiyati": "1718,34",
             "stok_durumu": "1"
         },
         {
@@ -6916,9 +6916,9 @@
             "urun_adi": "DAYOUNG 300mm EMİCİ AKSİYEL FAN 1380rpm 220v.",
             "urun_id": "770",
             "resim": "/images/Urun/1acd91b8-3.jpg",
-            "fiyat": "30,39",
+            "fiyat": "25,2",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1236,86",
+            "tl_liste_fiyati": "1025,63",
             "stok_durumu": "0"
         },
         {
@@ -6926,9 +6926,9 @@
             "urun_adi": "DAYOUNG 350mm EMİCİ AKSİYEL FAN 1335rpm 220v.",
             "urun_id": "771",
             "resim": "/images/Urun/306e9ccc-5.jpg",
-            "fiyat": "40,52",
+            "fiyat": "33,1",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1649,15",
+            "tl_liste_fiyati": "1347,16",
             "stok_durumu": "0"
         },
         {
@@ -6936,9 +6936,9 @@
             "urun_adi": "DAYOUNG 400mm EMİCİ AKSİYEL FAN 1370rpm 220v.",
             "urun_id": "772",
             "resim": "/images/Urun/d43ed2a2-f.jpg",
-            "fiyat": "45,9",
+            "fiyat": "36,72",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1868,11",
+            "tl_liste_fiyati": "1494,49",
             "stok_durumu": "1"
         },
         {
@@ -6946,9 +6946,9 @@
             "urun_adi": "DAYOUNG 450mm EMİCİ AKSİYEL FAN 1360rpm 220v.",
             "urun_id": "773",
             "resim": "/images/Urun/c5941a5d-c.jpg",
-            "fiyat": "54,34",
+            "fiyat": "45,78",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2211,61",
+            "tl_liste_fiyati": "1863,23",
             "stok_durumu": "1"
         },
         {
@@ -6956,9 +6956,9 @@
             "urun_adi": "DAYOUNG 500mm EMİCİ AKSİYEL FAN 1340rpm 220v.",
             "urun_id": "774",
             "resim": "/images/Urun/d88e518d-d.jpg",
-            "fiyat": "69,48",
+            "fiyat": "55,27",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2827,8",
+            "tl_liste_fiyati": "2249,46",
             "stok_durumu": "0"
         },
         {
@@ -6966,9 +6966,9 @@
             "urun_adi": "DAYOUNG 630mm EMİCİ AKSİYEL FAN 1350rpm 220v.",
             "urun_id": "775",
             "resim": "/images/Urun/80c7c878-6.jpg",
-            "fiyat": "123,24",
+            "fiyat": "103,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "5015,81",
+            "tl_liste_fiyati": "4228,68",
             "stok_durumu": "1"
         },
         {
@@ -7026,9 +7026,9 @@
             "urun_adi": "DAYOUNG 630mm EMİCİ AKSİYEL FAN 920rpm 220v.",
             "urun_id": "781",
             "resim": "/images/Urun/8625afd2-2.jpg",
-            "fiyat": "123,24",
+            "fiyat": "103,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "5015,81",
+            "tl_liste_fiyati": "4228,68",
             "stok_durumu": "1"
         },
         {
@@ -7036,9 +7036,9 @@
             "urun_adi": "DAYOUNG 630mm EMİCİ AKSİYEL FAN 1395rpm 380v.",
             "urun_id": "782",
             "resim": "/images/Urun/6cef2c52-3.jpg",
-            "fiyat": "123,24",
+            "fiyat": "103,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "5015,81",
+            "tl_liste_fiyati": "4228,68",
             "stok_durumu": "1"
         },
         {
@@ -7046,9 +7046,9 @@
             "urun_adi": "KİNGVENT 800mm EMİCİ AKSİYEL FAN 920rpm 400v.",
             "urun_id": "783",
             "resim": "/images/Urun/46de331f-a.jpg",
-            "fiyat": "494,5",
+            "fiyat": "410,72",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "20125,92",
+            "tl_liste_fiyati": "16716,12",
             "stok_durumu": "1"
         },
         {
@@ -7516,9 +7516,9 @@
             "urun_adi": "TECHSUN 1/4\" SOLENOİD VANA KAYNAKLI",
             "urun_id": "875",
             "resim": "/images/Urun/91b0cbd8-b.jpeg",
-            "fiyat": "17,41",
+            "fiyat": "13,83",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "708,58",
+            "tl_liste_fiyati": "562,87",
             "stok_durumu": "0"
         },
         {
@@ -7526,9 +7526,9 @@
             "urun_adi": "TECHSUN 3/8\" SOLENOİD VANA KAYNAKLI",
             "urun_id": "876",
             "resim": "/images/Urun/7b7c5ee1-1.jpg",
-            "fiyat": "17,65",
+            "fiyat": "14,2",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "718,34",
+            "tl_liste_fiyati": "577,93",
             "stok_durumu": "0"
         },
         {
@@ -7836,9 +7836,9 @@
             "urun_adi": "TECHSUN SALON TİP DRENAJ POMPASI TCTD-20",
             "urun_id": "984",
             "resim": "/images/Urun/8c7cbf14-8.jpg",
-            "fiyat": "43,4",
+            "fiyat": "34,61",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1766,36",
+            "tl_liste_fiyati": "1408,61",
             "stok_durumu": "0"
         },
         {
@@ -7956,9 +7956,9 @@
             "urun_adi": "DAYOUNG 630mm EMİCİ AKSİYEL FAN 900rpm 380v.",
             "urun_id": "981",
             "resim": "/images/Urun/eb41d0d5-9.jpg",
-            "fiyat": "123,24",
+            "fiyat": "103,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "5015,81",
+            "tl_liste_fiyati": "4228,68",
             "stok_durumu": "1"
         },
         {
@@ -7986,9 +7986,9 @@
             "urun_adi": "DAYOUNG 250mm EMİCİ AKSİYEL FAN 1430rpm 220v.",
             "urun_id": "1037",
             "resim": "/images/Urun/8e88eaab-d.jpg",
-            "fiyat": "29,86",
+            "fiyat": "24,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1215,29",
+            "tl_liste_fiyati": "1013,42",
             "stok_durumu": "1"
         },
         {
