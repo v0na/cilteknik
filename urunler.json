@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-07-29 11:24:30",
+    "last_updated": "2025-07-29 12:59:50",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -1449,7 +1449,7 @@
             "fiyat": "65,65",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "2671,9",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0000544",
@@ -5949,7 +5949,7 @@
             "fiyat": "27,78",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "1130,62",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "S0008055",
