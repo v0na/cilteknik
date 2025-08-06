@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-08-06 10:31:12",
+    "last_updated": "2025-08-06 11:24:50",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -5543,7 +5543,7 @@
         },
         {
             "urun_kodu": "E0000977",
-            "urun_adi": "TEKLİ MANİFOLD A.B (R410/R22/R134A/R404A)",
+            "urun_adi": "TEKLİ MANİFOLD A.B (R410/R32/R134A/R404A)",
             "urun_id": "628",
             "resim": "/images/Urun/d803f2eb-6.jpg",
             "fiyat": "8,35",
@@ -5553,7 +5553,7 @@
         },
         {
             "urun_kodu": "E0000978",
-            "urun_adi": "TEKLİ MANİFOLD Y.B (R410/R22/R134A/R404A)",
+            "urun_adi": "TEKLİ MANİFOLD A.B (R410/R32/R134A/R404A)",
             "urun_id": "629",
             "resim": "/images/Urun/a940eac0-c.jpg",
             "fiyat": "8,35",
@@ -6353,7 +6353,7 @@
         },
         {
             "urun_kodu": "O0006647",
-            "urun_adi": "TP TEKLİ VENTİL 90° GEÇMELİ 2.5 LT  ARÇ BULAŞIK",
+            "urun_adi": "TP TEKLİ VENTİL 90° GEÇMELİ 2.5 LT  ARÇ BULAŞIK U",
             "urun_id": "713",
             "resim": "/images/Urun/27dc8655-e.jpg",
             "fiyat": "2,25",
@@ -6473,7 +6473,7 @@
         },
         {
             "urun_kodu": "O0006648",
-            "urun_adi": "TP TEKLİ VENTİL 90° GEÇMELİ 2.5 LT  ARÇ BULAŞIK",
+            "urun_adi": "TP TEKLİ VENTİL 90° GEÇMELİ 2.5 LT  ARÇ BULAŞIK K",
             "urun_id": "1100",
             "resim": "/images/Urun/48e9853c-4.jpg",
             "fiyat": "2,25",
@@ -6653,7 +6653,7 @@
         },
         {
             "urun_kodu": "B0004099",
-            "urun_adi": "GENERAL DRAYER 13,5Gr. 5-2,5",
+            "urun_adi": "GENERAL DRAYER 13,5Gr. 5-2,5mm",
             "urun_id": "744",
             "resim": "/images/Urun/567647c0-a.jpg",
             "fiyat": "0,77",
@@ -6663,7 +6663,7 @@
         },
         {
             "urun_kodu": "B0004100",
-            "urun_adi": "GENERAL DRAYER 15Gr. 5-2,5",
+            "urun_adi": "GENERAL DRAYER 15Gr. 5-2,5mm",
             "urun_id": "745",
             "resim": "/images/Urun/93a16b53-9.jpg",
             "fiyat": "0,8",
@@ -6673,7 +6673,7 @@
         },
         {
             "urun_kodu": "B0004101",
-            "urun_adi": "GENERAL DRAYER 20Gr. 5-2,5",
+            "urun_adi": "GENERAL DRAYER 20Gr. 5-2,5mm",
             "urun_id": "746",
             "resim": "/images/Urun/0cc2e26f-b.jpg",
             "fiyat": "0,86",
