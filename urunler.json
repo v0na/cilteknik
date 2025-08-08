@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-08-08 12:58:51",
+    "last_updated": "2025-08-08 13:46:44",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -119,7 +119,7 @@
             "fiyat": "24",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "979,64",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0000318",
@@ -2499,7 +2499,7 @@
             "fiyat": "12,5",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "510,23",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "K0005005",
@@ -2689,7 +2689,7 @@
             "fiyat": "19,51",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "796,37",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "E0000150",
@@ -4159,7 +4159,7 @@
             "fiyat": "142,55",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "5818,68",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "E0000773",
@@ -5479,7 +5479,7 @@
             "fiyat": "5,47",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "223,27",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "B0004073",
@@ -5519,7 +5519,7 @@
             "fiyat": "14,44",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "589,42",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "E0000975",
@@ -5539,7 +5539,7 @@
             "fiyat": "24,04",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "981,28",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0000977",
@@ -6179,7 +6179,7 @@
             "fiyat": "2,14",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "87,35",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "B0004083",
@@ -7019,7 +7019,7 @@
             "fiyat": "165,35",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "6749,34",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "E0001041",
