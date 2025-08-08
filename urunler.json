@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-08-08 10:30:14",
+    "last_updated": "2025-08-08 11:25:13",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -8119,6 +8119,16 @@
             "fiyat": "2,29",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "93,48",
+            "stok_durumu": "0"
+        },
+        {
+            "urun_kodu": "B0004124",
+            "urun_adi": "CR34K6ME-TFD-132 KOMPRESÖR",
+            "urun_id": "1104",
+            "resim": "",
+            "fiyat": "5,92",
+            "fiyat_birimi": "USD",
+            "tl_liste_fiyati": "241,64",
             "stok_durumu": "0"
         }
     ]
