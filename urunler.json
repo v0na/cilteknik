@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-08-12 08:34:34",
+    "last_updated": "2025-08-12 09:29:39",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -265,7 +265,7 @@
             "urun_kodu": "E0000222",
             "urun_adi": "TECHSUN  3/8\" RAKORLU ARA VANA",
             "urun_id": "24",
-            "resim": "",
+            "resim": "/images/Urun/51bc3385-b.jpg",
             "fiyat": "9,75",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "398,28",
@@ -685,7 +685,7 @@
             "urun_kodu": "B0004010",
             "urun_adi": "PHOENİX ISI TERMOSTAT 50-300 ÇİFT KONTAK",
             "urun_id": "96",
-            "resim": "/images/Urun/bf8bd946-9.jpg",
+            "resim": "/images/Urun/48e05e00-f.png",
             "fiyat": "2,29",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "93,54",
@@ -1109,7 +1109,7 @@
             "fiyat": "10,8",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "441,17",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0000262",
@@ -2689,7 +2689,7 @@
             "fiyat": "19,51",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "796,97",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0000150",
@@ -3909,16 +3909,6 @@
             "fiyat": "192,95",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "7881,82",
-            "stok_durumu": "0"
-        },
-        {
-            "urun_kodu": "K0005082",
-            "urun_adi": "TECHSUN APLİK TİP DRENAJ POMPASI PSB1018",
-            "urun_id": "469",
-            "resim": "",
-            "fiyat": "36,6",
-            "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1495,07",
             "stok_durumu": "0"
         },
         {
@@ -5479,7 +5469,7 @@
             "fiyat": "5,47",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "223,44",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "B0004073",
@@ -6329,7 +6319,7 @@
             "fiyat": "2,37",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "112,43",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006645",
@@ -6969,7 +6959,7 @@
             "fiyat": "103,9",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "4244,21",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "S0008067",
@@ -7325,7 +7315,7 @@
             "urun_kodu": "O0006665",
             "urun_adi": "ŞEBEKE HORTUMU TP REFLEX 300CM EN 61770",
             "urun_id": "807",
-            "resim": "/images/Urun/a21c78b9-b.jpg",
+            "resim": "/images/Urun/990b6880-5.jpg",
             "fiyat": "2,08",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "98,66",
@@ -7479,7 +7469,7 @@
             "fiyat": "6,65",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "315,46",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006673",
@@ -7489,7 +7479,7 @@
             "fiyat": "11,36",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "538,87",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006674",
@@ -7499,7 +7489,7 @@
             "fiyat": "5,08",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "207,52",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006675",
@@ -7589,7 +7579,7 @@
             "fiyat": "9,13",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "372,95",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0001058",
@@ -8119,16 +8109,6 @@
             "fiyat": "2,29",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "93,54",
-            "stok_durumu": "0"
-        },
-        {
-            "urun_kodu": "B0004124",
-            "urun_adi": "CR34K6ME-TFD-132 KOMPRESÖR",
-            "urun_id": "1104",
-            "resim": "",
-            "fiyat": "5,92",
-            "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "241,82",
             "stok_durumu": "0"
         }
     ]
