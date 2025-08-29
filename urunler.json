@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-08-29 12:50:27",
+    "last_updated": "2025-08-29 13:31:20",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -119,7 +119,7 @@
             "fiyat": "24",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "988,19",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "E0000318",
@@ -129,7 +129,7 @@
             "fiyat": "32",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "1317,59",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "E0000319",
@@ -2529,7 +2529,7 @@
             "fiyat": "15,22",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "626,68",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "K0005008",
@@ -2539,7 +2539,7 @@
             "fiyat": "19,99",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "823,08",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "K0005010",
@@ -2559,7 +2559,7 @@
             "fiyat": "21,74",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "895,13",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "K0005012",
@@ -2569,7 +2569,7 @@
             "fiyat": "29,11",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "1198,58",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "K0005105",
@@ -2689,7 +2689,7 @@
             "fiyat": "19,51",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "803,32",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "E0000150",
@@ -3729,7 +3729,7 @@
             "fiyat": "21,15",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "870,84",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "K0005018",
@@ -3749,7 +3749,7 @@
             "fiyat": "34,73",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "1429,99",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "K0005020",
@@ -5819,7 +5819,7 @@
             "fiyat": "3,99",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "164,29",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "E0000992",
@@ -6169,7 +6169,7 @@
             "fiyat": "2,14",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "88,12",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "B0004083",
@@ -6179,7 +6179,7 @@
             "fiyat": "2,18",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "89,76",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006638",
@@ -6289,7 +6289,7 @@
             "fiyat": "25,61",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "1054,48",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "K0005278",
@@ -6299,7 +6299,7 @@
             "fiyat": "15,7",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "646,44",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "K0005279",
@@ -6349,7 +6349,7 @@
             "fiyat": "2,25",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "107,98",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "E0001021",
