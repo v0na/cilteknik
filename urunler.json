@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-26 09:26:21",
+    "last_updated": "2025-09-26 10:26:11",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -2899,7 +2899,7 @@
             "fiyat": "11,96",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "497,98",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0000149",
@@ -5089,7 +5089,7 @@
             "fiyat": "6,4",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "311,02",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "K0005192",
@@ -6469,7 +6469,7 @@
             "fiyat": "2,25",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "109,34",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "B0004087",
@@ -6619,7 +6619,7 @@
             "fiyat": "6,03",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "293,04",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "O0006650",
@@ -6949,7 +6949,7 @@
             "fiyat": "55,27",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "2301,25",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0001040",
@@ -6959,7 +6959,7 @@
             "fiyat": "103,9",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "4326,05",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "S0008067",
@@ -7029,7 +7029,7 @@
             "fiyat": "103,9",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "4326,05",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0001043",
@@ -7999,7 +7999,7 @@
             "fiyat": "3,66",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "177,86",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006688",
