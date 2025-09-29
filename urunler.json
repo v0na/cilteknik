@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-09-29 06:38:06",
+    "last_updated": "2025-09-29 07:25:19",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -7149,7 +7149,7 @@
             "fiyat": "9,6",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "400,36",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "S0008020A",
