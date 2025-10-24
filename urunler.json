@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-10-24 07:23:54",
+    "last_updated": "2025-10-24 08:33:36",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -869,7 +869,7 @@
             "fiyat": "0,55",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "23,17",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "E0000331",
@@ -2902,6 +2902,16 @@
             "stok_durumu": "0"
         },
         {
+            "urun_kodu": "O0006623",
+            "urun_adi": "TP TEKLİ VENTİL 90° GEÇMELİ 2.5 LT  ARÇ BULAŞIK Y",
+            "urun_id": "1105",
+            "resim": "/images/Urun/94788e03-c.jpg",
+            "fiyat": "2,25",
+            "fiyat_birimi": "EURO",
+            "tl_liste_fiyati": "109,98",
+            "stok_durumu": "1"
+        },
+        {
             "urun_kodu": "E0000149",
             "urun_adi": "ELİWELL EW 961 TERMOSTAT GREY",
             "urun_id": "355",
@@ -4149,7 +4159,7 @@
             "fiyat": "142,55",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "6005,41",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0000773",
@@ -5543,7 +5553,7 @@
         },
         {
             "urun_kodu": "E0000978",
-            "urun_adi": "TEKLİ MANİFOLD A.B (R410/R32/R134A/R404A)",
+            "urun_adi": "TEKLİ MANİFOLD Y.B (R410/R32/R134A/R404A)",
             "urun_id": "629",
             "resim": "/images/Urun/e2571583-2.jpg",
             "fiyat": "8,35",
@@ -6349,7 +6359,7 @@
             "fiyat": "2,25",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "109,98",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0001021",
@@ -6359,7 +6369,7 @@
             "fiyat": "4,4",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "185,36",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "E0001022",
@@ -6776,9 +6786,9 @@
             "urun_adi": "DOMEL 458.3.303-32 SÜPÜRGE MOTORU 850W",
             "urun_id": "757",
             "resim": "/images/Urun/05049f65-d.jpg",
-            "fiyat": "30,15",
+            "fiyat": "32,98",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "1473,72",
+            "tl_liste_fiyati": "1612,04",
             "stok_durumu": "1"
         },
         {
@@ -7346,9 +7356,9 @@
             "urun_adi": "DOMEL 492.3.363 SÜPÜRGE MOTORU 1200W MKM7363-12",
             "urun_id": "810",
             "resim": "/images/Urun/7bd6ed6e-7.jpg",
-            "fiyat": "41,7",
+            "fiyat": "48,2",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "2038,27",
+            "tl_liste_fiyati": "2355,98",
             "stok_durumu": "1"
         },
         {
@@ -7835,7 +7845,7 @@
             "urun_kodu": "K0005324",
             "urun_adi": "TECHSUN KARE APLİK DRENAJ POMPASI TCAS-20",
             "urun_id": "985",
-            "resim": "/images/Urun/3698074f-9.jpg",
+            "resim": "/images/Urun/04ab36f9-8.jpg",
             "fiyat": "39,6",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "1668,29",
@@ -7896,9 +7906,9 @@
             "urun_adi": "DOMEL 467.3.251-2 SÜPÜRGE MOTORU 24V. 280W.",
             "urun_id": "935",
             "resim": "/images/Urun/e823e1f0-0.jpg",
-            "fiyat": "71,05",
+            "fiyat": "77,32",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "3472,88",
+            "tl_liste_fiyati": "3779,36",
             "stok_durumu": "0"
         },
         {
@@ -7999,7 +8009,7 @@
             "fiyat": "3,66",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "178,9",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "O0006688",
