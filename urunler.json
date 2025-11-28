@@ -1,5 +1,5 @@
 {
-    "last_updated": "2025-11-28 07:26:06",
+    "last_updated": "2025-11-28 08:35:51",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -2816,9 +2816,9 @@
             "urun_adi": "NSK 6207-ZZ / C3  RULMAN",
             "urun_id": "345",
             "resim": "/images/Urun/a9929783-8.jpg",
-            "fiyat": "175,16",
+            "fiyat": "205,32",
             "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "174,04",
+            "tl_liste_fiyati": "204",
             "stok_durumu": "1"
         },
         {
@@ -3356,9 +3356,9 @@
             "urun_adi": "SKF 6203-ZZ / C3 RULMAN",
             "urun_id": "403",
             "resim": "/images/Urun/c4553ec5-e.jpg",
-            "fiyat": "66,44",
+            "fiyat": "78,52",
             "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "66,01",
+            "tl_liste_fiyati": "78,01",
             "stok_durumu": "1"
         },
         {
@@ -3866,9 +3866,9 @@
             "urun_adi": "SKF 6204-ZZ / C3 RULMAN",
             "urun_id": "462",
             "resim": "/images/Urun/fc4d538c-d.jpg",
-            "fiyat": "82,14",
+            "fiyat": "95,42",
             "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "81,61",
+            "tl_liste_fiyati": "94,81",
             "stok_durumu": "1"
         },
         {
@@ -3876,9 +3876,9 @@
             "urun_adi": "SKF 6205-ZZ / C3 RULMAN",
             "urun_id": "463",
             "resim": "/images/Urun/42ea1f91-3.jpg",
-            "fiyat": "94,22",
+            "fiyat": "113,53",
             "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "93,61",
+            "tl_liste_fiyati": "112,8",
             "stok_durumu": "1"
         },
         {
@@ -3886,9 +3886,9 @@
             "urun_adi": "SKF 6202-ZZ / C3 RULMAN",
             "urun_id": "464",
             "resim": "/images/Urun/af2591a7-1.jpg",
-            "fiyat": "65,23",
+            "fiyat": "74,9",
             "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "64,81",
+            "tl_liste_fiyati": "74,42",
             "stok_durumu": "1"
         },
         {
@@ -3906,9 +3906,9 @@
             "urun_adi": "SKF 6206-ZZ / C3  RULMAN",
             "urun_id": "466",
             "resim": "/images/Urun/012cf6cf-0.jpg",
-            "fiyat": "132,88",
+            "fiyat": "155,82",
             "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "132,02",
+            "tl_liste_fiyati": "154,82",
             "stok_durumu": "1"
         },
         {
