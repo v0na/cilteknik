@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-23 07:32:25",
+    "last_updated": "2026-01-23 08:39:36",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -5352,6 +5352,16 @@
             "stok_durumu": "0"
         },
         {
+            "urun_kodu": "O0006630",
+            "urun_adi": "TP TEKLİ VENTİL 180° GEÇMELİ 2.5 LT VST BULAŞIK K",
+            "urun_id": "1106",
+            "resim": "/images/Urun/dc14fc1b-e.jpg",
+            "fiyat": "2,25",
+            "fiyat_birimi": "EURO",
+            "tl_liste_fiyati": "114,92",
+            "stok_durumu": "1"
+        },
+        {
             "urun_kodu": "E0000958",
             "urun_adi": "TECHNOFOG TF6000 NEMLENDİRME CİHAZI",
             "urun_id": "606",
@@ -7845,7 +7855,7 @@
             "urun_kodu": "K0005324",
             "urun_adi": "TECHSUN KARE APLİK DRENAJ POMPASI TCAS-20",
             "urun_id": "985",
-            "resim": "/images/Urun/04ab36f9-8.jpg",
+            "resim": "",
             "fiyat": "39,6",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "1721,9",
@@ -8073,7 +8083,7 @@
         },
         {
             "urun_kodu": "O0006691",
-            "urun_adi": "TAHLİYE HORTUMU TP REFLEX ORJ. 225cm",
+            "urun_adi": "TAHLİYE HORTUMU TP REFLEX ORJ. 49101220",
             "urun_id": "1075",
             "resim": "/images/Urun/d6ddc384-6.jpeg",
             "fiyat": "30,2",
@@ -8119,6 +8129,16 @@
             "fiyat": "2,29",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "99,58",
+            "stok_durumu": "0"
+        },
+        {
+            "urun_kodu": "E0000327-1",
+            "urun_adi": "HPEOK PKW-569417 2 1/8\" YAĞ AYIRICI",
+            "urun_id": "1107",
+            "resim": "",
+            "fiyat": "79",
+            "fiyat_birimi": "USD",
+            "tl_liste_fiyati": "3435,11",
             "stok_durumu": "0"
         }
     ]
