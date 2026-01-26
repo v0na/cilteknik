@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-01-26 13:04:08",
+    "last_updated": "2026-01-26 14:36:25",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -1426,9 +1426,9 @@
             "urun_adi": "TECHSUN TC-MVP-2.5M/A 1.5CFM VAKUM POMPASI",
             "urun_id": "1089",
             "resim": "/images/Urun/fba65e07-7.jpg",
-            "fiyat": "48,2",
+            "fiyat": "51,95",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2100,24",
+            "tl_liste_fiyati": "2263,63",
             "stok_durumu": "0"
         },
         {
@@ -1436,9 +1436,9 @@
             "urun_adi": "TECHSUN TC-VP-3M/C 1.8CFM VAKUM POMPASI",
             "urun_id": "1090",
             "resim": "/images/Urun/79b2337c-1.jpg",
-            "fiyat": "53,75",
+            "fiyat": "59,2",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2342,06",
+            "tl_liste_fiyati": "2579,54",
             "stok_durumu": "0"
         },
         {
@@ -1446,9 +1446,9 @@
             "urun_adi": "TECHSUN TC-VP-4.2M/C 2.5CFM VAKUM POMPASI",
             "urun_id": "1091",
             "resim": "/images/Urun/9c3d2425-3.jpg",
-            "fiyat": "65,65",
+            "fiyat": "72,48",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2860,58",
+            "tl_liste_fiyati": "3158,2",
             "stok_durumu": "0"
         },
         {
@@ -1456,9 +1456,9 @@
             "urun_adi": "TECHSUN TC-VP-7.6M/C 4.5CFM VAKUM POMPASI",
             "urun_id": "1092",
             "resim": "/images/Urun/e4540715-6.jpg",
-            "fiyat": "97,85",
+            "fiyat": "105,1",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "4263,65",
+            "tl_liste_fiyati": "4579,56",
             "stok_durumu": "1"
         },
         {
@@ -1466,9 +1466,9 @@
             "urun_adi": "TECHSUN TC-VP-10.2M/C 6CFM VAKUM POMPASI",
             "urun_id": "1093",
             "resim": "/images/Urun/947db2c1-a.jpg",
-            "fiyat": "123,8",
+            "fiyat": "135,3",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "5394,38",
+            "tl_liste_fiyati": "5895,47",
             "stok_durumu": "0"
         },
         {
@@ -1476,9 +1476,9 @@
             "urun_adi": "TECHSUN TC-VP-17M/C 10CFM VAKUM POMPASI",
             "urun_id": "1094",
             "resim": "/images/Urun/b2c5b7a1-a.jpg",
-            "fiyat": "192,1",
+            "fiyat": "211,4",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "8370,43",
+            "tl_liste_fiyati": "9211,4",
             "stok_durumu": "0"
         },
         {
