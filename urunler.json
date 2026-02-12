@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-12 07:11:34",
+    "last_updated": "2026-02-12 08:57:28",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -1095,7 +1095,7 @@
             "urun_kodu": "E0000518",
             "urun_adi": "DANFOSS KP-5 1173",
             "urun_id": "145",
-            "resim": "/images/Urun/c7ac6b18-9.jpg",
+            "resim": "",
             "fiyat": "36,85",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "1615,46",
@@ -2895,7 +2895,7 @@
             "urun_kodu": "E0000157",
             "urun_adi": "TECHSUN ETC-961 DİJİTAL TERMOSTAT (TEK SENSÖRLÜ)",
             "urun_id": "1086",
-            "resim": "/images/Urun/9faf8547-c.jpeg",
+            "resim": "/images/Urun/80c22964-7.png",
             "fiyat": "11,96",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "524,32",
@@ -7495,7 +7495,7 @@
             "urun_kodu": "O0006673",
             "urun_adi": "BİTRON İKİLİ VENTİL 180° BSC LOGİX KART SYC 606001",
             "urun_id": "910",
-            "resim": "/images/Urun/7b3b2d6b-5.jpg",
+            "resim": "/images/Urun/dae8d07f-3.png",
             "fiyat": "11,97",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "622,26",
