@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-02-20 08:51:49",
+    "last_updated": "2026-02-20 09:51:09",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -1919,7 +1919,7 @@
             "fiyat": "44,52",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "1956,65",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0000148",
@@ -2909,7 +2909,7 @@
             "fiyat": "2,25",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "116,23",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0000149",
@@ -3679,7 +3679,7 @@
             "fiyat": "7,85",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "345,01",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "S0008021",
@@ -6209,7 +6209,7 @@
             "fiyat": "2,18",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "95,81",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "O0006638",
@@ -7139,7 +7139,7 @@
             "fiyat": "10,27",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "451,37",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "S0008070",
@@ -7169,7 +7169,7 @@
             "fiyat": "19,21",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "844,27",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "S0008072",
@@ -7179,7 +7179,7 @@
             "fiyat": "9,6",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "421,92",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "S0008020A",
@@ -7229,7 +7229,7 @@
             "fiyat": "9,6",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "421,92",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "S0008074",
@@ -7419,7 +7419,7 @@
             "fiyat": "6,5",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "285,67",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "B0004116",
