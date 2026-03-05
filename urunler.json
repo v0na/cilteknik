@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-05 13:16:55",
+    "last_updated": "2026-03-05 14:54:26",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -98,7 +98,7 @@
             "resim": "/images/Urun/4b148f31-6.jpg",
             "fiyat": "53,5",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2393,03",
+            "tl_liste_fiyati": "2393",
             "stok_durumu": "1"
         },
         {
@@ -118,7 +118,7 @@
             "resim": "/images/Urun/03232d10-5.jpg",
             "fiyat": "24",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1073,51",
+            "tl_liste_fiyati": "1073,5",
             "stok_durumu": "0"
         },
         {
@@ -128,7 +128,7 @@
             "resim": "/images/Urun/f3158684-d.jpg",
             "fiyat": "32",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1431,35",
+            "tl_liste_fiyati": "1431,34",
             "stok_durumu": "0"
         },
         {
@@ -138,7 +138,7 @@
             "resim": "/images/Urun/6d159391-5.jpg",
             "fiyat": "34",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1520,81",
+            "tl_liste_fiyati": "1520,78",
             "stok_durumu": "0"
         },
         {
@@ -148,7 +148,7 @@
             "resim": "/images/Urun/e5276a89-0.jpg",
             "fiyat": "39",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1744,45",
+            "tl_liste_fiyati": "1744,44",
             "stok_durumu": "1"
         },
         {
@@ -158,7 +158,7 @@
             "resim": "/images/Urun/b25acaa2-c.jpg",
             "fiyat": "50,85",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2274,5",
+            "tl_liste_fiyati": "2274,48",
             "stok_durumu": "1"
         },
         {
@@ -188,7 +188,7 @@
             "resim": "/images/Urun/9a0407f0-1.jpg",
             "fiyat": "7,92",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "354,26",
+            "tl_liste_fiyati": "354,25",
             "stok_durumu": "1"
         },
         {
@@ -218,7 +218,7 @@
             "resim": "/images/Urun/28f390bb-a.jpg",
             "fiyat": "16,35",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "731,33",
+            "tl_liste_fiyati": "731,32",
             "stok_durumu": "1"
         },
         {
@@ -228,7 +228,7 @@
             "resim": "/images/Urun/19c63d84-4.jpg",
             "fiyat": "24,85",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1111,54",
+            "tl_liste_fiyati": "1111,51",
             "stok_durumu": "1"
         },
         {
@@ -238,7 +238,7 @@
             "resim": "/images/Urun/1ca24d30-5.jpg",
             "fiyat": "34,45",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1540,93",
+            "tl_liste_fiyati": "1540,92",
             "stok_durumu": "1"
         },
         {
@@ -248,7 +248,7 @@
             "resim": "/images/Urun/c0cebfc0-4.jpg",
             "fiyat": "52,8",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2361,72",
+            "tl_liste_fiyati": "2361,7",
             "stok_durumu": "1"
         },
         {
@@ -258,7 +258,7 @@
             "resim": "/images/Urun/00eec435-4.jpg",
             "fiyat": "8,25",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "369,02",
+            "tl_liste_fiyati": "369,01",
             "stok_durumu": "1"
         },
         {
@@ -268,7 +268,7 @@
             "resim": "/images/Urun/51bc3385-b.jpg",
             "fiyat": "9,75",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "436,12",
+            "tl_liste_fiyati": "436,1",
             "stok_durumu": "1"
         },
         {
@@ -278,7 +278,7 @@
             "resim": "/images/Urun/018fc740-d.jpg",
             "fiyat": "16,45",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "735,8",
+            "tl_liste_fiyati": "735,79",
             "stok_durumu": "1"
         },
         {
@@ -298,7 +298,7 @@
             "resim": "/images/Urun/f728b40f-a.jpg",
             "fiyat": "62,71",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2804,99",
+            "tl_liste_fiyati": "2804,96",
             "stok_durumu": "1"
         },
         {
@@ -328,7 +328,7 @@
             "resim": "/images/Urun/b5f54ad6-e.jpg",
             "fiyat": "5,85",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "261,67",
+            "tl_liste_fiyati": "261,66",
             "stok_durumu": "1"
         },
         {
@@ -338,7 +338,7 @@
             "resim": "/images/Urun/1ff4dc46-8.jpg",
             "fiyat": "20,11",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "899,51",
+            "tl_liste_fiyati": "899,5",
             "stok_durumu": "1"
         },
         {
@@ -358,7 +358,7 @@
             "resim": "/images/Urun/5f5e3909-b.jpg",
             "fiyat": "39,36",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1760,56",
+            "tl_liste_fiyati": "1760,53",
             "stok_durumu": "1"
         },
         {
@@ -368,7 +368,7 @@
             "resim": "/images/Urun/ec653d9c-8.jpg",
             "fiyat": "49,74",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2224,85",
+            "tl_liste_fiyati": "2224,82",
             "stok_durumu": "1"
         },
         {
@@ -378,7 +378,7 @@
             "resim": "/images/Urun/e067d701-d.jpg",
             "fiyat": "53,2",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2379,61",
+            "tl_liste_fiyati": "2379,59",
             "stok_durumu": "1"
         },
         {
@@ -408,7 +408,7 @@
             "resim": "/images/Urun/b9de086f-2.jpg",
             "fiyat": "253,58",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "11342,53",
+            "tl_liste_fiyati": "11342,4",
             "stok_durumu": "1"
         },
         {
@@ -418,7 +418,7 @@
             "resim": "/images/Urun/095c28b2-5.jpg",
             "fiyat": "318,2",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "14232,96",
+            "tl_liste_fiyati": "14232,79",
             "stok_durumu": "1"
         },
         {
@@ -428,7 +428,7 @@
             "resim": "/images/Urun/d14f59de-9.jpg",
             "fiyat": "392",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "17533,99",
+            "tl_liste_fiyati": "17533,8",
             "stok_durumu": "1"
         },
         {
@@ -438,7 +438,7 @@
             "resim": "/images/Urun/b4fc33a3-d.jpg",
             "fiyat": "15,5",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "693,31",
+            "tl_liste_fiyati": "693,3",
             "stok_durumu": "1"
         },
         {
@@ -448,7 +448,7 @@
             "resim": "/images/Urun/88d1599d-1.jpg",
             "fiyat": "40,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1829,44",
+            "tl_liste_fiyati": "1829,42",
             "stok_durumu": "1"
         },
         {
@@ -498,7 +498,7 @@
             "resim": "/images/Urun/f4f05f3b-6.jpg",
             "fiyat": "13,1",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "585,96",
+            "tl_liste_fiyati": "585,95",
             "stok_durumu": "1"
         },
         {
@@ -538,7 +538,7 @@
             "resim": "/images/Urun/74b95419-8.jpg",
             "fiyat": "5,67",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "253,62",
+            "tl_liste_fiyati": "253,61",
             "stok_durumu": "1"
         },
         {
@@ -568,7 +568,7 @@
             "resim": "/images/Urun/8a897c45-b.jpg",
             "fiyat": "151,6",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "6781,01",
+            "tl_liste_fiyati": "6780,94",
             "stok_durumu": "1"
         },
         {
@@ -578,7 +578,7 @@
             "resim": "/images/Urun/adc15f8b-6.jpg",
             "fiyat": "173,85",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "7776,24",
+            "tl_liste_fiyati": "7776,16",
             "stok_durumu": "1"
         },
         {
@@ -588,7 +588,7 @@
             "resim": "/images/Urun/9019cdc6-f.jpg",
             "fiyat": "182,35",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "8156,44",
+            "tl_liste_fiyati": "8156,35",
             "stok_durumu": "1"
         },
         {
@@ -618,7 +618,7 @@
             "resim": "/images/Urun/092fb5fa-2.jpg",
             "fiyat": "14,85",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "664,24",
+            "tl_liste_fiyati": "664,22",
             "stok_durumu": "1"
         },
         {
@@ -628,7 +628,7 @@
             "resim": "/images/Urun/17222aca-f.jpg",
             "fiyat": "15,75",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "704,5",
+            "tl_liste_fiyati": "704,48",
             "stok_durumu": "1"
         },
         {
@@ -638,7 +638,7 @@
             "resim": "/images/Urun/847fbac0-5.jpg",
             "fiyat": "2,75",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "123,01",
+            "tl_liste_fiyati": "123",
             "stok_durumu": "1"
         },
         {
@@ -668,7 +668,7 @@
             "resim": "/images/Urun/64975b14-1.jpg",
             "fiyat": "12,05",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "538,99",
+            "tl_liste_fiyati": "538,98",
             "stok_durumu": "1"
         },
         {
@@ -718,7 +718,7 @@
             "resim": "/images/Urun/e909ae31-0.jpg",
             "fiyat": "26,45",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1183,09",
+            "tl_liste_fiyati": "1183,08",
             "stok_durumu": "1"
         },
         {
@@ -728,7 +728,7 @@
             "resim": "/images/Urun/efc78a7d-3.jpg",
             "fiyat": "59",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2639,04",
+            "tl_liste_fiyati": "2639,02",
             "stok_durumu": "1"
         },
         {
@@ -748,7 +748,7 @@
             "resim": "/images/Urun/5e044a99-3.jpg",
             "fiyat": "18,28",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "817,66",
+            "tl_liste_fiyati": "817,64",
             "stok_durumu": "1"
         },
         {
@@ -758,7 +758,7 @@
             "resim": "/images/Urun/88aebe78-0.jpg",
             "fiyat": "14,45",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "646,34",
+            "tl_liste_fiyati": "646,33",
             "stok_durumu": "1"
         },
         {
@@ -768,7 +768,7 @@
             "resim": "/images/Urun/ff048f63-b.jpg",
             "fiyat": "23,29",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1041,76",
+            "tl_liste_fiyati": "1041,74",
             "stok_durumu": "1"
         },
         {
@@ -778,7 +778,7 @@
             "resim": "/images/Urun/73216e49-8.jpg",
             "fiyat": "31,43",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1405,85",
+            "tl_liste_fiyati": "1405,84",
             "stok_durumu": "1"
         },
         {
@@ -788,7 +788,7 @@
             "resim": "/images/Urun/37aac8ff-6.jpg",
             "fiyat": "51,93",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2322,8",
+            "tl_liste_fiyati": "2322,78",
             "stok_durumu": "1"
         },
         {
@@ -808,7 +808,7 @@
             "resim": "/images/Urun/26ad039c-9.jpg",
             "fiyat": "167,5",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "7492,2",
+            "tl_liste_fiyati": "7492,13",
             "stok_durumu": "1"
         },
         {
@@ -848,7 +848,7 @@
             "resim": "/images/Urun/4557688c-7.jpg",
             "fiyat": "11,5",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "514,39",
+            "tl_liste_fiyati": "514,38",
             "stok_durumu": "1"
         },
         {
@@ -858,7 +858,7 @@
             "resim": "/images/Urun/e7dbc423-f.jpg",
             "fiyat": "3,51",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "182,35",
+            "tl_liste_fiyati": "182,16",
             "stok_durumu": "1"
         },
         {
@@ -898,7 +898,7 @@
             "resim": "/images/Urun/02b6a456-7.jpg",
             "fiyat": "12",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "536,76",
+            "tl_liste_fiyati": "536,75",
             "stok_durumu": "1"
         },
         {
@@ -908,7 +908,7 @@
             "resim": "/images/Urun/f41da159-6.jpg",
             "fiyat": "4,5",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "201,29",
+            "tl_liste_fiyati": "201,28",
             "stok_durumu": "1"
         },
         {
@@ -948,7 +948,7 @@
             "resim": "/images/Urun/3e7a34a7-d.jpg",
             "fiyat": "9,85",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "440,59",
+            "tl_liste_fiyati": "440,58",
             "stok_durumu": "1"
         },
         {
@@ -958,7 +958,7 @@
             "resim": "/images/Urun/58518967-c.jpg",
             "fiyat": "12",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "536,76",
+            "tl_liste_fiyati": "536,75",
             "stok_durumu": "1"
         },
         {
@@ -998,7 +998,7 @@
             "resim": "/images/Urun/8277f435-7.jpg",
             "fiyat": "3,3",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "147,61",
+            "tl_liste_fiyati": "147,6",
             "stok_durumu": "1"
         },
         {
@@ -1028,7 +1028,7 @@
             "resim": "/images/Urun/f7b4546c-a.jpg",
             "fiyat": "8,65",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "386,92",
+            "tl_liste_fiyati": "386,9",
             "stok_durumu": "1"
         },
         {
@@ -1048,7 +1048,7 @@
             "resim": "/images/Urun/75b1ecc4-4.jpg",
             "fiyat": "23,65",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1057,86",
+            "tl_liste_fiyati": "1057,85",
             "stok_durumu": "1"
         },
         {
@@ -1058,7 +1058,7 @@
             "resim": "/images/Urun/18686e17-c.jpg",
             "fiyat": "68,85",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "3079,63",
+            "tl_liste_fiyati": "3079,6",
             "stok_durumu": "1"
         },
         {
@@ -1068,7 +1068,7 @@
             "resim": "/images/Urun/10b58183-e.jpg",
             "fiyat": "62,15",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2779,94",
+            "tl_liste_fiyati": "2779,91",
             "stok_durumu": "1"
         },
         {
@@ -1078,7 +1078,7 @@
             "resim": "/images/Urun/d171307e-2.jpg",
             "fiyat": "62,15",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2779,94",
+            "tl_liste_fiyati": "2779,91",
             "stok_durumu": "1"
         },
         {
@@ -1088,7 +1088,7 @@
             "resim": "/images/Urun/17b42e76-9.jpg",
             "fiyat": "28,5",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1274,8",
+            "tl_liste_fiyati": "1274,78",
             "stok_durumu": "1"
         },
         {
@@ -1098,7 +1098,7 @@
             "resim": "",
             "fiyat": "36,85",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1648,28",
+            "tl_liste_fiyati": "1648,27",
             "stok_durumu": "1"
         },
         {
@@ -1108,7 +1108,7 @@
             "resim": "/images/Urun/8be4cbaf-e.jpg",
             "fiyat": "10,8",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "483,08",
+            "tl_liste_fiyati": "483,07",
             "stok_durumu": "1"
         },
         {
@@ -1128,7 +1128,7 @@
             "resim": "/images/Urun/ac89cd70-7.jpg",
             "fiyat": "25",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1118,24",
+            "tl_liste_fiyati": "1118,23",
             "stok_durumu": "1"
         },
         {
@@ -1158,7 +1158,7 @@
             "resim": "/images/Urun/36913a0a-9.jpg",
             "fiyat": "2,35",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "105,12",
+            "tl_liste_fiyati": "105,11",
             "stok_durumu": "0"
         },
         {
@@ -1178,7 +1178,7 @@
             "resim": "/images/Urun/3307195e-2.jpg",
             "fiyat": "85,8",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "3837,8",
+            "tl_liste_fiyati": "3837,76",
             "stok_durumu": "1"
         },
         {
@@ -1188,7 +1188,7 @@
             "resim": "/images/Urun/0e094395-c.jpg",
             "fiyat": "38,6",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1726,56",
+            "tl_liste_fiyati": "1726,55",
             "stok_durumu": "1"
         },
         {
@@ -1198,7 +1198,7 @@
             "resim": "/images/Urun/924efa6e-1.jpg",
             "fiyat": "22",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "984,05",
+            "tl_liste_fiyati": "984,04",
             "stok_durumu": "1"
         },
         {
@@ -1208,7 +1208,7 @@
             "resim": "/images/Urun/9fc07caa-4.jpg",
             "fiyat": "32",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1431,35",
+            "tl_liste_fiyati": "1431,34",
             "stok_durumu": "1"
         },
         {
@@ -1218,7 +1218,7 @@
             "resim": "/images/Urun/17772c6c-3.jpg",
             "fiyat": "34",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1520,81",
+            "tl_liste_fiyati": "1520,78",
             "stok_durumu": "1"
         },
         {
@@ -1228,7 +1228,7 @@
             "resim": "/images/Urun/e1170ef4-7.jpeg",
             "fiyat": "37",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1654,99",
+            "tl_liste_fiyati": "1654,98",
             "stok_durumu": "1"
         },
         {
@@ -1238,7 +1238,7 @@
             "resim": "/images/Urun/075cff22-9.jpg",
             "fiyat": "45,75",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2046,38",
+            "tl_liste_fiyati": "2046,36",
             "stok_durumu": "1"
         },
         {
@@ -1248,7 +1248,7 @@
             "resim": "/images/Urun/60a300ec-3.jpg",
             "fiyat": "52",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2325,94",
+            "tl_liste_fiyati": "2325,91",
             "stok_durumu": "0"
         },
         {
@@ -1258,7 +1258,7 @@
             "resim": "/images/Urun/c355a5b8-4.jpg",
             "fiyat": "79",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "3533,64",
+            "tl_liste_fiyati": "3533,6",
             "stok_durumu": "0"
         },
         {
@@ -1278,7 +1278,7 @@
             "resim": "/images/Urun/9dcd4d5b-2.jpg",
             "fiyat": "118,52",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "5301,35",
+            "tl_liste_fiyati": "5301,29",
             "stok_durumu": "0"
         },
         {
@@ -1288,7 +1288,7 @@
             "resim": "/images/Urun/2b047636-f.jpg",
             "fiyat": "70,07",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "3134,21",
+            "tl_liste_fiyati": "3134,17",
             "stok_durumu": "0"
         },
         {
@@ -1308,7 +1308,7 @@
             "resim": "/images/Urun/713736e7-1.JPG",
             "fiyat": "2,75",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "123,01",
+            "tl_liste_fiyati": "123",
             "stok_durumu": "1"
         },
         {
@@ -1318,7 +1318,7 @@
             "resim": "/images/Urun/6483141d-4.jpg",
             "fiyat": "9,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "442,82",
+            "tl_liste_fiyati": "442,81",
             "stok_durumu": "1"
         },
         {
@@ -1328,7 +1328,7 @@
             "resim": "/images/Urun/093f24d9-3.jpg",
             "fiyat": "9,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "442,82",
+            "tl_liste_fiyati": "442,81",
             "stok_durumu": "1"
         },
         {
@@ -1338,7 +1338,7 @@
             "resim": "/images/Urun/f7e46129-9.jpg",
             "fiyat": "9,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "442,82",
+            "tl_liste_fiyati": "442,81",
             "stok_durumu": "1"
         },
         {
@@ -1358,7 +1358,7 @@
             "resim": "/images/Urun/0d076419-6.jpg",
             "fiyat": "17,8",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "796,19",
+            "tl_liste_fiyati": "796,18",
             "stok_durumu": "1"
         },
         {
@@ -1368,7 +1368,7 @@
             "resim": "/images/Urun/a58ac83b-e.jpg",
             "fiyat": "11,78",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "526,92",
+            "tl_liste_fiyati": "526,91",
             "stok_durumu": "0"
         },
         {
@@ -1398,7 +1398,7 @@
             "resim": "/images/Urun/8e004271-8.jpg",
             "fiyat": "10,8",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "483,08",
+            "tl_liste_fiyati": "483,07",
             "stok_durumu": "1"
         },
         {
@@ -1408,7 +1408,7 @@
             "resim": "/images/Urun/f10ada41-2.jpg",
             "fiyat": "412,7",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "18459,9",
+            "tl_liste_fiyati": "18459,7",
             "stok_durumu": "1"
         },
         {
@@ -1418,7 +1418,7 @@
             "resim": "/images/Urun/8d7f136f-d.jpg",
             "fiyat": "10,65",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "476,38",
+            "tl_liste_fiyati": "476,36",
             "stok_durumu": "1"
         },
         {
@@ -1428,7 +1428,7 @@
             "resim": "/images/Urun/fba65e07-7.jpg",
             "fiyat": "51,95",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2323,7",
+            "tl_liste_fiyati": "2323,68",
             "stok_durumu": "1"
         },
         {
@@ -1438,7 +1438,7 @@
             "resim": "/images/Urun/79b2337c-1.jpg",
             "fiyat": "59,2",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2647,99",
+            "tl_liste_fiyati": "2647,97",
             "stok_durumu": "1"
         },
         {
@@ -1448,7 +1448,7 @@
             "resim": "/images/Urun/9c3d2425-3.jpg",
             "fiyat": "72,48",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "3242",
+            "tl_liste_fiyati": "3241,97",
             "stok_durumu": "1"
         },
         {
@@ -1458,7 +1458,7 @@
             "resim": "/images/Urun/e4540715-6.jpg",
             "fiyat": "105,1",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "4701,08",
+            "tl_liste_fiyati": "4701,02",
             "stok_durumu": "1"
         },
         {
@@ -1468,7 +1468,7 @@
             "resim": "/images/Urun/947db2c1-a.jpg",
             "fiyat": "135,3",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "6051,91",
+            "tl_liste_fiyati": "6051,84",
             "stok_durumu": "1"
         },
         {
@@ -1478,7 +1478,7 @@
             "resim": "/images/Urun/b2c5b7a1-a.jpg",
             "fiyat": "211,4",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "9455,83",
+            "tl_liste_fiyati": "9455,72",
             "stok_durumu": "1"
         },
         {
@@ -1488,7 +1488,7 @@
             "resim": "/images/Urun/9b28e42f-e.jpg",
             "fiyat": "11,57",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "517,52",
+            "tl_liste_fiyati": "517,51",
             "stok_durumu": "1"
         },
         {
@@ -1498,7 +1498,7 @@
             "resim": "/images/Urun/4d7b04bd-b.jpg",
             "fiyat": "0,82",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "36,68",
+            "tl_liste_fiyati": "36,67",
             "stok_durumu": "1"
         },
         {
@@ -1658,7 +1658,7 @@
             "resim": "/images/Urun/92f0fa49-f.jpg",
             "fiyat": "34",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1520,81",
+            "tl_liste_fiyati": "1520,78",
             "stok_durumu": "1"
         },
         {
@@ -1668,7 +1668,7 @@
             "resim": "/images/Urun/26879942-7.jpg",
             "fiyat": "16,2",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "724,62",
+            "tl_liste_fiyati": "724,61",
             "stok_durumu": "0"
         },
         {
@@ -1698,7 +1698,7 @@
             "resim": "/images/Urun/c67fd5e1-3.jpg",
             "fiyat": "26,6",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1189,81",
+            "tl_liste_fiyati": "1189,79",
             "stok_durumu": "1"
         },
         {
@@ -1708,7 +1708,7 @@
             "resim": "/images/Urun/79c80216-7.jpg",
             "fiyat": "58,35",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2609,98",
+            "tl_liste_fiyati": "2609,94",
             "stok_durumu": "1"
         },
         {
@@ -1718,7 +1718,7 @@
             "resim": "/images/Urun/17ecb48f-a.jpg",
             "fiyat": "8,35",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "433,8",
+            "tl_liste_fiyati": "433,34",
             "stok_durumu": "0"
         },
         {
@@ -1748,7 +1748,7 @@
             "resim": "/images/Urun/071fef78-b.jpg",
             "fiyat": "50,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2276,74",
+            "tl_liste_fiyati": "2276,71",
             "stok_durumu": "1"
         },
         {
@@ -1758,7 +1758,7 @@
             "resim": "/images/Urun/c3a2fd81-d.jpg",
             "fiyat": "70",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "3131,08",
+            "tl_liste_fiyati": "3131,04",
             "stok_durumu": "1"
         },
         {
@@ -1778,7 +1778,7 @@
             "resim": "/images/Urun/84ca2acf-7.jpg",
             "fiyat": "12",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "536,76",
+            "tl_liste_fiyati": "536,75",
             "stok_durumu": "1"
         },
         {
@@ -1788,7 +1788,7 @@
             "resim": "/images/Urun/ca170470-6.jpg",
             "fiyat": "15,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "711,2",
+            "tl_liste_fiyati": "711,19",
             "stok_durumu": "1"
         },
         {
@@ -1798,7 +1798,7 @@
             "resim": "/images/Urun/00ad801a-e.jpg",
             "fiyat": "425",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "19010,08",
+            "tl_liste_fiyati": "19009,86",
             "stok_durumu": "1"
         },
         {
@@ -1808,7 +1808,7 @@
             "resim": "/images/Urun/4242b1bd-6.png",
             "fiyat": "16,79",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "751,01",
+            "tl_liste_fiyati": "751",
             "stok_durumu": "1"
         },
         {
@@ -1818,7 +1818,7 @@
             "resim": "/images/Urun/f8e3d3b9-5.jpg",
             "fiyat": "10,95",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "489,79",
+            "tl_liste_fiyati": "489,78",
             "stok_durumu": "1"
         },
         {
@@ -1828,7 +1828,7 @@
             "resim": "/images/Urun/3f89a9f2-c.jpg",
             "fiyat": "10,95",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "489,79",
+            "tl_liste_fiyati": "489,78",
             "stok_durumu": "1"
         },
         {
@@ -1838,7 +1838,7 @@
             "resim": "/images/Urun/96b6ee04-7.jpg",
             "fiyat": "10,95",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "489,79",
+            "tl_liste_fiyati": "489,78",
             "stok_durumu": "1"
         },
         {
@@ -1848,7 +1848,7 @@
             "resim": "/images/Urun/8ebd1c1a-a.jpg",
             "fiyat": "10,95",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "489,79",
+            "tl_liste_fiyati": "489,78",
             "stok_durumu": "1"
         },
         {
@@ -1858,7 +1858,7 @@
             "resim": "/images/Urun/8d0c2e15-2.jpg",
             "fiyat": "10,95",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "489,79",
+            "tl_liste_fiyati": "489,78",
             "stok_durumu": "1"
         },
         {
@@ -1868,7 +1868,7 @@
             "resim": "/images/Urun/b7d320db-6.jpg",
             "fiyat": "10,95",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "489,79",
+            "tl_liste_fiyati": "489,78",
             "stok_durumu": "1"
         },
         {
@@ -1878,7 +1878,7 @@
             "resim": "/images/Urun/ffd2aabc-b.jpg",
             "fiyat": "10,95",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "489,79",
+            "tl_liste_fiyati": "489,78",
             "stok_durumu": "1"
         },
         {
@@ -1908,7 +1908,7 @@
             "resim": "/images/Urun/74b89465-d.jpg",
             "fiyat": "43,25",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1934,56",
+            "tl_liste_fiyati": "1934,53",
             "stok_durumu": "0"
         },
         {
@@ -1918,7 +1918,7 @@
             "resim": "/images/Urun/57562f97-7.jpg",
             "fiyat": "44,52",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1991,36",
+            "tl_liste_fiyati": "1991,34",
             "stok_durumu": "1"
         },
         {
@@ -1938,7 +1938,7 @@
             "resim": "/images/Urun/0eb8d7d9-5.jpg",
             "fiyat": "4,39",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "196,37",
+            "tl_liste_fiyati": "196,36",
             "stok_durumu": "1"
         },
         {
@@ -1958,7 +1958,7 @@
             "resim": "/images/Urun/464e75d0-7.jpg",
             "fiyat": "7,6",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "339,95",
+            "tl_liste_fiyati": "339,94",
             "stok_durumu": "1"
         },
         {
@@ -2018,7 +2018,7 @@
             "resim": "/images/Urun/ae0d9f50-9.jpg",
             "fiyat": "2,35",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "105,12",
+            "tl_liste_fiyati": "105,11",
             "stok_durumu": "1"
         },
         {
@@ -2118,7 +2118,7 @@
             "resim": "/images/Urun/ae30447c-9.jpg",
             "fiyat": "2,06",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "92,15",
+            "tl_liste_fiyati": "92,14",
             "stok_durumu": "1"
         },
         {
@@ -2318,7 +2318,7 @@
             "resim": "/images/Urun/bae7b760-1.png",
             "fiyat": "162,5",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "7268,56",
+            "tl_liste_fiyati": "7268,47",
             "stok_durumu": "1"
         },
         {
@@ -2338,7 +2338,7 @@
             "resim": "/images/Urun/72577b6e-7.jpg",
             "fiyat": "95,45",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "4269,44",
+            "tl_liste_fiyati": "4269,4",
             "stok_durumu": "1"
         },
         {
@@ -2348,7 +2348,7 @@
             "resim": "/images/Urun/0c1dc7cb-b.png",
             "fiyat": "58,7",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2625,62",
+            "tl_liste_fiyati": "2625,6",
             "stok_durumu": "1"
         },
         {
@@ -2368,7 +2368,7 @@
             "resim": "/images/Urun/3ad3a5da-2.jpg",
             "fiyat": "40,27",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1801,26",
+            "tl_liste_fiyati": "1801,24",
             "stok_durumu": "1"
         },
         {
@@ -2378,7 +2378,7 @@
             "resim": "/images/Urun/cd206396-7.jpg",
             "fiyat": "315",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "14089,82",
+            "tl_liste_fiyati": "14089,67",
             "stok_durumu": "1"
         },
         {
@@ -2388,7 +2388,7 @@
             "resim": "/images/Urun/0296b616-4.png",
             "fiyat": "145",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "6485,8",
+            "tl_liste_fiyati": "6485,72",
             "stok_durumu": "1"
         },
         {
@@ -2398,7 +2398,7 @@
             "resim": "/images/Urun/4e4fd6b7-1.jpg",
             "fiyat": "101,75",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "4551,24",
+            "tl_liste_fiyati": "4551,18",
             "stok_durumu": "1"
         },
         {
@@ -2408,7 +2408,7 @@
             "resim": "/images/Urun/d6543175-7.jpg",
             "fiyat": "41,1",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1838,39",
+            "tl_liste_fiyati": "1838,36",
             "stok_durumu": "1"
         },
         {
@@ -2418,7 +2418,7 @@
             "resim": "/images/Urun/7af22476-7.png",
             "fiyat": "35,95",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1608,02",
+            "tl_liste_fiyati": "1608,01",
             "stok_durumu": "0"
         },
         {
@@ -2428,7 +2428,7 @@
             "resim": "/images/Urun/4f47d9c0-7.jpg",
             "fiyat": "12",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "536,76",
+            "tl_liste_fiyati": "536,75",
             "stok_durumu": "1"
         },
         {
@@ -2438,7 +2438,7 @@
             "resim": "/images/Urun/55b2105b-7.jpg",
             "fiyat": "52,82",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "2744,08",
+            "tl_liste_fiyati": "2741,22",
             "stok_durumu": "0"
         },
         {
@@ -2448,7 +2448,7 @@
             "resim": "/images/Urun/ee3919d0-6.jpg",
             "fiyat": "92,69",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "4815,4",
+            "tl_liste_fiyati": "4810,37",
             "stok_durumu": "1"
         },
         {
@@ -2458,7 +2458,7 @@
             "resim": "/images/Urun/a3dd1cde-0.jpg",
             "fiyat": "107,8",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "4821,85",
+            "tl_liste_fiyati": "4821,79",
             "stok_durumu": "0"
         },
         {
@@ -2478,7 +2478,7 @@
             "resim": "/images/Urun/c46b2282-8.jpg",
             "fiyat": "7,93",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "354,71",
+            "tl_liste_fiyati": "354,7",
             "stok_durumu": "1"
         },
         {
@@ -2528,7 +2528,7 @@
             "resim": "/images/Urun/60b49366-2.jpg",
             "fiyat": "16,37",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "732,23",
+            "tl_liste_fiyati": "732,22",
             "stok_durumu": "0"
         },
         {
@@ -2538,7 +2538,7 @@
             "resim": "/images/Urun/db6ac08c-0.jpg",
             "fiyat": "21,5",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "961,69",
+            "tl_liste_fiyati": "961,68",
             "stok_durumu": "0"
         },
         {
@@ -2548,7 +2548,7 @@
             "resim": "/images/Urun/3dc92687-b.jpg",
             "fiyat": "18,57",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "830,63",
+            "tl_liste_fiyati": "830,62",
             "stok_durumu": "1"
         },
         {
@@ -2558,7 +2558,7 @@
             "resim": "/images/Urun/af218578-b.jpg",
             "fiyat": "23,38",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1045,78",
+            "tl_liste_fiyati": "1045,76",
             "stok_durumu": "1"
         },
         {
@@ -2568,7 +2568,7 @@
             "resim": "/images/Urun/2b9129b3-1.jpg",
             "fiyat": "31,3",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1400,04",
+            "tl_liste_fiyati": "1400,02",
             "stok_durumu": "0"
         },
         {
@@ -2598,7 +2598,7 @@
             "resim": "/images/Urun/dc140895-e.jpg",
             "fiyat": "43,5",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1945,74",
+            "tl_liste_fiyati": "1945,72",
             "stok_durumu": "1"
         },
         {
@@ -2608,7 +2608,7 @@
             "resim": "/images/Urun/4fb74091-2.jpg",
             "fiyat": "40",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1789,19",
+            "tl_liste_fiyati": "1789,16",
             "stok_durumu": "1"
         },
         {
@@ -2618,7 +2618,7 @@
             "resim": "/images/Urun/b1b42877-a.jpg",
             "fiyat": "42,7",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1909,96",
+            "tl_liste_fiyati": "1909,93",
             "stok_durumu": "1"
         },
         {
@@ -2628,7 +2628,7 @@
             "resim": "/images/Urun/71b85b95-8.jpg",
             "fiyat": "29",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1297,16",
+            "tl_liste_fiyati": "1297,14",
             "stok_durumu": "1"
         },
         {
@@ -2638,7 +2638,7 @@
             "resim": "/images/Urun/3af91017-6.jpg",
             "fiyat": "83,95",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "3755,05",
+            "tl_liste_fiyati": "3755",
             "stok_durumu": "0"
         },
         {
@@ -2678,7 +2678,7 @@
             "resim": "/images/Urun/5708cb85-2.jpg",
             "fiyat": "95",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "4249,31",
+            "tl_liste_fiyati": "4249,26",
             "stok_durumu": "1"
         },
         {
@@ -2688,7 +2688,7 @@
             "resim": "/images/Urun/5cd77920-b.jpg",
             "fiyat": "20,98",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "938,42",
+            "tl_liste_fiyati": "938,41",
             "stok_durumu": "0"
         },
         {
@@ -2698,7 +2698,7 @@
             "resim": "/images/Urun/38b5ec78-4.jpg",
             "fiyat": "29,9",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "1553,35",
+            "tl_liste_fiyati": "1551,73",
             "stok_durumu": "1"
         },
         {
@@ -2708,7 +2708,7 @@
             "resim": "/images/Urun/c83fa8d7-6.jpg",
             "fiyat": "483",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "21604,39",
+            "tl_liste_fiyati": "21604,15",
             "stok_durumu": "0"
         },
         {
@@ -2738,7 +2738,7 @@
             "resim": "/images/Urun/4019c25a-1.jpg",
             "fiyat": "6,65",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "345,48",
+            "tl_liste_fiyati": "345,12",
             "stok_durumu": "1"
         },
         {
@@ -2758,7 +2758,7 @@
             "resim": "/images/Urun/ca3cd1fe-e.JPG",
             "fiyat": "3,6",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "187,02",
+            "tl_liste_fiyati": "186,83",
             "stok_durumu": "0"
         },
         {
@@ -2768,7 +2768,7 @@
             "resim": "/images/Urun/aed86566-3.jpg",
             "fiyat": "3,32",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "172,48",
+            "tl_liste_fiyati": "172,3",
             "stok_durumu": "0"
         },
         {
@@ -2778,7 +2778,7 @@
             "resim": "/images/Urun/74be166e-4.JPG",
             "fiyat": "2,67",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "138,71",
+            "tl_liste_fiyati": "138,56",
             "stok_durumu": "1"
         },
         {
@@ -2788,7 +2788,7 @@
             "resim": "/images/Urun/df69991f-f.jpg",
             "fiyat": "6,21",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "322,62",
+            "tl_liste_fiyati": "322,28",
             "stok_durumu": "1"
         },
         {
@@ -2798,7 +2798,7 @@
             "resim": "/images/Urun/0fc69771-4.jpg",
             "fiyat": "13,97",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "624,88",
+            "tl_liste_fiyati": "624,86",
             "stok_durumu": "1"
         },
         {
@@ -2808,7 +2808,7 @@
             "resim": "/images/Urun/461187b7-6.jpg",
             "fiyat": "230",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "10287,8",
+            "tl_liste_fiyati": "10287,7",
             "stok_durumu": "0"
         },
         {
@@ -2858,7 +2858,7 @@
             "resim": "/images/Urun/6a9e58f2-6.jpg",
             "fiyat": "6,04",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "313,79",
+            "tl_liste_fiyati": "313,46",
             "stok_durumu": "1"
         },
         {
@@ -2868,7 +2868,7 @@
             "resim": "/images/Urun/d043f23b-7.jpg",
             "fiyat": "20,91",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "1086,31",
+            "tl_liste_fiyati": "1085,17",
             "stok_durumu": "1"
         },
         {
@@ -2878,7 +2878,7 @@
             "resim": "/images/Urun/3eef9779-5.jpg",
             "fiyat": "21,93",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "1139,29",
+            "tl_liste_fiyati": "1138,1",
             "stok_durumu": "0"
         },
         {
@@ -2888,7 +2888,7 @@
             "resim": "/images/Urun/a23b3c09-e.jpg",
             "fiyat": "44,14",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "2293,14",
+            "tl_liste_fiyati": "2290,75",
             "stok_durumu": "1"
         },
         {
@@ -2908,7 +2908,7 @@
             "resim": "/images/Urun/94788e03-c.jpg",
             "fiyat": "2,25",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "116,89",
+            "tl_liste_fiyati": "116,77",
             "stok_durumu": "1"
         },
         {
@@ -2918,7 +2918,7 @@
             "resim": "/images/Urun/f70c4c5a-9.jpg",
             "fiyat": "19,33",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "1004,22",
+            "tl_liste_fiyati": "1003,18",
             "stok_durumu": "1"
         },
         {
@@ -2978,7 +2978,7 @@
             "resim": "/images/Urun/6a49dcfc-9.jpg",
             "fiyat": "26,2",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1171,92",
+            "tl_liste_fiyati": "1171,91",
             "stok_durumu": "1"
         },
         {
@@ -2988,7 +2988,7 @@
             "resim": "/images/Urun/edd29966-8.jpg",
             "fiyat": "26,7",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1194,28",
+            "tl_liste_fiyati": "1194,26",
             "stok_durumu": "1"
         },
         {
@@ -2998,7 +2998,7 @@
             "resim": "/images/Urun/9dfc72aa-1.jpg",
             "fiyat": "23,5",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1051,14",
+            "tl_liste_fiyati": "1051,13",
             "stok_durumu": "0"
         },
         {
@@ -3008,7 +3008,7 @@
             "resim": "/images/Urun/9d2e28f4-a.jpg",
             "fiyat": "12",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "536,76",
+            "tl_liste_fiyati": "536,75",
             "stok_durumu": "1"
         },
         {
@@ -3018,7 +3018,7 @@
             "resim": "/images/Urun/41c10f21-1.jpg",
             "fiyat": "14,3",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "639,64",
+            "tl_liste_fiyati": "639,62",
             "stok_durumu": "1"
         },
         {
@@ -3088,7 +3088,7 @@
             "resim": "/images/Urun/0e874359-a.jpg",
             "fiyat": "35",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1565,53",
+            "tl_liste_fiyati": "1565,52",
             "stok_durumu": "1"
         },
         {
@@ -3098,7 +3098,7 @@
             "resim": "/images/Urun/d4ea89a8-c.jpg",
             "fiyat": "27,8",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1243,49",
+            "tl_liste_fiyati": "1243,46",
             "stok_durumu": "0"
         },
         {
@@ -3108,7 +3108,7 @@
             "resim": "/images/Urun/6d4c5908-b.jpg",
             "fiyat": "99,14",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "5150,48",
+            "tl_liste_fiyati": "5145,1",
             "stok_durumu": "1"
         },
         {
@@ -3118,7 +3118,7 @@
             "resim": "/images/Urun/9434946e-2.jpg",
             "fiyat": "22,59",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "1173,59",
+            "tl_liste_fiyati": "1172,36",
             "stok_durumu": "0"
         },
         {
@@ -3128,7 +3128,7 @@
             "resim": "/images/Urun/5c6862fe-8.jpg",
             "fiyat": "36,05",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "1872,85",
+            "tl_liste_fiyati": "1870,9",
             "stok_durumu": "1"
         },
         {
@@ -3138,7 +3138,7 @@
             "resim": "/images/Urun/73914f03-8.jpg",
             "fiyat": "2,91",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "151,18",
+            "tl_liste_fiyati": "151,02",
             "stok_durumu": "1"
         },
         {
@@ -3148,7 +3148,7 @@
             "resim": "/images/Urun/f3d1ee22-a.jpg",
             "fiyat": "1151,56",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "59825,35",
+            "tl_liste_fiyati": "59762,88",
             "stok_durumu": "1"
         },
         {
@@ -3158,7 +3158,7 @@
             "resim": "/images/Urun/fe07757f-0.jpg",
             "fiyat": "22,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1024,31",
+            "tl_liste_fiyati": "1024,3",
             "stok_durumu": "0"
         },
         {
@@ -3168,7 +3168,7 @@
             "resim": "/images/Urun/cb05a317-9.jpg",
             "fiyat": "860,18",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "44687,7",
+            "tl_liste_fiyati": "44641,03",
             "stok_durumu": "0"
         },
         {
@@ -3178,7 +3178,7 @@
             "resim": "/images/Urun/1c57f670-b.jpg",
             "fiyat": "1166,84",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "60619,16",
+            "tl_liste_fiyati": "60555,86",
             "stok_durumu": "1"
         },
         {
@@ -3188,7 +3188,7 @@
             "resim": "/images/Urun/5c74971c-5.jpg",
             "fiyat": "868,25",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "45106,94",
+            "tl_liste_fiyati": "45059,84",
             "stok_durumu": "1"
         },
         {
@@ -3198,7 +3198,7 @@
             "resim": "/images/Urun/0c4a057a-3.jpg",
             "fiyat": "882,49",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "45846,74",
+            "tl_liste_fiyati": "45798,86",
             "stok_durumu": "1"
         },
         {
@@ -3208,7 +3208,7 @@
             "resim": "/images/Urun/a46b9c7b-c.jpg",
             "fiyat": "1000,7",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "51987,94",
+            "tl_liste_fiyati": "51933,65",
             "stok_durumu": "1"
         },
         {
@@ -3218,7 +3218,7 @@
             "resim": "/images/Urun/6d1836d6-c.jpg",
             "fiyat": "1036,77",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "53861,83",
+            "tl_liste_fiyati": "53805,59",
             "stok_durumu": "1"
         },
         {
@@ -3228,7 +3228,7 @@
             "resim": "/images/Urun/02fe4ece-4.jpg",
             "fiyat": "1291,22",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "67080,9",
+            "tl_liste_fiyati": "67010,86",
             "stok_durumu": "1"
         },
         {
@@ -3238,7 +3238,7 @@
             "resim": "/images/Urun/ad724be4-3.jpg",
             "fiyat": "1549,46",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "80496,88",
+            "tl_liste_fiyati": "80412,82",
             "stok_durumu": "0"
         },
         {
@@ -3248,7 +3248,7 @@
             "resim": "/images/Urun/fbc4be78-1.jpg",
             "fiyat": "1808,47",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "93952,85",
+            "tl_liste_fiyati": "93854,75",
             "stok_durumu": "1"
         },
         {
@@ -3258,7 +3258,7 @@
             "resim": "/images/Urun/aa84ff9d-b.jpg",
             "fiyat": "1889,36",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "98155,21",
+            "tl_liste_fiyati": "98052,72",
             "stok_durumu": "0"
         },
         {
@@ -3268,7 +3268,7 @@
             "resim": "/images/Urun/806f4793-2.jpg",
             "fiyat": "2041,74",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "106071,6",
+            "tl_liste_fiyati": "105960,83",
             "stok_durumu": "1"
         },
         {
@@ -3278,7 +3278,7 @@
             "resim": "/images/Urun/8c2476a2-2.jpg",
             "fiyat": "1006,77",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "52303,28",
+            "tl_liste_fiyati": "52248,66",
             "stok_durumu": "1"
         },
         {
@@ -3288,7 +3288,7 @@
             "resim": "/images/Urun/af8c64ae-d.jpg",
             "fiyat": "7,6",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "394,84",
+            "tl_liste_fiyati": "394,42",
             "stok_durumu": "1"
         },
         {
@@ -3298,7 +3298,7 @@
             "resim": "/images/Urun/72541aaa-9.jpg",
             "fiyat": "7,6",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "394,84",
+            "tl_liste_fiyati": "394,42",
             "stok_durumu": "0"
         },
         {
@@ -3308,7 +3308,7 @@
             "resim": "/images/Urun/7cccce47-2.jpg",
             "fiyat": "7,6",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "394,84",
+            "tl_liste_fiyati": "394,42",
             "stok_durumu": "0"
         },
         {
@@ -3318,7 +3318,7 @@
             "resim": "/images/Urun/d8824e31-f.jpg",
             "fiyat": "7,6",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "394,84",
+            "tl_liste_fiyati": "394,42",
             "stok_durumu": "1"
         },
         {
@@ -3328,7 +3328,7 @@
             "resim": "/images/Urun/ffe9ae48-f.jpg",
             "fiyat": "7,6",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "394,84",
+            "tl_liste_fiyati": "394,42",
             "stok_durumu": "1"
         },
         {
@@ -3338,7 +3338,7 @@
             "resim": "/images/Urun/bb46afd7-f.jpg",
             "fiyat": "7,6",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "394,84",
+            "tl_liste_fiyati": "394,42",
             "stok_durumu": "1"
         },
         {
@@ -3348,7 +3348,7 @@
             "resim": "/images/Urun/fa294149-6.jpg",
             "fiyat": "11,95",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "620,82",
+            "tl_liste_fiyati": "620,17",
             "stok_durumu": "0"
         },
         {
@@ -3368,7 +3368,7 @@
             "resim": "/images/Urun/f5de051b-d.jpg",
             "fiyat": "27,57",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "1432,31",
+            "tl_liste_fiyati": "1430,81",
             "stok_durumu": "1"
         },
         {
@@ -3378,7 +3378,7 @@
             "resim": "/images/Urun/f4585d41-7.jpg",
             "fiyat": "27,42",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "1424,51",
+            "tl_liste_fiyati": "1423,02",
             "stok_durumu": "1"
         },
         {
@@ -3388,7 +3388,7 @@
             "resim": "/images/Urun/163721c1-e.jpg",
             "fiyat": "204,85",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "10642,28",
+            "tl_liste_fiyati": "10631,16",
             "stok_durumu": "1"
         },
         {
@@ -3398,7 +3398,7 @@
             "resim": "/images/Urun/69eef241-c.jpg",
             "fiyat": "7,53",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "391,2",
+            "tl_liste_fiyati": "390,79",
             "stok_durumu": "0"
         },
         {
@@ -3408,7 +3408,7 @@
             "resim": "/images/Urun/2ff27c8c-8.jpg",
             "fiyat": "8,76",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "455,1",
+            "tl_liste_fiyati": "454,62",
             "stok_durumu": "0"
         },
         {
@@ -3418,7 +3418,7 @@
             "resim": "/images/Urun/e028f470-6.jpg",
             "fiyat": "11,39",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "591,73",
+            "tl_liste_fiyati": "591,11",
             "stok_durumu": "0"
         },
         {
@@ -3428,7 +3428,7 @@
             "resim": "/images/Urun/5b866e44-d.jpg",
             "fiyat": "9,7",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "503,93",
+            "tl_liste_fiyati": "503,4",
             "stok_durumu": "0"
         },
         {
@@ -3438,7 +3438,7 @@
             "resim": "/images/Urun/1c9b12c4-f.jpg",
             "fiyat": "11,39",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "591,73",
+            "tl_liste_fiyati": "591,11",
             "stok_durumu": "0"
         },
         {
@@ -3448,7 +3448,7 @@
             "resim": "/images/Urun/4c3bbe05-8.jpg",
             "fiyat": "13,02",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "676,4",
+            "tl_liste_fiyati": "675,71",
             "stok_durumu": "0"
         },
         {
@@ -3458,7 +3458,7 @@
             "resim": "/images/Urun/35f73121-a.jpg",
             "fiyat": "21,71",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "1127,87",
+            "tl_liste_fiyati": "1126,69",
             "stok_durumu": "0"
         },
         {
@@ -3468,7 +3468,7 @@
             "resim": "/images/Urun/1532debc-5.jpg",
             "fiyat": "7,81",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "405,74",
+            "tl_liste_fiyati": "405,32",
             "stok_durumu": "1"
         },
         {
@@ -3478,7 +3478,7 @@
             "resim": "/images/Urun/2ce3051e-b.jpg",
             "fiyat": "8,83",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "458,74",
+            "tl_liste_fiyati": "458,26",
             "stok_durumu": "1"
         },
         {
@@ -3488,7 +3488,7 @@
             "resim": "/images/Urun/dfc9dd88-5.jpg",
             "fiyat": "9,84",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "511,2",
+            "tl_liste_fiyati": "510,67",
             "stok_durumu": "1"
         },
         {
@@ -3498,7 +3498,7 @@
             "resim": "/images/Urun/54081c01-7.jpg",
             "fiyat": "20,26",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "1052,54",
+            "tl_liste_fiyati": "1051,44",
             "stok_durumu": "0"
         },
         {
@@ -3508,7 +3508,7 @@
             "resim": "/images/Urun/0398b2ce-0.jpg",
             "fiyat": "26,19",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "1360,61",
+            "tl_liste_fiyati": "1359,19",
             "stok_durumu": "1"
         },
         {
@@ -3518,7 +3518,7 @@
             "resim": "/images/Urun/50152ceb-8.jpg",
             "fiyat": "27,2",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "1413,08",
+            "tl_liste_fiyati": "1411,61",
             "stok_durumu": "0"
         },
         {
@@ -3528,7 +3528,7 @@
             "resim": "/images/Urun/a5cb4c3f-1.jpg",
             "fiyat": "38,66",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "2008,45",
+            "tl_liste_fiyati": "2006,35",
             "stok_durumu": "1"
         },
         {
@@ -3538,7 +3538,7 @@
             "resim": "/images/Urun/0e5d9f0f-4.jpg",
             "fiyat": "38,66",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "2008,45",
+            "tl_liste_fiyati": "2006,35",
             "stok_durumu": "1"
         },
         {
@@ -3548,7 +3548,7 @@
             "resim": "/images/Urun/83324d7b-e.jpg",
             "fiyat": "47,76",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "2481,2",
+            "tl_liste_fiyati": "2478,61",
             "stok_durumu": "1"
         },
         {
@@ -3558,7 +3558,7 @@
             "resim": "/images/Urun/725b3514-b.jpg",
             "fiyat": "45,04",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "2339,9",
+            "tl_liste_fiyati": "2337,46",
             "stok_durumu": "1"
         },
         {
@@ -3568,7 +3568,7 @@
             "resim": "/images/Urun/13e8712e-f.jpg",
             "fiyat": "45,04",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "2339,9",
+            "tl_liste_fiyati": "2337,46",
             "stok_durumu": "1"
         },
         {
@@ -3578,7 +3578,7 @@
             "resim": "/images/Urun/8011218f-f.jpg",
             "fiyat": "675,99",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "35118,74",
+            "tl_liste_fiyati": "35082,07",
             "stok_durumu": "0"
         },
         {
@@ -3628,7 +3628,7 @@
             "resim": "/images/Urun/d1ec77f6-5.jpg",
             "fiyat": "8,76",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "391,84",
+            "tl_liste_fiyati": "391,82",
             "stok_durumu": "1"
         },
         {
@@ -3638,7 +3638,7 @@
             "resim": "/images/Urun/ed1bbbe4-0.jpg",
             "fiyat": "9,24",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "413,3",
+            "tl_liste_fiyati": "413,29",
             "stok_durumu": "0"
         },
         {
@@ -3678,7 +3678,7 @@
             "resim": "/images/Urun/4c1cfeef-f.jpg",
             "fiyat": "7,85",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "351,13",
+            "tl_liste_fiyati": "351,12",
             "stok_durumu": "0"
         },
         {
@@ -3688,7 +3688,7 @@
             "resim": "/images/Urun/578a68db-1.jpg",
             "fiyat": "7,85",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "351,13",
+            "tl_liste_fiyati": "351,12",
             "stok_durumu": "1"
         },
         {
@@ -3718,7 +3718,7 @@
             "resim": "/images/Urun/b7af3abe-a.jpg",
             "fiyat": "159",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "7112",
+            "tl_liste_fiyati": "7111,92",
             "stok_durumu": "0"
         },
         {
@@ -3728,7 +3728,7 @@
             "resim": "/images/Urun/5496b45f-7.jpg",
             "fiyat": "17,47",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "781,43",
+            "tl_liste_fiyati": "781,42",
             "stok_durumu": "1"
         },
         {
@@ -3738,7 +3738,7 @@
             "resim": "/images/Urun/71073618-2.jpg",
             "fiyat": "22,74",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1017,16",
+            "tl_liste_fiyati": "1017,14",
             "stok_durumu": "1"
         },
         {
@@ -3748,7 +3748,7 @@
             "resim": "/images/Urun/d79c76e1-6.jpg",
             "fiyat": "28,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1292,69",
+            "tl_liste_fiyati": "1292,68",
             "stok_durumu": "1"
         },
         {
@@ -3758,7 +3758,7 @@
             "resim": "/images/Urun/51a51f73-a.jpg",
             "fiyat": "37,34",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1670,21",
+            "tl_liste_fiyati": "1670,18",
             "stok_durumu": "1"
         },
         {
@@ -3768,7 +3768,7 @@
             "resim": "/images/Urun/d69c2526-5.jpg",
             "fiyat": "25",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1118,24",
+            "tl_liste_fiyati": "1118,23",
             "stok_durumu": "1"
         },
         {
@@ -3778,7 +3778,7 @@
             "resim": "/images/Urun/4b557880-c.jpg",
             "fiyat": "31,17",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1394,22",
+            "tl_liste_fiyati": "1394,21",
             "stok_durumu": "1"
         },
         {
@@ -3788,7 +3788,7 @@
             "resim": "/images/Urun/5ae3fa29-0.jpg",
             "fiyat": "41,57",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1859,41",
+            "tl_liste_fiyati": "1859,39",
             "stok_durumu": "1"
         },
         {
@@ -3808,7 +3808,7 @@
             "resim": "/images/Urun/067cd999-c.jpg",
             "fiyat": "6,1",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "272,86",
+            "tl_liste_fiyati": "272,84",
             "stok_durumu": "1"
         },
         {
@@ -3828,7 +3828,7 @@
             "resim": "/images/Urun/b12bd84c-7.jpg",
             "fiyat": "237,45",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "10621,04",
+            "tl_liste_fiyati": "10620,92",
             "stok_durumu": "0"
         },
         {
@@ -3838,7 +3838,7 @@
             "resim": "/images/Urun/6d42d286-9.jpg",
             "fiyat": "203,55",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "9104,71",
+            "tl_liste_fiyati": "9104,6",
             "stok_durumu": "0"
         },
         {
@@ -3848,7 +3848,7 @@
             "resim": "/images/Urun/4cb27a2b-1.jpg",
             "fiyat": "337",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "15073,87",
+            "tl_liste_fiyati": "15073,7",
             "stok_durumu": "1"
         },
         {
@@ -3858,7 +3858,7 @@
             "resim": "/images/Urun/9d55a03b-f.jpg",
             "fiyat": "131,5",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "5881,94",
+            "tl_liste_fiyati": "5881,87",
             "stok_durumu": "1"
         },
         {
@@ -3898,7 +3898,7 @@
             "resim": "/images/Urun/a58862fe-3.jpg",
             "fiyat": "3,15",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "140,9",
+            "tl_liste_fiyati": "140,89",
             "stok_durumu": "1"
         },
         {
@@ -3918,7 +3918,7 @@
             "resim": "/images/Urun/df007216-5.jpg",
             "fiyat": "192,95",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "8630,57",
+            "tl_liste_fiyati": "8630,47",
             "stok_durumu": "0"
         },
         {
@@ -3938,7 +3938,7 @@
             "resim": "/images/Urun/7f9adb54-8.jpeg",
             "fiyat": "5,92",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "264,8",
+            "tl_liste_fiyati": "264,79",
             "stok_durumu": "1"
         },
         {
@@ -3948,7 +3948,7 @@
             "resim": "/images/Urun/1af2061c-2.jpg",
             "fiyat": "12,15",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "543,47",
+            "tl_liste_fiyati": "543,46",
             "stok_durumu": "1"
         },
         {
@@ -3958,7 +3958,7 @@
             "resim": "/images/Urun/a7503d90-9.jpg",
             "fiyat": "16,56",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "740,72",
+            "tl_liste_fiyati": "740,71",
             "stok_durumu": "1"
         },
         {
@@ -3988,7 +3988,7 @@
             "resim": "/images/Urun/292c9bcc-d.jpg",
             "fiyat": "218,4",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "9768,94",
+            "tl_liste_fiyati": "9768,83",
             "stok_durumu": "0"
         },
         {
@@ -3998,7 +3998,7 @@
             "resim": "/images/Urun/118a0210-2.jpg",
             "fiyat": "36,12",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1615,63",
+            "tl_liste_fiyati": "1615,62",
             "stok_durumu": "0"
         },
         {
@@ -4008,7 +4008,7 @@
             "resim": "/images/Urun/4c213ca6-a.jpg",
             "fiyat": "36,12",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1615,63",
+            "tl_liste_fiyati": "1615,62",
             "stok_durumu": "0"
         },
         {
@@ -4018,7 +4018,7 @@
             "resim": "/images/Urun/2d14c350-b.jpg",
             "fiyat": "171,6",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "7675,6",
+            "tl_liste_fiyati": "7675,51",
             "stok_durumu": "1"
         },
         {
@@ -4028,7 +4028,7 @@
             "resim": "/images/Urun/71d0e209-b.jpg",
             "fiyat": "40,75",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1822,73",
+            "tl_liste_fiyati": "1822,72",
             "stok_durumu": "0"
         },
         {
@@ -4038,7 +4038,7 @@
             "resim": "/images/Urun/3cb8d53c-5.jpg",
             "fiyat": "58,2",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2603,26",
+            "tl_liste_fiyati": "2603,23",
             "stok_durumu": "0"
         },
         {
@@ -4048,7 +4048,7 @@
             "resim": "/images/Urun/218e19dc-2.jpg",
             "fiyat": "34,3",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1534,22",
+            "tl_liste_fiyati": "1534,21",
             "stok_durumu": "0"
         },
         {
@@ -4058,7 +4058,7 @@
             "resim": "/images/Urun/c7512e3f-7.jpg",
             "fiyat": "53,15",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2377,38",
+            "tl_liste_fiyati": "2377,36",
             "stok_durumu": "1"
         },
         {
@@ -4078,7 +4078,7 @@
             "resim": "/images/Urun/8ab2880f-1.jpg",
             "fiyat": "7,85",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "351,13",
+            "tl_liste_fiyati": "351,12",
             "stok_durumu": "1"
         },
         {
@@ -4108,7 +4108,7 @@
             "resim": "/images/Urun/06c96346-a.jpg",
             "fiyat": "12,26",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "548,39",
+            "tl_liste_fiyati": "548,38",
             "stok_durumu": "1"
         },
         {
@@ -4118,7 +4118,7 @@
             "resim": "/images/Urun/d5a8827c-b.jpg",
             "fiyat": "13,75",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "615,04",
+            "tl_liste_fiyati": "615,02",
             "stok_durumu": "1"
         },
         {
@@ -4128,7 +4128,7 @@
             "resim": "/images/Urun/db6ae497-0.jpg",
             "fiyat": "3,57",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "185,47",
+            "tl_liste_fiyati": "185,27",
             "stok_durumu": "1"
         },
         {
@@ -4138,7 +4138,7 @@
             "resim": "/images/Urun/57636f4d-8.jpg",
             "fiyat": "3,99",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "178,48",
+            "tl_liste_fiyati": "178,46",
             "stok_durumu": "1"
         },
         {
@@ -4148,7 +4148,7 @@
             "resim": "/images/Urun/ec83dc30-5.jpg",
             "fiyat": "3,99",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "178,48",
+            "tl_liste_fiyati": "178,46",
             "stok_durumu": "1"
         },
         {
@@ -4158,7 +4158,7 @@
             "resim": "/images/Urun/7dfc1814-a.jpg",
             "fiyat": "142,55",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "6376,2",
+            "tl_liste_fiyati": "6376,13",
             "stok_durumu": "0"
         },
         {
@@ -4168,7 +4168,7 @@
             "resim": "/images/Urun/9d0d64d3-f.jpg",
             "fiyat": "7,2",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "322,06",
+            "tl_liste_fiyati": "322,04",
             "stok_durumu": "1"
         },
         {
@@ -4178,7 +4178,7 @@
             "resim": "/images/Urun/92c7a095-a.jpg",
             "fiyat": "7,2",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "322,06",
+            "tl_liste_fiyati": "322,04",
             "stok_durumu": "1"
         },
         {
@@ -4188,7 +4188,7 @@
             "resim": "/images/Urun/c6c9307a-5.jpg",
             "fiyat": "35,6",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1592,38",
+            "tl_liste_fiyati": "1592,35",
             "stok_durumu": "1"
         },
         {
@@ -4198,7 +4198,7 @@
             "resim": "/images/Urun/9ebde750-4.jpg",
             "fiyat": "12,05",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "538,99",
+            "tl_liste_fiyati": "538,98",
             "stok_durumu": "1"
         },
         {
@@ -4228,7 +4228,7 @@
             "resim": "/images/Urun/eef6e3b9-2.jpg",
             "fiyat": "645,25",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "28861,76",
+            "tl_liste_fiyati": "28861,44",
             "stok_durumu": "1"
         },
         {
@@ -4238,7 +4238,7 @@
             "resim": "/images/Urun/ce36e7c0-8.jpg",
             "fiyat": "513,5",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "22968,65",
+            "tl_liste_fiyati": "22968,38",
             "stok_durumu": "1"
         },
         {
@@ -4248,7 +4248,7 @@
             "resim": "/images/Urun/82fc5e9d-4.jpg",
             "fiyat": "667,2",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "29843,58",
+            "tl_liste_fiyati": "29843,24",
             "stok_durumu": "1"
         },
         {
@@ -4258,7 +4258,7 @@
             "resim": "/images/Urun/332a14be-f.jpg",
             "fiyat": "601",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "26882,48",
+            "tl_liste_fiyati": "26882,18",
             "stok_durumu": "1"
         },
         {
@@ -4268,7 +4268,7 @@
             "resim": "/images/Urun/c0539ee8-5.jpg",
             "fiyat": "674",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "30147,74",
+            "tl_liste_fiyati": "30147,41",
             "stok_durumu": "1"
         },
         {
@@ -4278,7 +4278,7 @@
             "resim": "/images/Urun/f584f12e-f.jpg",
             "fiyat": "775,75",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "34698,97",
+            "tl_liste_fiyati": "34698,59",
             "stok_durumu": "1"
         },
         {
@@ -4288,7 +4288,7 @@
             "resim": "/images/Urun/f1cfda08-3.jpg",
             "fiyat": "1182,35",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "52886,03",
+            "tl_liste_fiyati": "52885,44",
             "stok_durumu": "1"
         },
         {
@@ -4298,7 +4298,7 @@
             "resim": "/images/Urun/7b28eb36-e.jpg",
             "fiyat": "1832,5",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "81966,97",
+            "tl_liste_fiyati": "81966,06",
             "stok_durumu": "1"
         },
         {
@@ -4308,7 +4308,7 @@
             "resim": "/images/Urun/74ca281b-7.jpg",
             "fiyat": "1289,35",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "57672,1",
+            "tl_liste_fiyati": "57671,45",
             "stok_durumu": "1"
         },
         {
@@ -4318,7 +4318,7 @@
             "resim": "/images/Urun/19abc2a8-3.jpg",
             "fiyat": "1358,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "60783,04",
+            "tl_liste_fiyati": "60782,36",
             "stok_durumu": "1"
         },
         {
@@ -4328,7 +4328,7 @@
             "resim": "/images/Urun/de0f7db3-3.jpg",
             "fiyat": "1428,7",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "63905,16",
+            "tl_liste_fiyati": "63904,45",
             "stok_durumu": "1"
         },
         {
@@ -4338,7 +4338,7 @@
             "resim": "/images/Urun/346a4725-7.jpg",
             "fiyat": "1936,7",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "86627,8",
+            "tl_liste_fiyati": "86626,82",
             "stok_durumu": "1"
         },
         {
@@ -4348,7 +4348,7 @@
             "resim": "/images/Urun/dae2809e-e.jpg",
             "fiyat": "105",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "5454,91",
+            "tl_liste_fiyati": "5449,22",
             "stok_durumu": "1"
         },
         {
@@ -4358,7 +4358,7 @@
             "resim": "/images/Urun/2cc0e394-3.jpg",
             "fiyat": "9,24",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "413,3",
+            "tl_liste_fiyati": "413,29",
             "stok_durumu": "0"
         },
         {
@@ -4378,7 +4378,7 @@
             "resim": "/images/Urun/ba2fc068-3.jpg",
             "fiyat": "18,5",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "827,5",
+            "tl_liste_fiyati": "827,48",
             "stok_durumu": "1"
         },
         {
@@ -4388,7 +4388,7 @@
             "resim": "/images/Urun/8580ea5b-6.jpg",
             "fiyat": "19,1",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "854,34",
+            "tl_liste_fiyati": "854,33",
             "stok_durumu": "1"
         },
         {
@@ -4558,7 +4558,7 @@
             "resim": "/images/Urun/6a27be30-8.jpg",
             "fiyat": "42,3",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "2197,55",
+            "tl_liste_fiyati": "2195,26",
             "stok_durumu": "1"
         },
         {
@@ -4568,7 +4568,7 @@
             "resim": "/images/Urun/8e8aaf87-f.jpg",
             "fiyat": "9,25",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "480,55",
+            "tl_liste_fiyati": "480,05",
             "stok_durumu": "1"
         },
         {
@@ -4578,7 +4578,7 @@
             "resim": "/images/Urun/a9b4499d-f.jpg",
             "fiyat": "9,25",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "480,55",
+            "tl_liste_fiyati": "480,05",
             "stok_durumu": "1"
         },
         {
@@ -4588,7 +4588,7 @@
             "resim": "/images/Urun/342b445d-f.jpg",
             "fiyat": "9,25",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "480,55",
+            "tl_liste_fiyati": "480,05",
             "stok_durumu": "1"
         },
         {
@@ -4598,7 +4598,7 @@
             "resim": "/images/Urun/435c4834-5.jpg",
             "fiyat": "9,25",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "480,55",
+            "tl_liste_fiyati": "480,05",
             "stok_durumu": "1"
         },
         {
@@ -4608,7 +4608,7 @@
             "resim": "/images/Urun/72bbb87b-a.jpg",
             "fiyat": "9,25",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "480,55",
+            "tl_liste_fiyati": "480,05",
             "stok_durumu": "1"
         },
         {
@@ -4618,7 +4618,7 @@
             "resim": "/images/Urun/75493aac-0.jpg",
             "fiyat": "9,25",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "480,55",
+            "tl_liste_fiyati": "480,05",
             "stok_durumu": "1"
         },
         {
@@ -4628,7 +4628,7 @@
             "resim": "/images/Urun/87bd2121-3.jpg",
             "fiyat": "4,5",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "201,29",
+            "tl_liste_fiyati": "201,28",
             "stok_durumu": "1"
         },
         {
@@ -4638,7 +4638,7 @@
             "resim": "/images/Urun/69db7433-c.jpg",
             "fiyat": "1450",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "75329,77",
+            "tl_liste_fiyati": "75251,11",
             "stok_durumu": "1"
         },
         {
@@ -4688,7 +4688,7 @@
             "resim": "/images/Urun/0463322b-d.jpg",
             "fiyat": "860",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "44678,35",
+            "tl_liste_fiyati": "44631,7",
             "stok_durumu": "0"
         },
         {
@@ -4698,7 +4698,7 @@
             "resim": "/images/Urun/b9e7a7da-b.jpg",
             "fiyat": "899",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "46704,46",
+            "tl_liste_fiyati": "46655,69",
             "stok_durumu": "0"
         },
         {
@@ -4708,7 +4708,7 @@
             "resim": "/images/Urun/a86e1ba1-c.jpg",
             "fiyat": "965",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "50133,26",
+            "tl_liste_fiyati": "50080,91",
             "stok_durumu": "1"
         },
         {
@@ -4718,7 +4718,7 @@
             "resim": "/images/Urun/16c17fc8-8.jpg",
             "fiyat": "1060",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "55068,66",
+            "tl_liste_fiyati": "55011,16",
             "stok_durumu": "1"
         },
         {
@@ -4728,7 +4728,7 @@
             "resim": "/images/Urun/b6ad9f23-7.jpg",
             "fiyat": "1160",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "60263,82",
+            "tl_liste_fiyati": "60200,89",
             "stok_durumu": "1"
         },
         {
@@ -4738,7 +4738,7 @@
             "resim": "/images/Urun/bfddfd35-1.jpg",
             "fiyat": "1300",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "67537,04",
+            "tl_liste_fiyati": "67466,51",
             "stok_durumu": "1"
         },
         {
@@ -4898,7 +4898,7 @@
             "resim": "/images/Urun/1d19a0e1-c.jpg",
             "fiyat": "3,3",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "147,61",
+            "tl_liste_fiyati": "147,6",
             "stok_durumu": "0"
         },
         {
@@ -4908,7 +4908,7 @@
             "resim": "/images/Urun/1de9b4d6-1.jpg",
             "fiyat": "815",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "42340,52",
+            "tl_liste_fiyati": "42296,32",
             "stok_durumu": "0"
         },
         {
@@ -4918,7 +4918,7 @@
             "resim": "/images/Urun/02a2c2b0-4.jpg",
             "fiyat": "885",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "45977,14",
+            "tl_liste_fiyati": "45929,12",
             "stok_durumu": "0"
         },
         {
@@ -4928,7 +4928,7 @@
             "resim": "/images/Urun/bea2e71f-8.jpg",
             "fiyat": "1035",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "53769,88",
+            "tl_liste_fiyati": "53713,73",
             "stok_durumu": "1"
         },
         {
@@ -4938,7 +4938,7 @@
             "resim": "/images/Urun/41fbde05-b.jpg",
             "fiyat": "1115",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "57926",
+            "tl_liste_fiyati": "57865,51",
             "stok_durumu": "1"
         },
         {
@@ -4948,7 +4948,7 @@
             "resim": "/images/Urun/3e5cf26c-a.jpg",
             "fiyat": "1505",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "78187,12",
+            "tl_liste_fiyati": "78105,47",
             "stok_durumu": "1"
         },
         {
@@ -4958,7 +4958,7 @@
             "resim": "/images/Urun/f5c2ae26-3.jpg",
             "fiyat": "1655",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "85979,84",
+            "tl_liste_fiyati": "85890,06",
             "stok_durumu": "1"
         },
         {
@@ -4968,7 +4968,7 @@
             "resim": "/images/Urun/e69d3ef2-d.jpg",
             "fiyat": "915",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "47535,68",
+            "tl_liste_fiyati": "47486,04",
             "stok_durumu": "0"
         },
         {
@@ -4978,7 +4978,7 @@
             "resim": "/images/Urun/8a7f040e-7.jpg",
             "fiyat": "995",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "51691,81",
+            "tl_liste_fiyati": "51637,84",
             "stok_durumu": "1"
         },
         {
@@ -4988,7 +4988,7 @@
             "resim": "/images/Urun/5a669e8e-9.jpg",
             "fiyat": "1065",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "55328,42",
+            "tl_liste_fiyati": "55270,64",
             "stok_durumu": "0"
         },
         {
@@ -4998,7 +4998,7 @@
             "resim": "/images/Urun/419cea56-8.jpg",
             "fiyat": "1200",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "62341,88",
+            "tl_liste_fiyati": "62276,78",
             "stok_durumu": "1"
         },
         {
@@ -5008,7 +5008,7 @@
             "resim": "/images/Urun/a0d50253-5.jpg",
             "fiyat": "1385",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "71952,92",
+            "tl_liste_fiyati": "71877,78",
             "stok_durumu": "1"
         },
         {
@@ -5018,7 +5018,7 @@
             "resim": "/images/Urun/7e3e3219-d.jpg",
             "fiyat": "1555",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "80784,68",
+            "tl_liste_fiyati": "80700,32",
             "stok_durumu": "1"
         },
         {
@@ -5028,7 +5028,7 @@
             "resim": "/images/Urun/8ae977ae-c.jpg",
             "fiyat": "1725",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "89616,46",
+            "tl_liste_fiyati": "89522,87",
             "stok_durumu": "0"
         },
         {
@@ -5038,7 +5038,7 @@
             "resim": "/images/Urun/68e97e68-5.jpg",
             "fiyat": "1810",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "94032,34",
+            "tl_liste_fiyati": "93934,14",
             "stok_durumu": "1"
         },
         {
@@ -5048,7 +5048,7 @@
             "resim": "/images/Urun/26b091fd-d.jpg",
             "fiyat": "940",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "48834,48",
+            "tl_liste_fiyati": "48783,48",
             "stok_durumu": "1"
         },
         {
@@ -5058,7 +5058,7 @@
             "resim": "/images/Urun/fb607328-8.jpg",
             "fiyat": "1030",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "53510,11",
+            "tl_liste_fiyati": "53454,24",
             "stok_durumu": "1"
         },
         {
@@ -5068,7 +5068,7 @@
             "resim": "/images/Urun/110a9d3e-9.jpg",
             "fiyat": "2,14",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "111,18",
+            "tl_liste_fiyati": "111,06",
             "stok_durumu": "1"
         },
         {
@@ -5078,7 +5078,7 @@
             "resim": "/images/Urun/9517ba0f-2.jpg",
             "fiyat": "2,12",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "110,14",
+            "tl_liste_fiyati": "110,03",
             "stok_durumu": "1"
         },
         {
@@ -5088,7 +5088,7 @@
             "resim": "/images/Urun/d2289a43-6.jpg",
             "fiyat": "8,46",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "439,51",
+            "tl_liste_fiyati": "439,06",
             "stok_durumu": "1"
         },
         {
@@ -5098,7 +5098,7 @@
             "resim": "/images/Urun/1047ab3b-f.jpg",
             "fiyat": "3,69",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "191,7",
+            "tl_liste_fiyati": "191,5",
             "stok_durumu": "1"
         },
         {
@@ -5108,7 +5108,7 @@
             "resim": "/images/Urun/2bfaf3f2-2.jpg",
             "fiyat": "6,4",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "332,5",
+            "tl_liste_fiyati": "332,15",
             "stok_durumu": "1"
         },
         {
@@ -5138,7 +5138,7 @@
             "resim": "/images/Urun/e249120f-4.jpg",
             "fiyat": "1090",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "56627,21",
+            "tl_liste_fiyati": "56568,07",
             "stok_durumu": "1"
         },
         {
@@ -5148,7 +5148,7 @@
             "resim": "/images/Urun/1ef1254d-3.jpg",
             "fiyat": "1300",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "67537,04",
+            "tl_liste_fiyati": "67466,51",
             "stok_durumu": "0"
         },
         {
@@ -5158,7 +5158,7 @@
             "resim": "/images/Urun/5912be48-a.jpg",
             "fiyat": "1350",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "70134,61",
+            "tl_liste_fiyati": "70061,38",
             "stok_durumu": "0"
         },
         {
@@ -5168,7 +5168,7 @@
             "resim": "/images/Urun/e223accb-e.jpg",
             "fiyat": "2,23",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "115,85",
+            "tl_liste_fiyati": "115,73",
             "stok_durumu": "0"
         },
         {
@@ -5198,7 +5198,7 @@
             "resim": "/images/Urun/2b32ba5f-0.jpg",
             "fiyat": "190",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "8498,62",
+            "tl_liste_fiyati": "8498,53",
             "stok_durumu": "0"
         },
         {
@@ -5228,7 +5228,7 @@
             "resim": "/images/Urun/696fed2a-0.jpg",
             "fiyat": "12,8",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "572,54",
+            "tl_liste_fiyati": "572,53",
             "stok_durumu": "0"
         },
         {
@@ -5238,7 +5238,7 @@
             "resim": "/images/Urun/a62ae46b-0.jpg",
             "fiyat": "15,35",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "686,6",
+            "tl_liste_fiyati": "686,59",
             "stok_durumu": "1"
         },
         {
@@ -5258,7 +5258,7 @@
             "resim": "/images/Urun/e66cde96-5.jpg",
             "fiyat": "21,3",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "952,74",
+            "tl_liste_fiyati": "952,73",
             "stok_durumu": "1"
         },
         {
@@ -5268,7 +5268,7 @@
             "resim": "/images/Urun/39d8cab6-b.jpg",
             "fiyat": "28,2",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1261,38",
+            "tl_liste_fiyati": "1261,36",
             "stok_durumu": "1"
         },
         {
@@ -5278,7 +5278,7 @@
             "resim": "/images/Urun/981aee32-a.jpg",
             "fiyat": "40,75",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1822,73",
+            "tl_liste_fiyati": "1822,72",
             "stok_durumu": "1"
         },
         {
@@ -5288,7 +5288,7 @@
             "resim": "/images/Urun/347cf2df-7.jpg",
             "fiyat": "55,25",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2471,3",
+            "tl_liste_fiyati": "2471,28",
             "stok_durumu": "1"
         },
         {
@@ -5298,7 +5298,7 @@
             "resim": "/images/Urun/226043d3-8.jpg",
             "fiyat": "89",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "3980,93",
+            "tl_liste_fiyati": "3980,89",
             "stok_durumu": "1"
         },
         {
@@ -5308,7 +5308,7 @@
             "resim": "/images/Urun/38b724fd-d.jpg",
             "fiyat": "128,65",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "5754,46",
+            "tl_liste_fiyati": "5754,4",
             "stok_durumu": "1"
         },
         {
@@ -5348,7 +5348,7 @@
             "resim": "/images/Urun/4743f80a-3.jpg",
             "fiyat": "15,1",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "675,42",
+            "tl_liste_fiyati": "675,41",
             "stok_durumu": "1"
         },
         {
@@ -5358,7 +5358,7 @@
             "resim": "/images/Urun/a2259bbe-1.JPG",
             "fiyat": "16,5",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "738,04",
+            "tl_liste_fiyati": "738,02",
             "stok_durumu": "0"
         },
         {
@@ -5368,7 +5368,7 @@
             "resim": "/images/Urun/dc14fc1b-e.jpg",
             "fiyat": "2,25",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "116,89",
+            "tl_liste_fiyati": "116,77",
             "stok_durumu": "1"
         },
         {
@@ -5388,7 +5388,7 @@
             "resim": "/images/Urun/96b50a1e-e.jpg",
             "fiyat": "15",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "670,94",
+            "tl_liste_fiyati": "670,93",
             "stok_durumu": "1"
         },
         {
@@ -5398,7 +5398,7 @@
             "resim": "/images/Urun/37f5587c-7.jpg",
             "fiyat": "8",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "357,84",
+            "tl_liste_fiyati": "357,83",
             "stok_durumu": "1"
         },
         {
@@ -5408,7 +5408,7 @@
             "resim": "/images/Urun/906fb4c7-3.jpg",
             "fiyat": "5,92",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "264,8",
+            "tl_liste_fiyati": "264,79",
             "stok_durumu": "1"
         },
         {
@@ -5468,7 +5468,7 @@
             "resim": "/images/Urun/ed9ae837-0.jpg",
             "fiyat": "5,92",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "264,8",
+            "tl_liste_fiyati": "264,79",
             "stok_durumu": "1"
         },
         {
@@ -5478,7 +5478,7 @@
             "resim": "/images/Urun/64d10acf-4.jpg",
             "fiyat": "5,92",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "264,8",
+            "tl_liste_fiyati": "264,79",
             "stok_durumu": "1"
         },
         {
@@ -5528,7 +5528,7 @@
             "resim": "/images/Urun/16354ffc-e.jpg",
             "fiyat": "14,4",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "644,11",
+            "tl_liste_fiyati": "644,1",
             "stok_durumu": "1"
         },
         {
@@ -5538,7 +5538,7 @@
             "resim": "/images/Urun/7b262f7f-7.jpg",
             "fiyat": "14,44",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "645,9",
+            "tl_liste_fiyati": "645,89",
             "stok_durumu": "1"
         },
         {
@@ -5548,7 +5548,7 @@
             "resim": "/images/Urun/f334f761-8.jpg",
             "fiyat": "21,14",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "945,59",
+            "tl_liste_fiyati": "945,58",
             "stok_durumu": "0"
         },
         {
@@ -5558,7 +5558,7 @@
             "resim": "/images/Urun/7d39a89a-5.jpg",
             "fiyat": "24,04",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1075,3",
+            "tl_liste_fiyati": "1075,28",
             "stok_durumu": "0"
         },
         {
@@ -5588,7 +5588,7 @@
             "resim": "/images/Urun/9ba6b920-3.jpg",
             "fiyat": "8,95",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "400,33",
+            "tl_liste_fiyati": "400,32",
             "stok_durumu": "0"
         },
         {
@@ -5598,7 +5598,7 @@
             "resim": "/images/Urun/02d9d8b8-8.jpg",
             "fiyat": "2,35",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "105,12",
+            "tl_liste_fiyati": "105,11",
             "stok_durumu": "0"
         },
         {
@@ -5618,7 +5618,7 @@
             "resim": "/images/Urun/bc4e0989-3.jpg",
             "fiyat": "2,75",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "123,01",
+            "tl_liste_fiyati": "123",
             "stok_durumu": "1"
         },
         {
@@ -5648,7 +5648,7 @@
             "resim": "/images/Urun/f3d3d053-a.jpg",
             "fiyat": "2,75",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "123,01",
+            "tl_liste_fiyati": "123",
             "stok_durumu": "1"
         },
         {
@@ -5678,7 +5678,7 @@
             "resim": "/images/Urun/882fe15e-7.png",
             "fiyat": "8,4",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "375,73",
+            "tl_liste_fiyati": "375,72",
             "stok_durumu": "1"
         },
         {
@@ -5688,7 +5688,7 @@
             "resim": "/images/Urun/47df117d-f.jpg",
             "fiyat": "12,8",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "572,54",
+            "tl_liste_fiyati": "572,53",
             "stok_durumu": "0"
         },
         {
@@ -5698,7 +5698,7 @@
             "resim": "/images/Urun/1af72aa1-6.jpg",
             "fiyat": "8,95",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "400,33",
+            "tl_liste_fiyati": "400,32",
             "stok_durumu": "1"
         },
         {
@@ -5718,7 +5718,7 @@
             "resim": "/images/Urun/65bd7735-4.jpg",
             "fiyat": "4,17",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "186,53",
+            "tl_liste_fiyati": "186,52",
             "stok_durumu": "1"
         },
         {
@@ -5728,7 +5728,7 @@
             "resim": "/images/Urun/c96fe1b1-1.jpg",
             "fiyat": "5,12",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "229,02",
+            "tl_liste_fiyati": "229,01",
             "stok_durumu": "1"
         },
         {
@@ -5738,7 +5738,7 @@
             "resim": "/images/Urun/ace517ab-e.jpg",
             "fiyat": "3,99",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "178,48",
+            "tl_liste_fiyati": "178,46",
             "stok_durumu": "1"
         },
         {
@@ -5828,7 +5828,7 @@
             "resim": "/images/Urun/fd7e1892-2.jpg",
             "fiyat": "3,37",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "150,74",
+            "tl_liste_fiyati": "150,73",
             "stok_durumu": "0"
         },
         {
@@ -5838,7 +5838,7 @@
             "resim": "/images/Urun/af1c6487-e.jpg",
             "fiyat": "3,7",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "165,5",
+            "tl_liste_fiyati": "165,49",
             "stok_durumu": "0"
         },
         {
@@ -5848,7 +5848,7 @@
             "resim": "/images/Urun/d73a323c-0.jpg",
             "fiyat": "3,99",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "178,48",
+            "tl_liste_fiyati": "178,46",
             "stok_durumu": "0"
         },
         {
@@ -5918,7 +5918,7 @@
             "resim": "/images/Urun/5a29fbfb-a.jpeg",
             "fiyat": "9,13",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "408,38",
+            "tl_liste_fiyati": "408,37",
             "stok_durumu": "1"
         },
         {
@@ -5968,7 +5968,7 @@
             "resim": "/images/Urun/b16247c2-f.jpg",
             "fiyat": "27,78",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1242,59",
+            "tl_liste_fiyati": "1242,58",
             "stok_durumu": "1"
         },
         {
@@ -6038,7 +6038,7 @@
             "resim": "/images/Urun/56737ba0-5.jpg",
             "fiyat": "2,24",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "100,2",
+            "tl_liste_fiyati": "100,19",
             "stok_durumu": "1"
         },
         {
@@ -6098,7 +6098,7 @@
             "resim": "/images/Urun/de158cde-4.jpg",
             "fiyat": "14,3",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "639,64",
+            "tl_liste_fiyati": "639,62",
             "stok_durumu": "0"
         },
         {
@@ -6108,7 +6108,7 @@
             "resim": "/images/Urun/089906b5-2.jpg",
             "fiyat": "74,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "3350,24",
+            "tl_liste_fiyati": "3350,21",
             "stok_durumu": "1"
         },
         {
@@ -6128,7 +6128,7 @@
             "resim": "/images/Urun/6a3e5ae2-4.jpg",
             "fiyat": "29",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1297,16",
+            "tl_liste_fiyati": "1297,14",
             "stok_durumu": "1"
         },
         {
@@ -6148,7 +6148,7 @@
             "resim": "/images/Urun/2c60997b-f.jpg",
             "fiyat": "7,55",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "392,23",
+            "tl_liste_fiyati": "391,82",
             "stok_durumu": "1"
         },
         {
@@ -6158,7 +6158,7 @@
             "resim": "/images/Urun/70e6b7d7-7.jpg",
             "fiyat": "32,6",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1458,18",
+            "tl_liste_fiyati": "1458,17",
             "stok_durumu": "1"
         },
         {
@@ -6168,7 +6168,7 @@
             "resim": "/images/Urun/cdfd505f-d.jpg",
             "fiyat": "42,22",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1888,49",
+            "tl_liste_fiyati": "1888,46",
             "stok_durumu": "1"
         },
         {
@@ -6218,7 +6218,7 @@
             "resim": "/images/Urun/050206f2-7.jpg",
             "fiyat": "3,7",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "192,22",
+            "tl_liste_fiyati": "192,02",
             "stok_durumu": "1"
         },
         {
@@ -6228,7 +6228,7 @@
             "resim": "/images/Urun/ab56a90e-d.jpg",
             "fiyat": "5,25",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "272,75",
+            "tl_liste_fiyati": "272,46",
             "stok_durumu": "1"
         },
         {
@@ -6238,7 +6238,7 @@
             "resim": "/images/Urun/a63e9689-e.jpg",
             "fiyat": "6,89",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "357,95",
+            "tl_liste_fiyati": "357,58",
             "stok_durumu": "1"
         },
         {
@@ -6248,7 +6248,7 @@
             "resim": "/images/Urun/29deaf3d-8.jpg",
             "fiyat": "4,34",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "225,47",
+            "tl_liste_fiyati": "225,24",
             "stok_durumu": "1"
         },
         {
@@ -6268,7 +6268,7 @@
             "resim": "/images/Urun/a95a79c9-d.jpg",
             "fiyat": "7,31",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "379,76",
+            "tl_liste_fiyati": "379,37",
             "stok_durumu": "1"
         },
         {
@@ -6278,7 +6278,7 @@
             "resim": "/images/Urun/0b497c50-f.jpg",
             "fiyat": "4,71",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "244,69",
+            "tl_liste_fiyati": "244,44",
             "stok_durumu": "1"
         },
         {
@@ -6318,7 +6318,7 @@
             "resim": "/images/Urun/37a5260b-3.jpg",
             "fiyat": "27,54",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1231,85",
+            "tl_liste_fiyati": "1231,84",
             "stok_durumu": "0"
         },
         {
@@ -6328,7 +6328,7 @@
             "resim": "/images/Urun/b63ba85a-b.jpg",
             "fiyat": "16,88",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "755,04",
+            "tl_liste_fiyati": "755,03",
             "stok_durumu": "1"
         },
         {
@@ -6348,7 +6348,7 @@
             "resim": "/images/Urun/636141b4-2.jpeg",
             "fiyat": "2,37",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "123,12",
+            "tl_liste_fiyati": "123",
             "stok_durumu": "1"
         },
         {
@@ -6358,7 +6358,7 @@
             "resim": "/images/Urun/741130e8-8.jpg",
             "fiyat": "3,87",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "201,05",
+            "tl_liste_fiyati": "200,84",
             "stok_durumu": "1"
         },
         {
@@ -6368,7 +6368,7 @@
             "resim": "/images/Urun/419c11de-d.jpg",
             "fiyat": "2,21",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "114,82",
+            "tl_liste_fiyati": "114,7",
             "stok_durumu": "1"
         },
         {
@@ -6378,7 +6378,7 @@
             "resim": "/images/Urun/27dc8655-e.jpg",
             "fiyat": "2,25",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "116,89",
+            "tl_liste_fiyati": "116,77",
             "stok_durumu": "0"
         },
         {
@@ -6498,7 +6498,7 @@
             "resim": "/images/Urun/48e9853c-4.jpg",
             "fiyat": "2,25",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "116,89",
+            "tl_liste_fiyati": "116,77",
             "stok_durumu": "1"
         },
         {
@@ -6518,7 +6518,7 @@
             "resim": "/images/Urun/951b2a76-a.jpg",
             "fiyat": "1,95",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "87,23",
+            "tl_liste_fiyati": "87,22",
             "stok_durumu": "1"
         },
         {
@@ -6528,7 +6528,7 @@
             "resim": "/images/Urun/7250809b-d.jpg",
             "fiyat": "117,18",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "5241,41",
+            "tl_liste_fiyati": "5241,36",
             "stok_durumu": "1"
         },
         {
@@ -6538,7 +6538,7 @@
             "resim": "/images/Urun/ea37491f-a.jpg",
             "fiyat": "63,65",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2847,04",
+            "tl_liste_fiyati": "2847,01",
             "stok_durumu": "1"
         },
         {
@@ -6618,7 +6618,7 @@
             "resim": "/images/Urun/5af00fde-1.jpg",
             "fiyat": "79,73",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "3566,29",
+            "tl_liste_fiyati": "3566,26",
             "stok_durumu": "1"
         },
         {
@@ -6648,7 +6648,7 @@
             "resim": "/images/Urun/924a6443-7.jpeg",
             "fiyat": "6,03",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "313,27",
+            "tl_liste_fiyati": "312,94",
             "stok_durumu": "1"
         },
         {
@@ -6658,7 +6658,7 @@
             "resim": "/images/Urun/6bc6a38b-6.jpg",
             "fiyat": "10,59",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "550,16",
+            "tl_liste_fiyati": "549,59",
             "stok_durumu": "1"
         },
         {
@@ -6668,7 +6668,7 @@
             "resim": "/images/Urun/e785aa2f-4.jpg",
             "fiyat": "0,76",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "39,48",
+            "tl_liste_fiyati": "39,44",
             "stok_durumu": "0"
         },
         {
@@ -6678,7 +6678,7 @@
             "resim": "/images/Urun/567647c0-a.jpg",
             "fiyat": "0,77",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "40,01",
+            "tl_liste_fiyati": "39,96",
             "stok_durumu": "1"
         },
         {
@@ -6688,7 +6688,7 @@
             "resim": "/images/Urun/93a16b53-9.jpg",
             "fiyat": "0,8",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "41,56",
+            "tl_liste_fiyati": "41,52",
             "stok_durumu": "1"
         },
         {
@@ -6698,7 +6698,7 @@
             "resim": "/images/Urun/0cc2e26f-b.jpg",
             "fiyat": "0,86",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "44,68",
+            "tl_liste_fiyati": "44,63",
             "stok_durumu": "1"
         },
         {
@@ -6708,7 +6708,7 @@
             "resim": "/images/Urun/8ba2c78e-4.JPG",
             "fiyat": "3",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "155,86",
+            "tl_liste_fiyati": "155,69",
             "stok_durumu": "0"
         },
         {
@@ -6718,7 +6718,7 @@
             "resim": "/images/Urun/1f4a2ba5-6.jpg",
             "fiyat": "2,78",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "144,42",
+            "tl_liste_fiyati": "144,28",
             "stok_durumu": "1"
         },
         {
@@ -6738,7 +6738,7 @@
             "resim": "/images/Urun/d98255e7-6.jpg",
             "fiyat": "4,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "219,18",
+            "tl_liste_fiyati": "219,17",
             "stok_durumu": "1"
         },
         {
@@ -6758,7 +6758,7 @@
             "resim": "/images/Urun/db809820-c.jpg",
             "fiyat": "54,55",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2440",
+            "tl_liste_fiyati": "2439,97",
             "stok_durumu": "0"
         },
         {
@@ -6768,7 +6768,7 @@
             "resim": "/images/Urun/ece95d5f-4.JPG",
             "fiyat": "2,78",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "144,42",
+            "tl_liste_fiyati": "144,28",
             "stok_durumu": "1"
         },
         {
@@ -6778,7 +6778,7 @@
             "resim": "/images/Urun/a8794d40-5.jpg",
             "fiyat": "4,33",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "224,95",
+            "tl_liste_fiyati": "224,71",
             "stok_durumu": "1"
         },
         {
@@ -6788,7 +6788,7 @@
             "resim": "/images/Urun/7cfeed1f-e.jpg",
             "fiyat": "0,85",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "44,16",
+            "tl_liste_fiyati": "44,11",
             "stok_durumu": "0"
         },
         {
@@ -6798,7 +6798,7 @@
             "resim": "/images/Urun/bf7ecb5e-b.jpg",
             "fiyat": "32,62",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "1694,66",
+            "tl_liste_fiyati": "1692,89",
             "stok_durumu": "1"
         },
         {
@@ -6808,7 +6808,7 @@
             "resim": "/images/Urun/05049f65-d.jpg",
             "fiyat": "32,98",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "1713,36",
+            "tl_liste_fiyati": "1711,57",
             "stok_durumu": "1"
         },
         {
@@ -6818,7 +6818,7 @@
             "resim": "/images/Urun/7b468e18-2.jpg",
             "fiyat": "30,45",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "1581,92",
+            "tl_liste_fiyati": "1580,27",
             "stok_durumu": "1"
         },
         {
@@ -6828,7 +6828,7 @@
             "resim": "/images/Urun/ff629a50-1.jpg",
             "fiyat": "30,45",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "1581,92",
+            "tl_liste_fiyati": "1580,27",
             "stok_durumu": "1"
         },
         {
@@ -6838,7 +6838,7 @@
             "resim": "/images/Urun/5b183811-c.jpg",
             "fiyat": "30,45",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "1581,92",
+            "tl_liste_fiyati": "1580,27",
             "stok_durumu": "1"
         },
         {
@@ -6848,7 +6848,7 @@
             "resim": "/images/Urun/0e8e7616-c.jpg",
             "fiyat": "413,4",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "18491,21",
+            "tl_liste_fiyati": "18491",
             "stok_durumu": "1"
         },
         {
@@ -6868,7 +6868,7 @@
             "resim": "/images/Urun/70fe8b83-3.jpg",
             "fiyat": "0,77",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "40,01",
+            "tl_liste_fiyati": "39,96",
             "stok_durumu": "1"
         },
         {
@@ -6878,7 +6878,7 @@
             "resim": "/images/Urun/c52a3c75-e.jpg",
             "fiyat": "0,8",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "41,56",
+            "tl_liste_fiyati": "41,52",
             "stok_durumu": "1"
         },
         {
@@ -6888,7 +6888,7 @@
             "resim": "/images/Urun/bab2be4b-6.jpg",
             "fiyat": "0,86",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "44,68",
+            "tl_liste_fiyati": "44,63",
             "stok_durumu": "1"
         },
         {
@@ -6898,7 +6898,7 @@
             "resim": "/images/Urun/be4ddb78-1.jpg",
             "fiyat": "1,36",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "70,66",
+            "tl_liste_fiyati": "70,58",
             "stok_durumu": "1"
         },
         {
@@ -6908,7 +6908,7 @@
             "resim": "/images/Urun/4a616961-2.jpg",
             "fiyat": "1,36",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "70,66",
+            "tl_liste_fiyati": "70,58",
             "stok_durumu": "1"
         },
         {
@@ -6918,7 +6918,7 @@
             "resim": "/images/Urun/514f4d3b-d.jpg",
             "fiyat": "1,6",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "83,12",
+            "tl_liste_fiyati": "83,04",
             "stok_durumu": "1"
         },
         {
@@ -6928,7 +6928,7 @@
             "resim": "/images/Urun/4da20442-4.jpg",
             "fiyat": "1,86",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "96,62",
+            "tl_liste_fiyati": "96,53",
             "stok_durumu": "1"
         },
         {
@@ -6938,7 +6938,7 @@
             "resim": "/images/Urun/1acd91b8-3.jpg",
             "fiyat": "25,97",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1161,62",
+            "tl_liste_fiyati": "1161,61",
             "stok_durumu": "1"
         },
         {
@@ -6948,7 +6948,7 @@
             "resim": "/images/Urun/306e9ccc-5.jpg",
             "fiyat": "34,12",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1526,17",
+            "tl_liste_fiyati": "1526,16",
             "stok_durumu": "1"
         },
         {
@@ -6958,7 +6958,7 @@
             "resim": "/images/Urun/d43ed2a2-f.jpg",
             "fiyat": "38,05",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1701,96",
+            "tl_liste_fiyati": "1701,94",
             "stok_durumu": "1"
         },
         {
@@ -6968,7 +6968,7 @@
             "resim": "/images/Urun/c5941a5d-c.jpg",
             "fiyat": "45,78",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2047,72",
+            "tl_liste_fiyati": "2047,69",
             "stok_durumu": "1"
         },
         {
@@ -6978,7 +6978,7 @@
             "resim": "/images/Urun/d88e518d-d.jpg",
             "fiyat": "57,37",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2566,14",
+            "tl_liste_fiyati": "2566,1",
             "stok_durumu": "0"
         },
         {
@@ -6988,7 +6988,7 @@
             "resim": "/images/Urun/80c7c878-6.jpg",
             "fiyat": "103,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "4647,41",
+            "tl_liste_fiyati": "4647,35",
             "stok_durumu": "1"
         },
         {
@@ -6998,7 +6998,7 @@
             "resim": "/images/Urun/db0be010-4.jpg",
             "fiyat": "48,2",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2155,97",
+            "tl_liste_fiyati": "2155,94",
             "stok_durumu": "1"
         },
         {
@@ -7008,7 +7008,7 @@
             "resim": "/images/Urun/9466ce2a-c.jpg",
             "fiyat": "89",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "3980,93",
+            "tl_liste_fiyati": "3980,89",
             "stok_durumu": "0"
         },
         {
@@ -7018,7 +7018,7 @@
             "resim": "/images/Urun/81d6eb3e-6.jpg",
             "fiyat": "120,8",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "5403,34",
+            "tl_liste_fiyati": "5403,28",
             "stok_durumu": "1"
         },
         {
@@ -7028,7 +7028,7 @@
             "resim": "/images/Urun/9c2c90a1-5.jpg",
             "fiyat": "134,2",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "6002,71",
+            "tl_liste_fiyati": "6002,64",
             "stok_durumu": "1"
         },
         {
@@ -7038,7 +7038,7 @@
             "resim": "/images/Urun/dd2bb831-9.jpg",
             "fiyat": "165,35",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "7396,03",
+            "tl_liste_fiyati": "7395,96",
             "stok_durumu": "1"
         },
         {
@@ -7048,7 +7048,7 @@
             "resim": "/images/Urun/8625afd2-2.jpg",
             "fiyat": "103,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "4647,41",
+            "tl_liste_fiyati": "4647,35",
             "stok_durumu": "1"
         },
         {
@@ -7058,7 +7058,7 @@
             "resim": "/images/Urun/6cef2c52-3.jpg",
             "fiyat": "103,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "4647,41",
+            "tl_liste_fiyati": "4647,35",
             "stok_durumu": "1"
         },
         {
@@ -7068,7 +7068,7 @@
             "resim": "/images/Urun/46de331f-a.jpg",
             "fiyat": "410,72",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "18371,34",
+            "tl_liste_fiyati": "18371,14",
             "stok_durumu": "1"
         },
         {
@@ -7098,7 +7098,7 @@
             "resim": "/images/Urun/80bad436-0.jpg",
             "fiyat": "4,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "219,18",
+            "tl_liste_fiyati": "219,17",
             "stok_durumu": "0"
         },
         {
@@ -7108,7 +7108,7 @@
             "resim": "/images/Urun/d5e1d662-d.jpg",
             "fiyat": "62,67",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2803,2",
+            "tl_liste_fiyati": "2803,18",
             "stok_durumu": "1"
         },
         {
@@ -7118,7 +7118,7 @@
             "resim": "/images/Urun/93295321-2.jpg",
             "fiyat": "66,44",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2971,84",
+            "tl_liste_fiyati": "2971,8",
             "stok_durumu": "1"
         },
         {
@@ -7168,7 +7168,7 @@
             "resim": "/images/Urun/13bb58a7-c.jpg",
             "fiyat": "19,21",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "859,26",
+            "tl_liste_fiyati": "859,25",
             "stok_durumu": "1"
         },
         {
@@ -7178,7 +7178,7 @@
             "resim": "/images/Urun/1e1678fb-0.jpg",
             "fiyat": "9,6",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "429,41",
+            "tl_liste_fiyati": "429,4",
             "stok_durumu": "1"
         },
         {
@@ -7188,7 +7188,7 @@
             "resim": "/images/Urun/7e589167-f.jpg",
             "fiyat": "7,85",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "351,13",
+            "tl_liste_fiyati": "351,12",
             "stok_durumu": "0"
         },
         {
@@ -7198,7 +7198,7 @@
             "resim": "/images/Urun/6a3930a7-f.jpg",
             "fiyat": "7,85",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "351,13",
+            "tl_liste_fiyati": "351,12",
             "stok_durumu": "1"
         },
         {
@@ -7208,7 +7208,7 @@
             "resim": "/images/Urun/a32f7c0f-8.jpg",
             "fiyat": "4,53",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "235,34",
+            "tl_liste_fiyati": "235,09",
             "stok_durumu": "1"
         },
         {
@@ -7218,7 +7218,7 @@
             "resim": "/images/Urun/4174708f-2.jpg",
             "fiyat": "2,78",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "144,42",
+            "tl_liste_fiyati": "144,28",
             "stok_durumu": "1"
         },
         {
@@ -7228,7 +7228,7 @@
             "resim": "/images/Urun/58090aa5-4.png",
             "fiyat": "9,6",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "429,41",
+            "tl_liste_fiyati": "429,4",
             "stok_durumu": "0"
         },
         {
@@ -7248,7 +7248,7 @@
             "resim": "/images/Urun/1e48b35e-8.jpg",
             "fiyat": "7,85",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "351,13",
+            "tl_liste_fiyati": "351,12",
             "stok_durumu": "0"
         },
         {
@@ -7258,7 +7258,7 @@
             "resim": "/images/Urun/f83f495f-b.jpg",
             "fiyat": "7,85",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "351,13",
+            "tl_liste_fiyati": "351,12",
             "stok_durumu": "0"
         },
         {
@@ -7328,7 +7328,7 @@
             "resim": "/images/Urun/2abbe858-6.jpg",
             "fiyat": "1,37",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "71,17",
+            "tl_liste_fiyati": "71,1",
             "stok_durumu": "1"
         },
         {
@@ -7338,7 +7338,7 @@
             "resim": "/images/Urun/7f98c46e-2.jpg",
             "fiyat": "1,63",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "84,68",
+            "tl_liste_fiyati": "84,59",
             "stok_durumu": "1"
         },
         {
@@ -7348,7 +7348,7 @@
             "resim": "/images/Urun/990b6880-5.jpg",
             "fiyat": "2,08",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "108,06",
+            "tl_liste_fiyati": "107,95",
             "stok_durumu": "1"
         },
         {
@@ -7358,7 +7358,7 @@
             "resim": "/images/Urun/806ae3d8-c.jpeg",
             "fiyat": "3,8",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "197,41",
+            "tl_liste_fiyati": "197,21",
             "stok_durumu": "1"
         },
         {
@@ -7368,7 +7368,7 @@
             "resim": "/images/Urun/7b659960-8.jpg",
             "fiyat": "8,45",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "439",
+            "tl_liste_fiyati": "438,53",
             "stok_durumu": "1"
         },
         {
@@ -7378,7 +7378,7 @@
             "resim": "/images/Urun/7bd6ed6e-7.jpg",
             "fiyat": "48,2",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "2504,06",
+            "tl_liste_fiyati": "2501,45",
             "stok_durumu": "1"
         },
         {
@@ -7388,7 +7388,7 @@
             "resim": "/images/Urun/7463a72b-8.jpg",
             "fiyat": "73,07",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "3796,1",
+            "tl_liste_fiyati": "3792,13",
             "stok_durumu": "1"
         },
         {
@@ -7398,7 +7398,7 @@
             "resim": "/images/Urun/b9d45fe5-e.jpg",
             "fiyat": "32",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1431,35",
+            "tl_liste_fiyati": "1431,34",
             "stok_durumu": "0"
         },
         {
@@ -7408,7 +7408,7 @@
             "resim": "/images/Urun/4f348d4e-0.jpg",
             "fiyat": "103",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "4607,15",
+            "tl_liste_fiyati": "4607,1",
             "stok_durumu": "0"
         },
         {
@@ -7418,7 +7418,7 @@
             "resim": "/images/Urun/4118e955-b.jpg",
             "fiyat": "6,5",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "290,75",
+            "tl_liste_fiyati": "290,74",
             "stok_durumu": "1"
         },
         {
@@ -7458,7 +7458,7 @@
             "resim": "/images/Urun/b26d4547-7.jpg",
             "fiyat": "266",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "11898,07",
+            "tl_liste_fiyati": "11897,94",
             "stok_durumu": "0"
         },
         {
@@ -7468,7 +7468,7 @@
             "resim": "/images/Urun/54c55064-b.jpg",
             "fiyat": "3,26",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "145,82",
+            "tl_liste_fiyati": "145,81",
             "stok_durumu": "1"
         },
         {
@@ -7478,7 +7478,7 @@
             "resim": "/images/Urun/61e5562d-3.jpg",
             "fiyat": "1,94",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "100,79",
+            "tl_liste_fiyati": "100,68",
             "stok_durumu": "0"
         },
         {
@@ -7488,7 +7488,7 @@
             "resim": "/images/Urun/aad3427c-4.jpg",
             "fiyat": "1,75",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "90,91",
+            "tl_liste_fiyati": "90,82",
             "stok_durumu": "0"
         },
         {
@@ -7498,7 +7498,7 @@
             "resim": "/images/Urun/2c5b4701-9.jpg",
             "fiyat": "6,65",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "345,48",
+            "tl_liste_fiyati": "345,12",
             "stok_durumu": "1"
         },
         {
@@ -7508,7 +7508,7 @@
             "resim": "/images/Urun/dae8d07f-3.png",
             "fiyat": "11,97",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "621,86",
+            "tl_liste_fiyati": "621,22",
             "stok_durumu": "1"
         },
         {
@@ -7538,7 +7538,7 @@
             "resim": "/images/Urun/91b0cbd8-b.jpeg",
             "fiyat": "13,83",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "618,61",
+            "tl_liste_fiyati": "618,6",
             "stok_durumu": "1"
         },
         {
@@ -7548,7 +7548,7 @@
             "resim": "/images/Urun/7b7c5ee1-1.jpg",
             "fiyat": "14,2",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "635,16",
+            "tl_liste_fiyati": "635,15",
             "stok_durumu": "1"
         },
         {
@@ -7568,7 +7568,7 @@
             "resim": "/images/Urun/e1c5f465-f.jpg",
             "fiyat": "29,98",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1340,99",
+            "tl_liste_fiyati": "1340,98",
             "stok_durumu": "1"
         },
         {
@@ -7578,7 +7578,7 @@
             "resim": "/images/Urun/2dd7fedd-1.jpg",
             "fiyat": "7,25",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "376,64",
+            "tl_liste_fiyati": "376,26",
             "stok_durumu": "1"
         },
         {
@@ -7588,7 +7588,7 @@
             "resim": "/images/Urun/2ea5a6b4-5.jpg",
             "fiyat": "7,25",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "376,64",
+            "tl_liste_fiyati": "376,26",
             "stok_durumu": "1"
         },
         {
@@ -7608,7 +7608,7 @@
             "resim": "/images/Urun/ede2057c-d.jpg",
             "fiyat": "9,13",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "408,38",
+            "tl_liste_fiyati": "408,37",
             "stok_durumu": "1"
         },
         {
@@ -7628,7 +7628,7 @@
             "resim": "/images/Urun/6be11cef-f.jpg",
             "fiyat": "11,71",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "523,79",
+            "tl_liste_fiyati": "523,78",
             "stok_durumu": "1"
         },
         {
@@ -7638,7 +7638,7 @@
             "resim": "/images/Urun/8779311f-1.jpg",
             "fiyat": "13,53",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "605,2",
+            "tl_liste_fiyati": "605,18",
             "stok_durumu": "1"
         },
         {
@@ -7658,7 +7658,7 @@
             "resim": "/images/Urun/c980ca51-1.jpg",
             "fiyat": "18,05",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "807,37",
+            "tl_liste_fiyati": "807,36",
             "stok_durumu": "1"
         },
         {
@@ -7688,7 +7688,7 @@
             "resim": "/images/Urun/53d4e032-e.jpg",
             "fiyat": "12,78",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "571,64",
+            "tl_liste_fiyati": "571,63",
             "stok_durumu": "1"
         },
         {
@@ -7708,7 +7708,7 @@
             "resim": "/images/Urun/215542b6-0.jpg",
             "fiyat": "18,21",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "814,52",
+            "tl_liste_fiyati": "814,51",
             "stok_durumu": "0"
         },
         {
@@ -7718,7 +7718,7 @@
             "resim": "/images/Urun/f7b811d9-2.jpg",
             "fiyat": "19,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "890,12",
+            "tl_liste_fiyati": "890,11",
             "stok_durumu": "0"
         },
         {
@@ -7728,7 +7728,7 @@
             "resim": "/images/Urun/74beb84f-c.png",
             "fiyat": "31,61",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1413,9",
+            "tl_liste_fiyati": "1413,89",
             "stok_durumu": "0"
         },
         {
@@ -7738,7 +7738,7 @@
             "resim": "/images/Urun/5b782a85-5.png",
             "fiyat": "38,91",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1740,43",
+            "tl_liste_fiyati": "1740,41",
             "stok_durumu": "0"
         },
         {
@@ -7748,7 +7748,7 @@
             "resim": "/images/Urun/94256598-0.png",
             "fiyat": "48,32",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2161,33",
+            "tl_liste_fiyati": "2161,31",
             "stok_durumu": "0"
         },
         {
@@ -7758,7 +7758,7 @@
             "resim": "/images/Urun/c299c2d8-3.png",
             "fiyat": "53,89",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2410,48",
+            "tl_liste_fiyati": "2410,45",
             "stok_durumu": "0"
         },
         {
@@ -7768,7 +7768,7 @@
             "resim": "/images/Urun/8f052d88-4.png",
             "fiyat": "65,23",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2917,72",
+            "tl_liste_fiyati": "2917,68",
             "stok_durumu": "0"
         },
         {
@@ -7778,7 +7778,7 @@
             "resim": "/images/Urun/bf6af593-d.png",
             "fiyat": "83,35",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "3728,21",
+            "tl_liste_fiyati": "3728,17",
             "stok_durumu": "0"
         },
         {
@@ -7788,7 +7788,7 @@
             "resim": "/images/Urun/1a64ca95-a.jpg",
             "fiyat": "7,67",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "398,47",
+            "tl_liste_fiyati": "398,05",
             "stok_durumu": "1"
         },
         {
@@ -7798,7 +7798,7 @@
             "resim": "/images/Urun/f73e24f1-9.jpg",
             "fiyat": "5,98",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "310,67",
+            "tl_liste_fiyati": "310,34",
             "stok_durumu": "1"
         },
         {
@@ -7808,7 +7808,7 @@
             "resim": "/images/Urun/b54b5134-9.jpg",
             "fiyat": "5,5",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "285,73",
+            "tl_liste_fiyati": "285,43",
             "stok_durumu": "0"
         },
         {
@@ -7818,7 +7818,7 @@
             "resim": "/images/Urun/fe91a534-8.jpg",
             "fiyat": "8,76",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "391,84",
+            "tl_liste_fiyati": "391,82",
             "stok_durumu": "1"
         },
         {
@@ -7828,7 +7828,7 @@
             "resim": "/images/Urun/7574df87-9.jpg",
             "fiyat": "9,24",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "413,3",
+            "tl_liste_fiyati": "413,29",
             "stok_durumu": "1"
         },
         {
@@ -7838,7 +7838,7 @@
             "resim": "/images/Urun/cea0319a-4.jpg",
             "fiyat": "99",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "4428,23",
+            "tl_liste_fiyati": "4428,18",
             "stok_durumu": "0"
         },
         {
@@ -7848,7 +7848,7 @@
             "resim": "/images/Urun/e4ed1d73-4.jpg",
             "fiyat": "3,02",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "156,89",
+            "tl_liste_fiyati": "156,73",
             "stok_durumu": "0"
         },
         {
@@ -7858,7 +7858,7 @@
             "resim": "/images/Urun/8c7cbf14-8.jpg",
             "fiyat": "34,61",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1548,1",
+            "tl_liste_fiyati": "1548,07",
             "stok_durumu": "1"
         },
         {
@@ -7868,7 +7868,7 @@
             "resim": "",
             "fiyat": "39,6",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1771,3",
+            "tl_liste_fiyati": "1771,27",
             "stok_durumu": "1"
         },
         {
@@ -7918,7 +7918,7 @@
             "resim": "/images/Urun/cd530aa2-e.jpeg",
             "fiyat": "9,97",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "445,96",
+            "tl_liste_fiyati": "445,94",
             "stok_durumu": "1"
         },
         {
@@ -7928,7 +7928,7 @@
             "resim": "/images/Urun/e823e1f0-0.jpg",
             "fiyat": "77,32",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "4016,89",
+            "tl_liste_fiyati": "4012,7",
             "stok_durumu": "1"
         },
         {
@@ -7938,7 +7938,7 @@
             "resim": "/images/Urun/07bce574-0.jpg",
             "fiyat": "91,8",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "4769,15",
+            "tl_liste_fiyati": "4764,17",
             "stok_durumu": "1"
         },
         {
@@ -7948,7 +7948,7 @@
             "resim": "/images/Urun/491150c2-3.jpg",
             "fiyat": "31,3",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "1626,08",
+            "tl_liste_fiyati": "1624,39",
             "stok_durumu": "1"
         },
         {
@@ -7958,7 +7958,7 @@
             "resim": "/images/Urun/16fb0cc9-b.jpg",
             "fiyat": "58",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "3013,19",
+            "tl_liste_fiyati": "3010,04",
             "stok_durumu": "0"
         },
         {
@@ -7968,7 +7968,7 @@
             "resim": "/images/Urun/4532d009-e.jpg",
             "fiyat": "935",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "48574,72",
+            "tl_liste_fiyati": "48523,99",
             "stok_durumu": "0"
         },
         {
@@ -7978,7 +7978,7 @@
             "resim": "/images/Urun/eb41d0d5-9.jpg",
             "fiyat": "103,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "4647,41",
+            "tl_liste_fiyati": "4647,35",
             "stok_durumu": "1"
         },
         {
@@ -8008,7 +8008,7 @@
             "resim": "/images/Urun/8e88eaab-d.jpg",
             "fiyat": "24,9",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1113,77",
+            "tl_liste_fiyati": "1113,76",
             "stok_durumu": "1"
         },
         {
@@ -8018,7 +8018,7 @@
             "resim": "/images/Urun/095eec63-6.jpeg",
             "fiyat": "3,63",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "188,58",
+            "tl_liste_fiyati": "188,39",
             "stok_durumu": "0"
         },
         {
@@ -8028,7 +8028,7 @@
             "resim": "/images/Urun/a8b05888-a.jpeg",
             "fiyat": "3,66",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "190,14",
+            "tl_liste_fiyati": "189,95",
             "stok_durumu": "0"
         },
         {
@@ -8038,7 +8038,7 @@
             "resim": "/images/Urun/9c4eab7d-7.jpeg",
             "fiyat": "2,94",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "152,74",
+            "tl_liste_fiyati": "152,58",
             "stok_durumu": "1"
         },
         {
@@ -8058,7 +8058,7 @@
             "resim": "/images/Urun/cd97a520-f.jpeg",
             "fiyat": "4,53",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "235,34",
+            "tl_liste_fiyati": "235,09",
             "stok_durumu": "1"
         },
         {
@@ -8068,7 +8068,7 @@
             "resim": "/images/Urun/3ab634d6-4.jpeg",
             "fiyat": "115,17",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "5151,5",
+            "tl_liste_fiyati": "5151,44",
             "stok_durumu": "1"
         },
         {
@@ -8078,7 +8078,7 @@
             "resim": "/images/Urun/69f54815-3.jpeg",
             "fiyat": "13,5",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "603,85",
+            "tl_liste_fiyati": "603,84",
             "stok_durumu": "1"
         },
         {
@@ -8148,7 +8148,7 @@
             "resim": "/images/Urun/cecae8ef-8.jpg",
             "fiyat": "79",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "3533,64",
+            "tl_liste_fiyati": "3533,6",
             "stok_durumu": "0"
         }
     ]
