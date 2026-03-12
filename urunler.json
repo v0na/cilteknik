@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-03-12 08:54:03",
+    "last_updated": "2026-03-12 09:53:03",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -1109,7 +1109,7 @@
             "fiyat": "10,8",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "483,26",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0000262",
@@ -2396,9 +2396,9 @@
             "urun_adi": "LG ROTARY KOMPRESÖR GK113PAE 9000 BTU R410",
             "urun_id": "287",
             "resim": "/images/Urun/4e4fd6b7-1.jpg",
-            "fiyat": "101,75",
+            "fiyat": "91,8",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "4552,97",
+            "tl_liste_fiyati": "4107,73",
             "stok_durumu": "1"
         },
         {
@@ -2569,6 +2569,16 @@
             "fiyat": "31,3",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "1400,57",
+            "stok_durumu": "0"
+        },
+        {
+            "urun_kodu": "K0005033",
+            "urun_adi": "GKN134HNA R410 LG 12.000 BTU KOMPRESÖR",
+            "urun_id": "1111",
+            "resim": "",
+            "fiyat": "94,22",
+            "fiyat_birimi": "USD",
+            "tl_liste_fiyati": "4216,02",
             "stok_durumu": "0"
         },
         {
@@ -2906,9 +2916,9 @@
             "urun_adi": "TP TEKLİ VENTİL 90° GEÇMELİ 2.5 LT  ARÇ BULAŞIK Y",
             "urun_id": "1105",
             "resim": "/images/Urun/94788e03-c.jpg",
-            "fiyat": "2,25",
+            "fiyat": "2,12",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "116,24",
+            "tl_liste_fiyati": "109,52",
             "stok_durumu": "1"
         },
         {
@@ -4532,16 +4542,6 @@
             "stok_durumu": "1"
         },
         {
-            "urun_kodu": "E0000790",
-            "urun_adi": "DUCATI 18UF KONDANSATOR",
-            "urun_id": "547",
-            "resim": "/images/Urun/060cf724-b.jpg",
-            "fiyat": "1,62",
-            "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "72,49",
-            "stok_durumu": "0"
-        },
-        {
             "urun_kodu": "E0000791",
             "urun_adi": "DUCATI 20UF KONDANSATOR",
             "urun_id": "548",
@@ -5352,6 +5352,16 @@
             "stok_durumu": "1"
         },
         {
+            "urun_kodu": "K0005201",
+            "urun_adi": "TECHSUN 30+2,5 KONDANSATOR",
+            "urun_id": "1109",
+            "resim": "",
+            "fiyat": "2,82",
+            "fiyat_birimi": "USD",
+            "tl_liste_fiyati": "126,18",
+            "stok_durumu": "0"
+        },
+        {
             "urun_kodu": "K0005204",
             "urun_adi": "TECHSUN TC5 5LT SPREY POMPA",
             "urun_id": "602",
@@ -5499,7 +5509,7 @@
             "fiyat": "5,47",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "244,76",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "B0004073",
@@ -6349,7 +6359,7 @@
             "fiyat": "2,37",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "122,44",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006645",
@@ -6462,16 +6472,6 @@
             "stok_durumu": "0"
         },
         {
-            "urun_kodu": "K0005298",
-            "urun_adi": "KLİMA KONDANSATOR 45+1.5 ORJ. 5400962205",
-            "urun_id": "723",
-            "resim": "/images/Urun/9a887b9c-c.jpg",
-            "fiyat": "2,93",
-            "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "131,11",
-            "stok_durumu": "0"
-        },
-        {
             "urun_kodu": "B0004084",
             "urun_adi": "ARA BÖLME REZİSTANSI 4295190100",
             "urun_id": "724",
@@ -6496,9 +6496,9 @@
             "urun_adi": "TP TEKLİ VENTİL 90° GEÇMELİ 2.5 LT  ARÇ BULAŞIK K",
             "urun_id": "1100",
             "resim": "/images/Urun/48e9853c-4.jpg",
-            "fiyat": "2,25",
+            "fiyat": "2,12",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "116,24",
+            "tl_liste_fiyati": "109,52",
             "stok_durumu": "1"
         },
         {
@@ -6676,9 +6676,9 @@
             "urun_adi": "GENERAL DRAYER 13,5Gr. 5-2,5mm",
             "urun_id": "744",
             "resim": "/images/Urun/567647c0-a.jpg",
-            "fiyat": "0,77",
+            "fiyat": "0,79",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "39,78",
+            "tl_liste_fiyati": "40,81",
             "stok_durumu": "1"
         },
         {
@@ -6696,9 +6696,9 @@
             "urun_adi": "GENERAL DRAYER 20Gr. 5-2,5mm",
             "urun_id": "746",
             "resim": "/images/Urun/0cc2e26f-b.jpg",
-            "fiyat": "0,86",
+            "fiyat": "0,95",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "44,42",
+            "tl_liste_fiyati": "49,08",
             "stok_durumu": "1"
         },
         {
@@ -6866,9 +6866,9 @@
             "urun_adi": "GENERAL DRAYER 13,5Gr. 6.35-2,5 mm",
             "urun_id": "763",
             "resim": "/images/Urun/70fe8b83-3.jpg",
-            "fiyat": "0,77",
+            "fiyat": "0,79",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "39,78",
+            "tl_liste_fiyati": "40,81",
             "stok_durumu": "1"
         },
         {
@@ -6886,9 +6886,9 @@
             "urun_adi": "GENERAL DRAYER 20Gr. 6.35-2,5mm",
             "urun_id": "765",
             "resim": "/images/Urun/bab2be4b-6.jpg",
-            "fiyat": "0,86",
+            "fiyat": "0,95",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "44,42",
+            "tl_liste_fiyati": "49,08",
             "stok_durumu": "1"
         },
         {
@@ -6896,9 +6896,9 @@
             "urun_adi": "GENERAL DRAYER 30Gr. 6.35-2,5mm",
             "urun_id": "766",
             "resim": "/images/Urun/be4ddb78-1.jpg",
-            "fiyat": "1,36",
+            "fiyat": "1,43",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "70,26",
+            "tl_liste_fiyati": "73,87",
             "stok_durumu": "1"
         },
         {
@@ -6906,9 +6906,9 @@
             "urun_adi": "GENERAL DRAYER 30Gr. 6.35-6.35mm",
             "urun_id": "767",
             "resim": "/images/Urun/4a616961-2.jpg",
-            "fiyat": "1,36",
+            "fiyat": "1,43",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "70,26",
+            "tl_liste_fiyati": "73,87",
             "stok_durumu": "1"
         },
         {
@@ -6916,9 +6916,9 @@
             "urun_adi": "GENERAL DRAYER 40Gr. 6.35-6.35mm",
             "urun_id": "768",
             "resim": "/images/Urun/514f4d3b-d.jpg",
-            "fiyat": "1,6",
+            "fiyat": "1,64",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "82,66",
+            "tl_liste_fiyati": "84,73",
             "stok_durumu": "1"
         },
         {
@@ -6989,7 +6989,7 @@
             "fiyat": "103,9",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "4649,17",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "S0008067",
@@ -7326,9 +7326,9 @@
             "urun_adi": "ŞEBEKE HORTUMU TP REFLEX 150CM EN 61770",
             "urun_id": "805",
             "resim": "/images/Urun/2abbe858-6.jpg",
-            "fiyat": "1,37",
+            "fiyat": "1,33",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "70,78",
+            "tl_liste_fiyati": "68,71",
             "stok_durumu": "1"
         },
         {
@@ -7336,9 +7336,9 @@
             "urun_adi": "ŞEBEKE HORTUMU TP REFLEX 200CM EN 61770",
             "urun_id": "806",
             "resim": "/images/Urun/7f98c46e-2.jpg",
-            "fiyat": "1,63",
+            "fiyat": "1,61",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "84,22",
+            "tl_liste_fiyati": "83,17",
             "stok_durumu": "1"
         },
         {
@@ -7346,9 +7346,9 @@
             "urun_adi": "ŞEBEKE HORTUMU TP REFLEX 300CM EN 61770",
             "urun_id": "807",
             "resim": "/images/Urun/990b6880-5.jpg",
-            "fiyat": "2,08",
+            "fiyat": "1,99",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "107,46",
+            "tl_liste_fiyati": "102,8",
             "stok_durumu": "1"
         },
         {
@@ -7366,9 +7366,9 @@
             "urun_adi": "TP REFLEX  AQUASTOP VENTİL HORTUMLU 1760360200",
             "urun_id": "902",
             "resim": "/images/Urun/7b659960-8.jpg",
-            "fiyat": "8,45",
+            "fiyat": "7,86",
             "fiyat_birimi": "EURO",
-            "tl_liste_fiyati": "436,55",
+            "tl_liste_fiyati": "406,07",
             "stok_durumu": "1"
         },
         {
@@ -7499,7 +7499,7 @@
             "fiyat": "6,65",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "343,56",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006673",
@@ -7509,7 +7509,7 @@
             "fiyat": "11,97",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "618,4",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006674",
@@ -7519,7 +7519,7 @@
             "fiyat": "5,38",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "240,73",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006675",
@@ -7609,7 +7609,7 @@
             "fiyat": "9,13",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "408,54",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0001058",
@@ -8149,6 +8149,16 @@
             "fiyat": "79",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "3534,98",
+            "stok_durumu": "0"
+        },
+        {
+            "urun_kodu": "K0005200",
+            "urun_adi": "TECHSUN 25+2,5 KONDANSATOR",
+            "urun_id": "1110",
+            "resim": "",
+            "fiyat": "1,99",
+            "fiyat_birimi": "USD",
+            "tl_liste_fiyati": "89,04",
             "stok_durumu": "0"
         }
     ]
