@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-04-01 11:05:20",
+    "last_updated": "2026-04-01 13:53:24",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -805,7 +805,7 @@
             "urun_kodu": "E0000107",
             "urun_adi": "VAKUM POMPASI CL 160 8,4m3 TEK KADEME",
             "urun_id": "113",
-            "resim": "/images/Urun/26ad039c-9.jpg",
+            "resim": "",
             "fiyat": "167,5",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "7499,92",
@@ -1109,7 +1109,7 @@
             "fiyat": "10,8",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "483,58",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0000262",
@@ -1193,7 +1193,7 @@
         },
         {
             "urun_kodu": "E0000316",
-            "urun_adi": "SANXIN 1/2\" LİKİT TUTUCU",
+            "urun_adi": "HPEOK PKQ-204 1/2\" LİKİT TUTUCU",
             "urun_id": "156",
             "resim": "/images/Urun/924efa6e-1.jpg",
             "fiyat": "22",
@@ -1575,7 +1575,7 @@
             "urun_kodu": "E0000303",
             "urun_adi": "TECHSUN 450V. 35µf KONDANSATÖR ALÜMİNYUM",
             "urun_id": "987",
-            "resim": "/images/Urun/885ec089-3.jpg",
+            "resim": "/images/Urun/07e0de37-8.jpg",
             "fiyat": "1,88",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "84,18",
@@ -1595,7 +1595,7 @@
             "urun_kodu": "E0000306",
             "urun_adi": "TECHSUN 450V. 50µf KONDANSATÖR ALÜMİNYUM",
             "urun_id": "988",
-            "resim": "/images/Urun/0b2fb86f-7.jpg",
+            "resim": "/images/Urun/ba28d5d3-1.jpg",
             "fiyat": "2,36",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "105,67",
@@ -2575,7 +2575,7 @@
             "urun_kodu": "K0005033",
             "urun_adi": "GKN134HNA R410 LG 12.000 BTU KOMPRESÖR",
             "urun_id": "1111",
-            "resim": "",
+            "resim": "/images/Urun/682c525b-6.jpg",
             "fiyat": "94,22",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "4218,76",
@@ -4522,16 +4522,6 @@
             "stok_durumu": "1"
         },
         {
-            "urun_kodu": "E0000785",
-            "urun_adi": "DUCATI 10UF KONDANSATOR",
-            "urun_id": "1108",
-            "resim": "",
-            "fiyat": "1,13",
-            "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "50,59",
-            "stok_durumu": "1"
-        },
-        {
             "urun_kodu": "E0000789",
             "urun_adi": "DUCATI 16UF KONDANSATOR",
             "urun_id": "546",
@@ -5355,7 +5345,7 @@
             "urun_kodu": "K0005201",
             "urun_adi": "TECHSUN 30+2,5 KONDANSATOR",
             "urun_id": "1109",
-            "resim": "",
+            "resim": "/images/Urun/ad352cb2-3.jpg",
             "fiyat": "2,82",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "126,26",
@@ -5509,7 +5499,7 @@
             "fiyat": "5,47",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "244,92",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "B0004073",
@@ -6359,7 +6349,7 @@
             "fiyat": "2,37",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "122,89",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006645",
@@ -6579,7 +6569,7 @@
             "fiyat": "9,3",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "416,41",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "B0004091",
@@ -6989,7 +6979,7 @@
             "fiyat": "103,9",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "4652,18",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "S0008067",
@@ -7499,7 +7489,7 @@
             "fiyat": "6,65",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "344,83",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006673",
@@ -7509,7 +7499,7 @@
             "fiyat": "11,97",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "620,7",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006674",
@@ -7519,7 +7509,7 @@
             "fiyat": "5,38",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "240,89",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006675",
@@ -7609,7 +7599,7 @@
             "fiyat": "9,13",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "408,8",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0001058",
@@ -7865,7 +7855,7 @@
             "urun_kodu": "K0005324",
             "urun_adi": "TECHSUN KARE APLİK DRENAJ POMPASI TCAS-20",
             "urun_id": "985",
-            "resim": "",
+            "resim": "/images/Urun/f9e1b891-a.jpg",
             "fiyat": "39,6",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "1773,11",
@@ -8155,7 +8145,7 @@
             "urun_kodu": "K0005200",
             "urun_adi": "TECHSUN 25+2,5 KONDANSATOR",
             "urun_id": "1110",
-            "resim": "",
+            "resim": "/images/Urun/731892ab-b.jpg",
             "fiyat": "1,99",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "89,1",
