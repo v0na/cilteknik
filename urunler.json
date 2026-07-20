@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-07-20 08:11:16",
+    "last_updated": "2026-07-20 11:51:21",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -2573,7 +2573,7 @@
         },
         {
             "urun_kodu": "K0005033",
-            "urun_adi": "GKN134HNA R410 LG 12.000 BTU KOMPRESÖR",
+            "urun_adi": "LG ROTARY KOMPRESÖR GKN134HNA R410 12.000 BTU",
             "urun_id": "1111",
             "resim": "/images/Urun/682c525b-6.jpg",
             "fiyat": "94,22",
@@ -2586,9 +2586,9 @@
             "urun_adi": "LG ROTARY KOMPRESÖR GJS222PMA R410 18.250 BTU",
             "urun_id": "1112",
             "resim": "",
-            "fiyat": "0",
+            "fiyat": "134,2",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "0",
+            "tl_liste_fiyati": "6366,04",
             "stok_durumu": "1"
         },
         {
@@ -2596,9 +2596,9 @@
             "urun_adi": "LG ROTARY KOMPRESÖR GVS308PMA R410 24.700BTU",
             "urun_id": "1113",
             "resim": "",
-            "fiyat": "0",
+            "fiyat": "165,35",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "0",
+            "tl_liste_fiyati": "7843,7",
             "stok_durumu": "1"
         },
         {
@@ -2719,7 +2719,7 @@
             "fiyat": "20,9",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "991,43",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0000150",
@@ -2733,7 +2733,7 @@
         },
         {
             "urun_kodu": "K0005036",
-            "urun_adi": "LG SCROLL KOMPRESÖR SB061YMA 5HP R22",
+            "urun_adi": "LG SCROLL KOMPRESÖR SB061YNA 5HP R22",
             "urun_id": "324",
             "resim": "/images/Urun/c83fa8d7-6.jpg",
             "fiyat": "483",
@@ -2966,9 +2966,9 @@
             "urun_adi": "ARÇELİK-BEKO KLİMA KART 5400232812",
             "urun_id": "357",
             "resim": "/images/Urun/16acf3f1-e.jpg",
-            "fiyat": "1812",
+            "fiyat": "3120",
             "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "1800,41",
+            "tl_liste_fiyati": "3100,03",
             "stok_durumu": "1"
         },
         {
@@ -2976,9 +2976,9 @@
             "urun_adi": "ARÇELİK-BEKO KLİMA KART 5400379022",
             "urun_id": "358",
             "resim": "/images/Urun/74d33b32-0.jpg",
-            "fiyat": "906",
+            "fiyat": "2465",
             "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "900,2",
+            "tl_liste_fiyati": "2449,22",
             "stok_durumu": "1"
         },
         {
@@ -2986,9 +2986,9 @@
             "urun_adi": "ARÇELİK-BEKO ALICI GÖZ 5400255601",
             "urun_id": "360",
             "resim": "/images/Urun/6a719d3a-1.jpg",
-            "fiyat": "251,7",
+            "fiyat": "480",
             "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "250,09",
+            "tl_liste_fiyati": "476,93",
             "stok_durumu": "1"
         },
         {
@@ -3002,34 +3002,14 @@
             "stok_durumu": "0"
         },
         {
-            "urun_kodu": "K0005061",
-            "urun_adi": "ARÇELİK-BEKO DIŞ FAN MOTORU 7/9 BTU 5400087825",
-            "urun_id": "362",
-            "resim": "/images/Urun/6a49dcfc-9.jpg",
-            "fiyat": "26,2",
-            "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1242,85",
-            "stok_durumu": "1"
-        },
-        {
             "urun_kodu": "K0005064",
             "urun_adi": "ARÇELİK-BEKO İÇ FAN MOTORU 18 BTU 5400042904",
             "urun_id": "364",
             "resim": "/images/Urun/edd29966-8.jpg",
-            "fiyat": "26,7",
-            "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1266,56",
+            "fiyat": "1915",
+            "fiyat_birimi": "TL",
+            "tl_liste_fiyati": "1902,74",
             "stok_durumu": "1"
-        },
-        {
-            "urun_kodu": "K0005065",
-            "urun_adi": "ARÇELİK-BEKO İÇ FAN MOTORU 24/26 BTU 5400042908",
-            "urun_id": "365",
-            "resim": "/images/Urun/9dfc72aa-1.jpg",
-            "fiyat": "23,5",
-            "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1114,76",
-            "stok_durumu": "0"
         },
         {
             "urun_kodu": "K0005069",
@@ -3116,9 +3096,9 @@
             "urun_adi": "ARÇELİK-BEKO DIŞ FAN MOTORU 18/19 BTU 5400724904",
             "urun_id": "377",
             "resim": "/images/Urun/0e874359-a.jpg",
-            "fiyat": "35",
-            "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1660,3",
+            "fiyat": "2115",
+            "fiyat_birimi": "TL",
+            "tl_liste_fiyati": "2101,46",
             "stok_durumu": "1"
         },
         {
@@ -3616,9 +3596,9 @@
             "urun_adi": "FSTB K54P1168 1.2mt DERİN DOND. TERMOSTAT",
             "urun_id": "1085",
             "resim": "/images/Urun/e8117722-3.jpeg",
-            "fiyat": "3,57",
+            "fiyat": "2,956",
             "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "169,34",
+            "tl_liste_fiyati": "140,22",
             "stok_durumu": "0"
         },
         {
@@ -3626,9 +3606,9 @@
             "urun_adi": "ARÇELİK-BEKO KLİMA KART 5400188308",
             "urun_id": "426",
             "resim": "/images/Urun/e648cae7-3.jpg",
-            "fiyat": "855,7",
+            "fiyat": "906",
             "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "850,22",
+            "tl_liste_fiyati": "900,2",
             "stok_durumu": "1"
         },
         {
@@ -3639,16 +3619,6 @@
             "fiyat": "480,8",
             "fiyat_birimi": "TL",
             "tl_liste_fiyati": "477,72",
-            "stok_durumu": "0"
-        },
-        {
-            "urun_kodu": "K0005188",
-            "urun_adi": "ARÇELİK-BEKO ALICI GÖZ 5400061005",
-            "urun_id": "428",
-            "resim": "/images/Urun/394de884-a.jpg",
-            "fiyat": "1006,7",
-            "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "1000,26",
             "stok_durumu": "0"
         },
         {
@@ -4456,9 +4426,9 @@
             "urun_adi": "ARÇELİK-BEKO KLİMA KART 5400735210",
             "urun_id": "533",
             "resim": "/images/Urun/b0c79075-7.jpg",
-            "fiyat": "1812",
+            "fiyat": "3020",
             "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "1800,41",
+            "tl_liste_fiyati": "3000,67",
             "stok_durumu": "1"
         },
         {
@@ -4466,9 +4436,9 @@
             "urun_adi": "ARÇELİK-BEKO ALICI GÖZ 5400786801",
             "urun_id": "535",
             "resim": "/images/Urun/cc9c5011-0.jpg",
-            "fiyat": "231,5",
+            "fiyat": "300",
             "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "230,02",
+            "tl_liste_fiyati": "298,08",
             "stok_durumu": "1"
         },
         {
@@ -4476,9 +4446,9 @@
             "urun_adi": "ARÇELİK-BEKO ALICI GÖZ 5400934501",
             "urun_id": "536",
             "resim": "/images/Urun/607fe481-2.jpg",
-            "fiyat": "422,8",
+            "fiyat": "355",
             "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "420,1",
+            "tl_liste_fiyati": "352,73",
             "stok_durumu": "1"
         },
         {
@@ -4526,9 +4496,9 @@
             "urun_adi": "ARÇELİK-BEKO KLİMA KART 5400232811",
             "urun_id": "541",
             "resim": "/images/Urun/d1efdc9a-2.jpg",
-            "fiyat": "1812",
+            "fiyat": "3020",
             "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "1800,41",
+            "tl_liste_fiyati": "3000,67",
             "stok_durumu": "1"
         },
         {
@@ -4536,9 +4506,9 @@
             "urun_adi": "ARÇELİK-BEKO KLİMA TERMİSTÖR 5401033401",
             "urun_id": "542",
             "resim": "/images/Urun/a7a45f28-d.jpg",
-            "fiyat": "169,12",
+            "fiyat": "377,5",
             "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "168,04",
+            "tl_liste_fiyati": "375,08",
             "stok_durumu": "1"
         },
         {
@@ -5126,9 +5096,9 @@
             "urun_adi": "ARÇELİK-BEKO KLİMA KART 5400211216",
             "urun_id": "577",
             "resim": "/images/Urun/bbeb3b82-5.jpg",
-            "fiyat": "679,5",
+            "fiyat": "906",
             "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "675,16",
+            "tl_liste_fiyati": "900,2",
             "stok_durumu": "1"
         },
         {
@@ -5136,9 +5106,9 @@
             "urun_adi": "ARÇELİK-BEKO KLİMA KART 5400211206",
             "urun_id": "578",
             "resim": "/images/Urun/6a85bb5b-c.jpg",
-            "fiyat": "241,6",
+            "fiyat": "906",
             "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "240,05",
+            "tl_liste_fiyati": "900,2",
             "stok_durumu": "1"
         },
         {
@@ -5372,16 +5342,6 @@
             "stok_durumu": "1"
         },
         {
-            "urun_kodu": "K0005204",
-            "urun_adi": "TECHSUN TC5 5LT SPREY POMPA",
-            "urun_id": "602",
-            "resim": "/images/Urun/a2259bbe-1.JPG",
-            "fiyat": "16,5",
-            "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "782,71",
-            "stok_durumu": "0"
-        },
-        {
             "urun_kodu": "O0006630",
             "urun_adi": "TP TEKLİ VENTİL 180° GEÇMELİ 2.5 LT VST BULAŞIK K",
             "urun_id": "1106",
@@ -5529,7 +5489,7 @@
             "fiyat": "5,47",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "259,48",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "B0004073",
@@ -6052,16 +6012,6 @@
             "stok_durumu": "1"
         },
         {
-            "urun_kodu": "K0005256",
-            "urun_adi": "ARÇELİK-LG KLİMA KUMANDASI 5401133698",
-            "urun_id": "673",
-            "resim": "/images/Urun/ebec01cd-f.jpg",
-            "fiyat": "129,5",
-            "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "128,68",
-            "stok_durumu": "0"
-        },
-        {
             "urun_kodu": "K0005259",
             "urun_adi": "SAMSUNG UNIVERSAL KUMANDA",
             "urun_id": "674",
@@ -6156,9 +6106,9 @@
             "urun_adi": "ARÇELİK-BEKO İÇ FAN MOTORU 24/26 BTU 5400254625",
             "urun_id": "684",
             "resim": "/images/Urun/6a3e5ae2-4.jpg",
-            "fiyat": "29",
-            "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "1375,67",
+            "fiyat": "2115",
+            "fiyat_birimi": "TL",
+            "tl_liste_fiyati": "2101,46",
             "stok_durumu": "1"
         },
         {
@@ -6379,7 +6329,7 @@
             "fiyat": "2,37",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "128,6",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006645",
@@ -6646,9 +6596,9 @@
             "urun_adi": "ARÇELİK-BEKO CROSS FAN YATAK GRUBU 5400232012",
             "urun_id": "737",
             "resim": "/images/Urun/5bdb7c83-f.jpg",
-            "fiyat": "201,35",
+            "fiyat": "700",
             "fiyat_birimi": "TL",
-            "tl_liste_fiyati": "200,06",
+            "tl_liste_fiyati": "695,52",
             "stok_durumu": "1"
         },
         {
@@ -7519,7 +7469,7 @@
             "fiyat": "6,65",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "360,84",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006673",
@@ -7529,7 +7479,7 @@
             "fiyat": "11,97",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "649,5",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006674",
@@ -7539,7 +7489,7 @@
             "fiyat": "5,25",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "249,05",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006675",
@@ -7629,7 +7579,7 @@
             "fiyat": "9,13",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "433,1",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0001058",
@@ -7973,7 +7923,7 @@
         },
         {
             "urun_kodu": "S0008081",
-            "urun_adi": "DOMEL 496.3.535-6 SÜPÜRGE MOTORU MKM RB17 1000W.",
+            "urun_adi": "DOMEL 496.3.535-6 SÜP. MOTORU MKM 3535 RB17 1000W.",
             "urun_id": "938",
             "resim": "/images/Urun/16fb0cc9-b.jpg",
             "fiyat": "64,02",
@@ -8186,6 +8136,26 @@
             "urun_adi": "DOMEL 464.3.401-8 SUPURGE MOTORU 1400W",
             "urun_id": "1115",
             "resim": "/images/Urun/9475c5c6-9.jpg",
+            "fiyat": "25,37",
+            "fiyat_birimi": "EURO",
+            "tl_liste_fiyati": "1376,59",
+            "stok_durumu": "0"
+        },
+        {
+            "urun_kodu": "S0008085",
+            "urun_adi": "DOMEL 464.3.401 SUPURGE MOTORU 1400W",
+            "urun_id": "1116",
+            "resim": "",
+            "fiyat": "25,37",
+            "fiyat_birimi": "EURO",
+            "tl_liste_fiyati": "1376,59",
+            "stok_durumu": "0"
+        },
+        {
+            "urun_kodu": "S0008086",
+            "urun_adi": "DOMEL 464.3.409-11 SUPURGE MOTORU 800W",
+            "urun_id": "1117",
+            "resim": "",
             "fiyat": "25,37",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "1376,59",
