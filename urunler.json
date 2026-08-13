@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-13 11:52:54",
+    "last_updated": "2026-08-13 13:25:41",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -6909,7 +6909,7 @@
             "fiyat": "27,3",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "1310,82",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "E0001036",
