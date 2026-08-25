@@ -1,5 +1,5 @@
 {
-    "last_updated": "2026-08-25 05:36:48",
+    "last_updated": "2026-08-25 06:58:14",
     "data": [
         {
             "urun_kodu": "B0004025",
@@ -1902,16 +1902,6 @@
             "stok_durumu": "1"
         },
         {
-            "urun_kodu": "B0004021",
-            "urun_adi": "LG 1/6 MSA43 KOMPRESOR",
-            "urun_id": "234",
-            "resim": "/images/Urun/74b89465-d.jpg",
-            "fiyat": "43,25",
-            "fiyat_birimi": "USD",
-            "tl_liste_fiyati": "2079,9",
-            "stok_durumu": "0"
-        },
-        {
             "urun_kodu": "B0004022",
             "urun_adi": "LG 1/5 MA57 KOMPRESOR",
             "urun_id": "235",
@@ -2719,7 +2709,7 @@
             "fiyat": "20,9",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "1005,08",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0000150",
@@ -5489,7 +5479,7 @@
             "fiyat": "5,47",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "263,05",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "B0004073",
@@ -6329,7 +6319,7 @@
             "fiyat": "2,37",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "132,94",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006645",
@@ -7389,7 +7379,7 @@
             "fiyat": "6,5",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "312,59",
-            "stok_durumu": "0"
+            "stok_durumu": "1"
         },
         {
             "urun_kodu": "B0004116",
@@ -7469,7 +7459,7 @@
             "fiyat": "6,65",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "372,98",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006673",
@@ -7479,7 +7469,7 @@
             "fiyat": "11,97",
             "fiyat_birimi": "EURO",
             "tl_liste_fiyati": "671,38",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006674",
@@ -7489,7 +7479,7 @@
             "fiyat": "5,25",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "252,47",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "O0006675",
@@ -7579,7 +7569,7 @@
             "fiyat": "9,13",
             "fiyat_birimi": "USD",
             "tl_liste_fiyati": "439,07",
-            "stok_durumu": "1"
+            "stok_durumu": "0"
         },
         {
             "urun_kodu": "E0001058",
